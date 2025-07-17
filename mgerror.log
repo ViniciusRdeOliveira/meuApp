@@ -1,0 +1,844 @@
+﻿ <15956385074600428> 03/07/2025 10:07:01.016     [Error  ] - Unexpected error, Rich client could not be started : error -160, command "MgxpaRIA.exe "/ini=C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\execution.properties|StartedFromStudio"", path ""
+ <551034219253963392> 03/07/2025 13:40:37.033     [Error  ] - Aborting context 551034219253963392, Program: "Main Program".
+ <382787754793670336> 03/07/2025 13:51:09.788     [Error  ] - Aborting context 382787754793670336, Program: "Main Program".
+ <330405462482323904> 03/07/2025 13:53:47.136     [Error  ] - Aborting context 330405462482323904, Program: "Main Program".
+ <465110276392654080> 03/07/2025 13:54:56.453     [Error  ] - Aborting context 465110276392654080, Program: "Main Program".
+ <343555026484703424> 03/07/2025 15:17:18.275     [Error  ] - Aborting context 343555026484703424, Program: "Main Program".
+ <420409720663081728> 03/07/2025 15:48:52.646     [Error  ] - Aborting context 420409720663081728, Program: "Main Program".
+ <69515246190815808> 03/07/2025 15:54:56.630     [Error  ] - Aborting context 69515246190815808, Program: "Main Program".
+ <384344019664422144> 03/07/2025 16:09:59.162     [Error  ] - Aborting context 384344019664422144, Program: "Main Program".
+ <514142347393527808> 03/07/2025 16:41:29.868     [Error  ] - Aborting context 514142347393527808, Program: "Main Program".
+ <327141070087744704> 04/07/2025 08:44:29.245     [Error  ] - Aborting context 327141070087744704, Program: "Main Program".
+ <562877885757297472> 04/07/2025 08:47:42.033     [Error  ] - Aborting context 562877885757297472, Program: "Main Program".
+ <61326531450279872> 04/07/2025 09:07:00.589     [Error  ] - Aborting context 61326531450279872, Program: "Main Program".
+ <18230180472494572> 04/07/2025 09:25:11.627     [Error  ] - Aborting context 18230180472494572, Program: "Main Program".
+ <175004667462771104> 04/07/2025 09:25:55.726     [Error  ] - Aborting context 175004667462771104, Program: "Main Program".
+ <444539817463408576> 04/07/2025 09:32:56.541     [Error  ] - Aborting context 444539817463408576, Program: "Main Program".
+ <276998252520399520> 04/07/2025 10:36:02.353     [Error  ] - Aborting context 276998252520399520, Program: "Main Program".
+ <203530884173698208> 04/07/2025 11:06:36.872     [Error  ] - Aborting context 203530884173698208, Program: "Main Program".
+ <338819198298170560> 04/07/2025 11:10:14.077     [Error  ] - Aborting context 338819198298170560, Program: "Main Program".
+ <205465195161122624> 04/07/2025 11:27:11.819     [Error  ] - Aborting context 205465195161122624, Program: "Main Program".
+ <536843617171476224> 04/07/2025 11:27:11.821     [Error  ] - Aborting context 536843617171476224, Program: "Main Program".
+ <281186639283278240> 04/07/2025 11:36:41.223     [Error  ] - Aborting context 281186639283278240, Program: "Main Program".
+ <565660877974958656> 04/07/2025 11:37:31.309     [Error  ] - Aborting context 565660877974958656, Program: "Main Program".
+ <301515524875344576> 04/07/2025 11:39:27.128     [Error  ] - Aborting context 301515524875344576, Program: "Main Program".
+ <575120235865379968> 04/07/2025 11:41:06.806     [Error  ] - Aborting context 575120235865379968, Program: "Main Program".
+ <327235866496985536> 04/07/2025 13:36:33.880     [Error  ] - Aborting context 327235866496985536, Program: "Main Program".
+ <464727410591529024> 04/07/2025 13:44:07.625     [Error  ] - Aborting context 464727410591529024, Program: "Main Program".
+ <151129597358653088> 04/07/2025 13:50:53.902     [Error  ] - Aborting context 151129597358653088, Program: "Main Program".
+ <289845536593149888> 04/07/2025 14:05:58.570     [Error  ] - Flow - Verify Warning: Can't execute client operation, because execution started in a server-side task prefix (see execution path). [Not Executed]
+ <289845536593149888> 04/07/2025 14:06:41.003     [Error  ] - Aborting context 289845536593149888, Program: "Main Program".
+ <231651636314242080> 04/07/2025 14:07:16.583     [Error  ] - Flow - Verify Warning: Can't execute client operation, because execution started in a server-side task prefix (see execution path). [Not Executed]
+ <231651636314242080> 04/07/2025 14:07:22.757     [Error  ] - Aborting context 231651636314242080, Program: "Main Program".
+ <296025990299265600> 04/07/2025 14:34:35.474     [Error  ] - Flow - Verify Warning: Can't execute client operation, because execution started in a server-side task prefix (see execution path). [Not Executed]
+ <296025990299265600> 04/07/2025 14:34:41.473     [Error  ] - Aborting context 296025990299265600, Program: "Main Program".
+ <17581080607726000> 04/07/2025 14:38:44.455     [Error  ] - Flow - Verify Warning: Can't execute client operation, because execution started in a server-side task prefix (see execution path). [Not Executed]
+ <17581080607726000> 04/07/2025 14:40:03.799     [Error  ] - Aborting context 17581080607726000, Program: "Main Program".
+ <196019852082802528> 04/07/2025 14:42:41.114     [Error  ] - Flow - Verify Warning: Can't execute client operation, because execution started in a server-side task prefix (see execution path). [Not Executed]
+ <196019852082802528> 04/07/2025 14:47:18.826     [Error  ] - Aborting context 196019852082802528, Program: "Main Program".
+ <34778626568668492> 04/07/2025 15:10:28.546     [Error  ] - Flow - Verify Warning: Can't execute client operation, because execution started in a server-side task prefix (see execution path). [Not Executed]
+ <34778626568668492> 04/07/2025 15:12:41.113     [Error  ] - Aborting context 34778626568668492, Program: "Main Program".
+ <249320340262306624> 04/07/2025 15:14:31.276     [Error  ] - Flow - Verify Warning: Can't execute client operation, because execution started in a server-side task prefix (see execution path). [Not Executed]
+ <249320340262306624> 04/07/2025 15:16:29.031     [Error  ] - Aborting context 249320340262306624, Program: "Main Program".
+ <156756954282271200> 04/07/2025 15:23:57.942     [Error  ] - Flow - Verify Warning: Can't execute client operation, because execution started in a server-side task prefix (see execution path). [Not Executed]
+ <156756954282271200> 04/07/2025 15:24:30.930     [Error  ] - Aborting context 156756954282271200, Program: "Main Program".
+ <319632689500933952> 04/07/2025 15:26:44.712     [Error  ] - Flow - Verify Warning: Can't execute client operation, because execution started in a server-side task prefix (see execution path). [Not Executed]
+ <319632689500933952> 04/07/2025 15:27:49.971     [Error  ] - Aborting context 319632689500933952, Program: "Main Program".
+ <569884575896898496> 04/07/2025 16:11:49.068     [Error  ] - Flow - Verify Warning: Can't execute client operation, because execution started in a server-side task prefix (see execution path). [Not Executed]
+ <398441552247992704> 04/07/2025 16:52:12.209     [Error  ] - Flow - Verify Warning: Can't execute client operation, because execution started in a server-side task prefix (see execution path). [Not Executed]
+ <398441552247992704> 04/07/2025 16:52:41.988     [Error  ] - Aborting context 398441552247992704, Program: "Main Program".
+ <84385848799239408> 07/07/2025 08:10:36.211     [Error  ] - Flow - Verify Warning: Can't execute client operation, because execution started in a server-side task prefix (see execution path). [Not Executed]
+ <84385848799239408> 07/07/2025 08:12:27.382     [Error  ] - Aborting context 84385848799239408, Program: "Main Program".
+ <20874452773821128> 07/07/2025 08:47:25.528     [Error  ] - Flow - Verify Warning: Can't execute client operation, because execution started in a server-side task prefix (see execution path). [Not Executed]
+ <20874452773821128> 07/07/2025 08:47:56.107     [Error  ] - Aborting context 20874452773821128, Program: "Main Program".
+ <170913905688645760> 07/07/2025 08:52:05.790     [Error  ] - Flow - Verify Warning: Can't execute client operation, because execution started in a server-side task prefix (see execution path). [Not Executed]
+ <170913905688645760> 07/07/2025 08:52:19.442     [Error  ] - Aborting context 170913905688645760, Program: "Main Program".
+ <12628149674627876> 07/07/2025 08:53:21.735     [Error  ] - Flow - Verify Warning: Can't execute client operation, because execution started in a server-side task prefix (see execution path). [Not Executed]
+ <12628149674627876> 07/07/2025 08:53:30.496     [Error  ] - Aborting context 12628149674627876, Program: "Main Program".
+ <561861273449910080> 07/07/2025 08:54:23.515     [Error  ] - Flow - Verify Warning: Can't execute client operation, because execution started in a server-side task prefix (see execution path). [Not Executed]
+ <561861273449910080> 07/07/2025 08:54:44.908     [Error  ] - Aborting context 561861273449910080, Program: "Main Program".
+ <58591969238698624> 07/07/2025 08:55:31.152     [Error  ] - Flow - Verify Warning: Can't execute client operation, because execution started in a server-side task prefix (see execution path). [Not Executed]
+ <58591969238698624> 07/07/2025 08:56:00.800     [Error  ] - Aborting context 58591969238698624, Program: "Main Program".
+ <490953252900173248> 07/07/2025 09:02:15.419     [Error  ] - Flow - Verify Warning: Can't execute client operation, because execution started in a server-side task prefix (see execution path). [Not Executed]
+ <490953252900173248> 07/07/2025 09:02:32.673     [Error  ] - Aborting context 490953252900173248, Program: "Main Program".
+ <364102385185020288> 07/07/2025 09:06:35.444     [Error  ] - Flow - Verify Warning: Can't execute client operation, because execution started in a server-side task prefix (see execution path). [Not Executed]
+ <364102385185020288> 07/07/2025 09:06:52.176     [Error  ] - Aborting context 364102385185020288, Program: "Main Program".
+ <572699212954112128> 07/07/2025 09:07:24.860     [Error  ] - Flow - Verify Warning: Can't execute client operation, because execution started in a server-side task prefix (see execution path). [Not Executed]
+ <572699212954112128> 07/07/2025 09:07:37.554     [Error  ] - Aborting context 572699212954112128, Program: "Main Program".
+ <442961515661363584> 07/07/2025 09:12:28.536     [Error  ] - Flow - Verify Warning: Can't execute client operation, because execution started in a server-side task prefix (see execution path). [Not Executed]
+ <442961515661363584> 07/07/2025 09:12:47.298     [Error  ] - Aborting context 442961515661363584, Program: "Main Program".
+ <345464997041024384> 07/07/2025 09:13:42.843     [Error  ] - Flow - Verify Warning: Can't execute client operation, because execution started in a server-side task prefix (see execution path). [Not Executed]
+ <345464997041024384> 07/07/2025 09:13:54.098     [Error  ] - Aborting context 345464997041024384, Program: "Main Program".
+ <294718691203324992> 07/07/2025 09:14:23.694     [Error  ] - Flow - Verify Warning: Can't execute client operation, because execution started in a server-side task prefix (see execution path). [Not Executed]
+ <420068250795635264> 07/07/2025 09:15:32.000     [Error  ] - Flow - Verify Warning: Can't execute client operation, because execution started in a server-side task prefix (see execution path). [Not Executed]
+ <420068250795635264> 07/07/2025 09:15:45.734     [Error  ] - Aborting context 420068250795635264, Program: "Main Program".
+ <386416683688373120> 07/07/2025 09:33:27.795     [Error  ] - Flow - Verify Warning: Can't execute client operation, because execution started in a server-side task prefix (see execution path). [Not Executed]
+ <386416683688373120> 07/07/2025 09:34:20.942     [Error  ] - Aborting context 386416683688373120, Program: "Main Program".
+ <14883568233464744> 07/07/2025 09:38:19.985     [Error  ] - Flow - Verify Warning: Can't execute client operation, because execution started in a server-side task prefix (see execution path). [Not Executed]
+ <14883568233464744> 07/07/2025 09:43:33.488     [Error  ] - Aborting context 14883568233464744, Program: "Main Program".
+ <478865173933952832> 07/07/2025 09:46:12.913     [Error  ] - Flow - Verify Warning: Can't execute client operation, because execution started in a server-side task prefix (see execution path). [Not Executed]
+ <316652407074828032> 07/07/2025 09:48:17.287     [Error  ] - Flow - Verify Warning: Can't execute client operation, because execution started in a server-side task prefix (see execution path). [Not Executed]
+ <316652407074828032> 07/07/2025 09:49:29.960     [Error  ] - Aborting context 316652407074828032, Program: "Main Program".
+ <40676640766172664> 07/07/2025 09:52:12.243     [Error  ] - Flow - Verify Warning: Can't execute client operation, because execution started in a server-side task prefix (see execution path). [Not Executed]
+ <40866108610226560> 07/07/2025 09:53:35.156     [Error  ] - Flow - Verify Warning: Can't execute client operation, because execution started in a server-side task prefix (see execution path). [Not Executed]
+ <40676640766172664> 07/07/2025 09:53:55.890     [Error  ] - Aborting context 40676640766172664, Program: "Main Program".
+ <40866108610226560> 07/07/2025 09:53:55.893     [Error  ] - Aborting context 40866108610226560, Program: "Main Program".
+ <255232535222499136> 07/07/2025 09:55:29.266     [Error  ] - Flow - Verify Warning: Can't execute client operation, because execution started in a server-side task prefix (see execution path). [Not Executed]
+ <255232535222499136> 07/07/2025 09:56:01.756     [Error  ] - Aborting context 255232535222499136, Program: "Main Program".
+ <231482345079147840> 07/07/2025 09:58:46.441     [Error  ] - Flow - Verify Warning: Can't execute client operation, because execution started in a server-side task prefix (see execution path). [Not Executed]
+ <231482345079147840> 07/07/2025 09:59:12.837     [Error  ] - Aborting context 231482345079147840, Program: "Main Program".
+ <501468727794120256> 07/07/2025 10:00:20.729     [Error  ] - Flow - Verify Warning: Can't execute client operation, because execution started in a server-side task prefix (see execution path). [Not Executed]
+ <501468727794120256> 07/07/2025 10:03:48.682     [Error  ] - Aborting context 501468727794120256, Program: "Main Program".
+ <104299908526648416> 07/07/2025 10:04:33.875     [Error  ] - Flow - Verify Warning: Can't execute client operation, because execution started in a server-side task prefix (see execution path). [Not Executed]
+ <104299908526648416> 07/07/2025 10:04:56.984     [Error  ] - Aborting context 104299908526648416, Program: "Main Program".
+ <431542403352162944> 07/07/2025 10:16:55.795     [Error  ] - Flow - Verify Warning: Can't execute client operation, because execution started in a server-side task prefix (see execution path). [Not Executed]
+ <124535285029762016> 07/07/2025 10:17:25.403     [Error  ] - Flow - Verify Warning: Can't execute client operation, because execution started in a server-side task prefix (see execution path). [Not Executed]
+ <291918659422664128> 07/07/2025 10:17:34.677     [Error  ] - Flow - Verify Warning: Can't execute client operation, because execution started in a server-side task prefix (see execution path). [Not Executed]
+ <124535285029762016> 07/07/2025 10:18:01.589     [Error  ] - Aborting context 124535285029762016, Program: "Main Program".
+ <291918659422664128> 07/07/2025 10:18:01.590     [Error  ] - Aborting context 291918659422664128, Program: "Main Program".
+ <431542403352162944> 07/07/2025 10:18:01.591     [Error  ] - Aborting context 431542403352162944, Program: "Main Program".
+ <15704202995930272> 07/07/2025 10:20:07.455     [Error  ] - Flow - Verify Warning: Can't execute client operation, because execution started in a server-side task prefix (see execution path). [Not Executed]
+ <469231469585505216> 07/07/2025 10:20:20.752     [Error  ] - Flow - Verify Warning: Can't execute client operation, because execution started in a server-side task prefix (see execution path). [Not Executed]
+ <512213151619524096> 07/07/2025 10:20:47.728     [Error  ] - Flow - Verify Warning: Can't execute client operation, because execution started in a server-side task prefix (see execution path). [Not Executed]
+ <15704202995930272> 07/07/2025 10:20:57.311     [Error  ] - Aborting context 15704202995930272, Program: "Main Program".
+ <469231469585505216> 07/07/2025 10:20:57.312     [Error  ] - Aborting context 469231469585505216, Program: "Main Program".
+ <512213151619524096> 07/07/2025 10:20:57.313     [Error  ] - Aborting context 512213151619524096, Program: "Main Program".
+ <498624775840731456> 07/07/2025 10:23:32.307     [Error  ] - Flow - Verify Warning: Can't execute client operation, because execution started in a server-side task prefix (see execution path). [Not Executed]
+ <325510039194623168> 07/07/2025 10:23:40.321     [Error  ] - Flow - Verify Warning: Can't execute client operation, because execution started in a server-side task prefix (see execution path). [Not Executed]
+ <498624775840731456> 07/07/2025 10:24:06.650     [Error  ] - Aborting context 498624775840731456, Program: "Main Program".
+ <261812124830297664> 07/07/2025 10:25:33.302     [Error  ] - Flow - Verify Warning: Can't execute client operation, because execution started in a server-side task prefix (see execution path). [Not Executed]
+ <353468002507931840> 07/07/2025 10:26:40.946     [Error  ] - Flow - Verify Warning: Can't execute client operation, because execution started in a server-side task prefix (see execution path). [Not Executed]
+ <105706593853074656> 07/07/2025 10:26:50.364     [Error  ] - Flow - Verify Warning: Can't execute client operation, because execution started in a server-side task prefix (see execution path). [Not Executed]
+ <105706593853074656> 07/07/2025 10:27:01.119     [Error  ] - Aborting context 105706593853074656, Program: "Main Program".
+ <261812124830297664> 07/07/2025 10:27:01.121     [Error  ] - Aborting context 261812124830297664, Program: "Main Program".
+ <353468002507931840> 07/07/2025 10:27:01.123     [Error  ] - Aborting context 353468002507931840, Program: "Main Program".
+ <146784198793402272> 07/07/2025 10:27:49.173     [Error  ] - Flow - Verify Warning: Can't execute client operation, because execution started in a server-side task prefix (see execution path). [Not Executed]
+ <146784198793402272> 07/07/2025 10:30:00.027     [Error  ] - Aborting context 146784198793402272, Program: "Main Program".
+ <330363420051023232> 07/07/2025 10:38:06.374     [Error  ] - Flow - Verify Warning: Can't execute client operation, because execution started in a server-side task prefix (see execution path). [Not Executed]
+ <397108826867280576> 07/07/2025 10:38:35.022     [Error  ] - Flow - Verify Warning: Can't execute client operation, because execution started in a server-side task prefix (see execution path). [Not Executed]
+ <411899568311525696> 07/07/2025 10:38:40.811     [Error  ] - Flow - Verify Warning: Can't execute client operation, because execution started in a server-side task prefix (see execution path). [Not Executed]
+ <330363420051023232> 07/07/2025 10:46:12.248     [Error  ] - Aborting context 330363420051023232, Program: "Main Program".
+ <397108826867280576> 07/07/2025 10:46:12.250     [Error  ] - Aborting context 397108826867280576, Program: "Main Program".
+ <411899568311525696> 07/07/2025 10:46:12.252     [Error  ] - Aborting context 411899568311525696, Program: "Main Program".
+ <215634117597224544> 07/07/2025 10:56:18.151     [Error  ] - Flow - Verify Warning: Can't execute client operation, because execution started in a server-side task prefix (see execution path). [Not Executed]
+ <106400666715051536> 07/07/2025 10:56:34.588     [Error  ] - Flow - Verify Warning: Can't execute client operation, because execution started in a server-side task prefix (see execution path). [Not Executed]
+ <124093719583810336> 07/07/2025 10:56:39.510     [Error  ] - Flow - Verify Warning: Can't execute client operation, because execution started in a server-side task prefix (see execution path). [Not Executed]
+ <189459423404778400> 07/07/2025 11:12:08.882     [Error  ] - Flow - Verify Warning: Can't execute client operation, because execution started in a server-side task prefix (see execution path). [Not Executed]
+ <353457825794375424> 07/07/2025 11:12:17.320     [Error  ] - Flow - Verify Warning: Can't execute client operation, because execution started in a server-side task prefix (see execution path). [Not Executed]
+ <226797877999533632> 07/07/2025 11:41:53.184     [Error  ] - Flow - Verify Warning: Can't execute client operation, because execution started in a server-side task prefix (see execution path). [Not Executed]
+ <344243906791236608> 07/07/2025 11:42:05.476     [Error  ] - Flow - Verify Warning: Can't execute client operation, because execution started in a server-side task prefix (see execution path). [Not Executed]
+ <226797877999533632> 07/07/2025 11:42:44.098     [Error  ] - Aborting context 226797877999533632, Program: "Main Program".
+ <344243906791236608> 07/07/2025 11:42:44.102     [Error  ] - Aborting context 344243906791236608, Program: "Main Program".
+ <437715741978547648> 07/07/2025 11:44:51.060     [Error  ] - Flow - Verify Warning: Can't execute client operation, because execution started in a server-side task prefix (see execution path). [Not Executed]
+ <358465713268241856> 07/07/2025 11:44:58.811     [Error  ] - Flow - Verify Warning: Can't execute client operation, because execution started in a server-side task prefix (see execution path). [Not Executed]
+ <358465713268241856> 07/07/2025 11:45:14.669     [Error  ] - Aborting context 358465713268241856, Program: "Main Program".
+ <437715741978547648> 07/07/2025 11:45:14.670     [Error  ] - Aborting context 437715741978547648, Program: "Main Program".
+ <183788179711958752> 07/07/2025 11:47:35.605     [Error  ] - Flow - Verify Warning: Can't execute client operation, because execution started in a server-side task prefix (see execution path). [Not Executed]
+ <301565564586222912> 07/07/2025 11:47:46.033     [Error  ] - Flow - Verify Warning: Can't execute client operation, because execution started in a server-side task prefix (see execution path). [Not Executed]
+ <183788179711958752> 07/07/2025 11:48:05.689     [Error  ] - Aborting context 183788179711958752, Program: "Main Program".
+ <300842825413168000> 07/07/2025 11:48:51.346     [Error  ] - Flow - Verify Warning: Can't execute client operation, because execution started in a server-side task prefix (see execution path). [Not Executed]
+ <541612758890002560> 07/07/2025 11:51:20.722     [Error  ] - Flow - Verify Warning: Can't execute client operation, because execution started in a server-side task prefix (see execution path). [Not Executed]
+ <406486918151688128> 07/07/2025 11:51:39.708     [Error  ] - Flow - Verify Warning: Can't execute client operation, because execution started in a server-side task prefix (see execution path). [Not Executed]
+ <541612758890002560> 07/07/2025 11:51:57.961     [Error  ] - Aborting context 541612758890002560, Program: "Main Program".
+ <41205930737127008> 07/07/2025 13:10:52.583     [Error  ] - Flow - Verify Warning: Can't execute client operation, because execution started in a server-side task prefix (see execution path). [Not Executed]
+ <159481967038421152> 07/07/2025 13:11:02.134     [Error  ] - Flow - Verify Warning: Can't execute client operation, because execution started in a server-side task prefix (see execution path). [Not Executed]
+ <41205930737127008> 07/07/2025 13:11:30.097     [Error  ] - Aborting context 41205930737127008, Program: "Main Program".
+ <295916707547310528> 07/07/2025 13:12:59.912     [Error  ] - Flow - Verify Warning: Can't execute client operation, because execution started in a server-side task prefix (see execution path). [Not Executed]
+ <442485110600225344> 07/07/2025 13:13:58.336     [Error  ] - Flow - Verify Warning: Can't execute client operation, because execution started in a server-side task prefix (see execution path). [Not Executed]
+ <435957942219333312> 07/07/2025 13:15:02.107     [Error  ] - Flow - Verify Warning: Can't execute client operation, because execution started in a server-side task prefix (see execution path). [Not Executed]
+ <333968969948145856> 07/07/2025 13:16:21.516     [Error  ] - Flow - Verify Warning: Can't execute client operation, because execution started in a server-side task prefix (see execution path). [Not Executed]
+ <442485110600225344> 07/07/2025 13:16:54.066     [Error  ] - Aborting context 442485110600225344, Program: "Main Program".
+ <446336830168328448> 07/07/2025 13:19:42.142     [Error  ] - Flow - Verify Warning: Can't execute client operation, because execution started in a server-side task prefix (see execution path). [Not Executed]
+ <122932223428131808> 07/07/2025 13:21:28.760     [Error  ] - Flow - Verify Warning: Can't execute client operation, because execution started in a server-side task prefix (see execution path). [Not Executed]
+ <122932223428131808> 07/07/2025 13:21:45.125     [Error  ] - Aborting context 122932223428131808, Program: "Main Program".
+ <250608825503114880> 07/07/2025 13:23:32.182     [Error  ] - Flow - Verify Warning: Can't execute client operation, because execution started in a server-side task prefix (see execution path). [Not Executed]
+ <250608825503114880> 07/07/2025 13:23:49.451     [Error  ] - Aborting context 250608825503114880, Program: "Main Program".
+ <158979351552185888> 07/07/2025 13:24:41.506     [Error  ] - Flow - Verify Warning: Can't execute client operation, because execution started in a server-side task prefix (see execution path). [Not Executed]
+ <158979351552185888> 07/07/2025 13:25:13.125     [Error  ] - Aborting context 158979351552185888, Program: "Main Program".
+ <1136587656423868> 07/07/2025 13:26:14.562     [Error  ] - Flow - Verify Warning: Can't execute client operation, because execution started in a server-side task prefix (see execution path). [Not Executed]
+ <484488173923487744> 07/07/2025 13:26:54.980     [Error  ] - Flow - Verify Warning: Can't execute client operation, because execution started in a server-side task prefix (see execution path). [Not Executed]
+ <324291087106691264> 07/07/2025 13:30:36.590     [Error  ] - Flow - Verify Warning: Can't execute client operation, because execution started in a server-side task prefix (see execution path). [Not Executed]
+ <49148603730761368> 07/07/2025 13:33:23.730     [Error  ] - Flow - Verify Warning: Can't execute client operation, because execution started in a server-side task prefix (see execution path). [Not Executed]
+ <49148603730761368> 07/07/2025 13:34:56.628     [Error  ] - Aborting context 49148603730761368, Program: "Main Program".
+ <324291087106691264> 07/07/2025 13:34:56.630     [Error  ] - Aborting context 324291087106691264, Program: "Main Program".
+ <498685568145351680> 07/07/2025 13:39:05.265     [Error  ] - Flow - Verify Warning: Can't execute client operation, because execution started in a server-side task prefix (see execution path). [Not Executed]
+ <321544313359016064> 07/07/2025 13:39:20.939     [Error  ] - Flow - Verify Warning: Can't execute client operation, because execution started in a server-side task prefix (see execution path). [Not Executed]
+ <130878503639788496> 07/07/2025 13:39:27.394     [Error  ] - Flow - Verify Warning: Can't execute client operation, because execution started in a server-side task prefix (see execution path). [Not Executed]
+ <130878503639788496> 07/07/2025 13:42:24.999     [Error  ] - Aborting context 130878503639788496, Program: "Main Program".
+ <321544313359016064> 07/07/2025 13:42:25.003     [Error  ] - Aborting context 321544313359016064, Program: "Main Program".
+ <498685568145351680> 07/07/2025 13:42:25.007     [Error  ] - Aborting context 498685568145351680, Program: "Main Program".
+ <365453018365351872> 07/07/2025 13:43:53.152     [Error  ] - Flow - Verify Warning: Can't execute client operation, because execution started in a server-side task prefix (see execution path). [Not Executed]
+ <298730212543973696> 07/07/2025 13:44:47.444     [Error  ] - Flow - Verify Warning: Can't execute client operation, because execution started in a server-side task prefix (see execution path). [Not Executed]
+ <15940733067741494> 07/07/2025 13:45:42.132     [Error  ] - Flow - Verify Warning: Can't execute client operation, because execution started in a server-side task prefix (see execution path). [Not Executed]
+ <157110698382192544> 07/07/2025 13:46:56.516     [Error  ] - Flow - Verify Warning: Can't execute client operation, because execution started in a server-side task prefix (see execution path). [Not Executed]
+ <399554268347777216> 07/07/2025 13:51:24.501     [Error  ] - Flow - Verify Warning: Can't execute client operation, because execution started in a server-side task prefix (see execution path). [Not Executed]
+ <399554268347777216> 07/07/2025 13:57:28.342     [Error  ] - Aborting context 399554268347777216, Program: "Main Program".
+ <116470644345755760> 07/07/2025 14:01:13.216     [Error  ] - Flow - Verify Warning: Can't execute client operation, because execution started in a server-side task prefix (see execution path). [Not Executed]
+ <116470644345755760> 07/07/2025 14:01:38.974     [Error  ] - Aborting context 116470644345755760, Program: "Main Program".
+ <331963580994308928> 07/07/2025 14:02:11.706     [Error  ] - Flow - Verify Warning: Can't execute client operation, because execution started in a server-side task prefix (see execution path). [Not Executed]
+ <331963580994308928> 07/07/2025 14:02:37.373     [Error  ] - Aborting context 331963580994308928, Program: "Main Program".
+ <524664539424837504> 07/07/2025 14:04:34.547     [Error  ] - Flow - Verify Warning: Can't execute client operation, because execution started in a server-side task prefix (see execution path). [Not Executed]
+ <524664539424837504> 07/07/2025 14:05:02.940     [Error  ] - Aborting context 524664539424837504, Program: "Main Program".
+ <59029423708433272> 07/07/2025 14:10:58.656     [Error  ] - Flow - Verify Warning: Can't execute client operation, because execution started in a server-side task prefix (see execution path). [Not Executed]
+ <389534073703573632> 07/07/2025 14:11:40.782     [Error  ] - Flow - Verify Warning: Can't execute client operation, because execution started in a server-side task prefix (see execution path). [Not Executed]
+ <494642153431396032> 07/07/2025 15:18:13.358     [Error  ] - Unable to open the Data Source: Customers  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Customers".
+ <494642153431396032> 07/07/2025 15:18:13.360     [Error  ] - Error: browser program failed to open..., Program: "Main Program".
+ <494642153431396032> 07/07/2025 15:18:13.360     [Error  ] - EndTaskRequest(): Unable to open the Data Source: Customers : Customers no such column: Coutry : "RunMe" ("GettingStarted")  (msgid "3"), Program: "Main Program".
+ <545773896741637248> 07/07/2025 15:19:08.356     [Error  ] - Unable to open the Data Source: Customers  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Customers".
+ <545773896741637248> 07/07/2025 15:19:08.357     [Error  ] - Error: browser program failed to open..., Program: "Main Program".
+ <545773896741637248> 07/07/2025 15:19:08.358     [Error  ] - EndTaskRequest(): Unable to open the Data Source: Customers : Customers no such column: Coutry : "RunMe" ("GettingStarted")  (msgid "6"), Program: "Main Program".
+ <508842972107461184> 07/07/2025 15:19:29.314     [Error  ] - Unable to open the Data Source: Customers  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Customers".
+ <508842972107461184> 07/07/2025 15:19:29.314     [Error  ] - Error: browser program failed to open..., Program: "Main Program".
+ <508842972107461184> 07/07/2025 15:19:29.315     [Error  ] - EndTaskRequest(): Unable to open the Data Source: Customers : Customers no such column: Coutry : "RunMe" ("GettingStarted")  (msgid "9"), Program: "Main Program".
+ <238501223936351936> 07/07/2025 15:21:12.427     [Error  ] - Unable to open the Data Source: Customers  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Customers".
+ <238501223936351936> 07/07/2025 15:21:12.428     [Error  ] - Error: browser program failed to open..., Program: "Main Program".
+ <238501223936351936> 07/07/2025 15:21:12.428     [Error  ] - EndTaskRequest(): Unable to open the Data Source: Customers : Customers no such column: Coutry : "RunMe" ("GettingStarted")  (msgid "14"), Program: "Main Program".
+ <38769978507888528> 07/07/2025 15:23:08.461     [Error  ] - Unable to open the Data Source: Customers  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Customers".
+ <38769978507888528> 07/07/2025 15:23:08.461     [Error  ] - Error: browser program failed to open..., Program: "Main Program".
+ <38769978507888528> 07/07/2025 15:23:08.462     [Error  ] - EndTaskRequest(): Unable to open the Data Source: Customers : Customers no such column: Coutry : "Customers" ("GettingStarted")  (msgid "17"), Program: "Main Program".
+ <252858227951396352> 07/07/2025 15:23:28.570     [Error  ] - Unable to open the Data Source: Customers  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Customers".
+ <252858227951396352> 07/07/2025 15:23:28.570     [Error  ] - Error: browser program failed to open..., Program: "Main Program".
+ <252858227951396352> 07/07/2025 15:23:28.571     [Error  ] - EndTaskRequest(): Unable to open the Data Source: Customers : Customers no such column: Coutry : "RunMe" ("GettingStarted")  (msgid "21"), Program: "Main Program".
+ <263243049334128320> 07/07/2025 15:25:27.541     [Error  ] - Unable to open the Data Source: Customers  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Customers".
+ <263243049334128320> 07/07/2025 15:25:27.541     [Error  ] - Error: browser program failed to open..., Program: "Main Program".
+ <263243049334128320> 07/07/2025 15:25:27.542     [Error  ] - EndTaskRequest(): Unable to open the Data Source: Customers : Customers no such column: Coutry : "RunMe" ("GettingStarted")  (msgid "25"), Program: "Main Program".
+ <547892479514240576> 07/07/2025 15:25:51.930     [Error  ] - EndTaskRequest(): Error: "Program is not set as External" (-261) : "RunMe" ("GettingStarted")  (msgid "28"), Program: "Main Program".
+ <300062993939825920> 07/07/2025 15:25:55.923     [Error  ] - EndTaskRequest(): Error: "Program is not set as External" (-261) : "RunMe" ("GettingStarted")  (msgid "31"), Program: "Main Program".
+ <70824145013178872> 07/07/2025 15:26:23.842     [Error  ] - Flow - Verify Warning: Can't execute client operation, because execution started in a server-side task prefix (see execution path). [Not Executed]
+ <49077240335085432> 07/07/2025 15:26:52.562     [Error  ] - Unable to open the Data Source: Customers  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Customers".
+ <49077240335085432> 07/07/2025 15:26:52.563     [Error  ] - Error: browser program failed to open..., Program: "Main Program".
+ <49077240335085432> 07/07/2025 15:26:52.563     [Error  ] - EndTaskRequest(): Unable to open the Data Source: Customers : Customers no such column: Coutry : "RunMe" ("GettingStarted")  (msgid "42"), Program: "Main Program".
+ <207066038372986240> 07/07/2025 15:28:17.235     [Error  ] - Unable to open the Data Source: Customers  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Customers".
+ <207066038372986240> 07/07/2025 15:28:17.236     [Error  ] - Error: browser program failed to open..., Program: "Main Program".
+ <207066038372986240> 07/07/2025 15:28:17.236     [Error  ] - EndTaskRequest(): Unable to open the Data Source: Customers : Customers no such column: Coutry : "RunMe" ("GettingStarted")  (msgid "46"), Program: "Main Program".
+ <545893980132505728> 07/07/2025 15:30:25.919     [Error  ] - Unable to open the Data Source: Customers  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Customers".
+ <545893980132505728> 07/07/2025 15:30:25.920     [Error  ] - Error: browser program failed to open..., Program: "Main Program".
+ <545893980132505728> 07/07/2025 15:30:25.920     [Error  ] - EndTaskRequest(): Unable to open the Data Source: Customers : Customers no such column: Coutry : "RunMe" ("GettingStarted")  (msgid "49"), Program: "Main Program".
+ <37145215888192352> 07/07/2025 15:32:39.394     [Error  ] - Unable to open the Data Source: Customers  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Customers".
+ <37145215888192352> 07/07/2025 15:32:39.395     [Error  ] - Error: browser program failed to open..., Program: "Main Program".
+ <37145215888192352> 07/07/2025 15:32:39.396     [Error  ] - EndTaskRequest(): Unable to open the Data Source: Customers : Customers no such column: Coutry : "RunMe" ("GettingStarted")  (msgid "53"), Program: "Main Program".
+ <440284145179304832> 07/07/2025 15:36:25.303     [Error  ] - EndTaskRequest(): Error: "Program not found" (-131) : "RunMe" ("GettingStarted")  (msgid "56")
+ <121819000987962304> 07/07/2025 15:42:12.565     [Error  ] - Aborting context 121819000987962304, Program: "Main Program".
+ <39978646912422256> 07/07/2025 16:34:12.198     [Error  ] - EndTaskRequest(): Error: "Program not found" (-131) : "RunMe" ("GettingStarted")  (msgid "77")
+ <236951258082317856> 07/07/2025 16:36:06.797     [Error  ] - Aborting context 236951258082317856, Program: "Main Program".
+ <563091652045591424> 07/07/2025 16:38:12.580     [Error  ] - Aborting context 563091652045591424, Program: "Main Program".
+ <93032609499750400> 07/07/2025 16:41:09.207     [Error  ] - Aborting context 93032609499750400, Program: "Main Program".
+ <273784182042131488> 07/07/2025 16:53:14.486     [Error  ] - Unable to open the Data Source: Suppliers  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Supplier - Line Mode".
+ <273784182042131488> 07/07/2025 16:53:14.486     [Error  ] - Error: browser program failed to open..., Program: "Main Program".
+ <273784182042131488> 07/07/2025 16:53:14.487     [Error  ] - EndTaskRequest(): Unable to open the Data Source: Suppliers : Supplier - Line Mode no such column: Suplier_Code : "RunMe" ("GettingStarted")  (msgid "106"), Program: "Main Program".
+ <297660610027322368> 07/07/2025 16:53:47.693     [Error  ] - Unable to open the Data Source: Suppliers  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Supplier - Line Mode".
+ <297660610027322368> 07/07/2025 16:53:47.694     [Error  ] - Error: browser program failed to open..., Program: "Main Program".
+ <297660610027322368> 07/07/2025 16:53:47.695     [Error  ] - EndTaskRequest(): Unable to open the Data Source: Suppliers : Supplier - Line Mode no such column: Suplier_Code : "RunMe" ("GettingStarted")  (msgid "109"), Program: "Main Program".
+ <307082432991298624> 07/07/2025 16:54:06.188     [Error  ] - Unable to open the Data Source: Suppliers  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Supplier - Line Mode".
+ <307082432991298624> 07/07/2025 16:54:06.189     [Error  ] - Error: browser program failed to open..., Program: "Main Program".
+ <307082432991298624> 07/07/2025 16:54:06.189     [Error  ] - EndTaskRequest(): Unable to open the Data Source: Suppliers : Supplier - Line Mode no such column: Suplier_Code : "RunMe" ("GettingStarted")  (msgid "112"), Program: "Main Program".
+ <475930626474061376> 07/07/2025 16:55:06.342     [Error  ] - Unable to open the Data Source: Suppliers  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Supplier - Line Mode".
+ <475930626474061376> 07/07/2025 16:55:06.342     [Error  ] - Error: browser program failed to open..., Program: "Main Program".
+ <475930626474061376> 07/07/2025 16:55:06.343     [Error  ] - EndTaskRequest(): Unable to open the Data Source: Suppliers : Supplier - Line Mode no such column: Suplier_Code : "RunMe" ("GettingStarted")  (msgid "115"), Program: "Main Program".
+ <453365829515246656> 08/07/2025 13:47:31.582     [Error  ] - Aborting context 453365829515246656, Program: "Main Program".
+ <561407852810723712> 08/07/2025 13:47:31.590     [Error  ] - Aborting context 561407852810723712, Program: "Main Program".
+ <16575186383388228> 08/07/2025 14:13:16.877     [Error  ] - Aborting context 16575186383388228, Program: "Main Program".
+ <259004347110966464> 08/07/2025 14:26:08.423     [Error  ] - Aborting context 259004347110966464, Program: "Main Program".
+ <158372034893862304> 08/07/2025 14:28:24.515     [Error  ] - Aborting context 158372034893862304, Program: "Main Program".
+ <186989249664397088> 08/07/2025 14:44:17.478     [Error  ] - Aborting context 186989249664397088, Program: "Main Program".
+ <125281414122478272> 08/07/2025 14:44:43.267     [Error  ] - Duplicate Index, Data Source: Customers  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Customers - Line Mode".
+ <125281414122478272> 08/07/2025 14:44:44.528     [Error  ] - Duplicate Index, Data Source: Customers  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Customers - Line Mode".
+ <125281414122478272> 08/07/2025 14:44:46.065     [Error  ] - Duplicate Index, Data Source: Customers  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Customers - Line Mode".
+ <125281414122478272> 08/07/2025 14:44:46.663     [Error  ] - Duplicate Index, Data Source: Customers  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Customers - Line Mode".
+ <125281414122478272> 08/07/2025 14:44:47.144     [Error  ] - Duplicate Index, Data Source: Customers  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Customers - Line Mode".
+ <125281414122478272> 08/07/2025 14:44:47.977     [Error  ] - Duplicate Index, Data Source: Customers  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Customers - Line Mode".
+ <125281414122478272> 08/07/2025 14:44:51.568     [Error  ] - Duplicate Index, Data Source: Customers  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Customers - Line Mode".
+ <125281414122478272> 08/07/2025 14:44:52.158     [Error  ] - Duplicate Index, Data Source: Customers  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Customers - Line Mode".
+ <125281414122478272> 08/07/2025 14:44:52.435     [Error  ] - Duplicate Index, Data Source: Customers  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Customers - Line Mode".
+ <125281414122478272> 08/07/2025 14:44:54.245     [Error  ] - Duplicate Index, Data Source: Customers  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Customers - Line Mode".
+ <125281414122478272> 08/07/2025 14:44:55.653     [Error  ] - Duplicate Index, Data Source: Customers  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Customers - Line Mode".
+ <125281414122478272> 08/07/2025 14:44:58.328     [Error  ] - Duplicate Index, Data Source: Customers  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Customers - Line Mode".
+ <125281414122478272> 08/07/2025 14:44:58.739     [Error  ] - Duplicate Index, Data Source: Customers  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Customers - Line Mode".
+ <125281414122478272> 08/07/2025 14:44:58.932     [Error  ] - Duplicate Index, Data Source: Customers  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Customers - Line Mode".
+ <125281414122478272> 08/07/2025 14:45:00.285     [Error  ] - Duplicate Index, Data Source: Customers  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Customers - Line Mode".
+ <125281414122478272> 08/07/2025 14:45:01.821     [Error  ] - Duplicate Index, Data Source: Customers  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Customers - Line Mode".
+ <125281414122478272> 08/07/2025 14:45:02.633     [Error  ] - Duplicate Index, Data Source: Customers  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Customers - Line Mode".
+ <125281414122478272> 08/07/2025 14:45:03.010     [Error  ] - Duplicate Index, Data Source: Customers  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Customers - Line Mode".
+ <125281414122478272> 08/07/2025 14:45:03.884     [Error  ] - Duplicate Index, Data Source: Customers  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Customers - Line Mode".
+ <125281414122478272> 08/07/2025 14:45:04.203     [Error  ] - Duplicate Index, Data Source: Customers  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Customers - Line Mode".
+ <125281414122478272> 08/07/2025 14:45:04.508     [Error  ] - Duplicate Index, Data Source: Customers  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Customers - Line Mode".
+ <125281414122478272> 08/07/2025 14:45:14.866     [Error  ] - Duplicate Index, Data Source: Customers  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Customers - Line Mode".
+ <125281414122478272> 08/07/2025 14:50:02.888     [Error  ] - Aborting context 125281414122478272, Program: "Main Program".
+ <112688881970726384> 08/07/2025 14:51:45.483     [Error  ] - Aborting context 112688881970726384, Program: "Main Program".
+ <121655350612120672> 08/07/2025 14:54:23.305     [Error  ] - Aborting context 121655350612120672, Program: "Main Program".
+ <431189792246956800> 08/07/2025 15:33:26.635     [Error  ] - Aborting context 431189792246956800, Program: "Main Program".
+ <221270490264933184> 08/07/2025 16:03:24.085     [Error  ] - Aborting context 221270490264933184, Program: "Main Program".
+ <208695346407611328> 08/07/2025 16:04:00.975     [Error  ] - Aborting context 208695346407611328, Program: "Main Program".
+ <189178971577632448> 08/07/2025 16:13:46.115     [Error  ] - Aborting context 189178971577632448, Program: "Main Program".
+ <95303104688000432> 08/07/2025 16:49:09.115     [Error  ] - Aborting context 95303104688000432, Program: "Main Program".
+ <65161709217232152> 08/07/2025 16:50:12.149     [Error  ] - Unable to perform the operation, the record has been changed by another user or process. Data Source: Customers  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Customers - Line Mode".
+ <65161709217232152> 08/07/2025 16:50:35.180     [Error  ] - Unable to perform the operation, the record has been changed by another user or process. Data Source: Customers  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Customers - Line Mode".
+ <65161709217232152> 08/07/2025 16:50:52.745     [Error  ] - Unable to perform the operation, the record has been changed by another user or process. Data Source: Customers  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Customers - Line Mode".
+ <65161709217232152> 08/07/2025 16:51:01.583     [Error  ] - Aborting context 65161709217232152, Program: "Main Program".
+ <307832822034614336> 08/07/2025 16:57:49.000     [Error  ] - Unable to perform the operation, the record has been changed by another user or process. Data Source: Customers  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Customers - Line Mode".
+ <307832822034614336> 08/07/2025 17:05:23.463     [Error  ] - Aborting context 307832822034614336, Program: "Main Program".
+ <342527028865457728> 08/07/2025 17:59:41.688     [Error  ] - Aborting context 342527028865457728, Program: "Main Program".
+ <504976553564671616> 09/07/2025 08:30:05.149     [Error  ] - Aborting context 504976553564671616, Program: "Main Program".
+ <221295309654306112> 09/07/2025 08:43:31.521     [Error  ] - Aborting context 221295309654306112, Program: "Main Program".
+ <363773943894182848> 09/07/2025 08:44:54.286     [Error  ] - Aborting context 363773943894182848, Program: "Main Program".
+ <413195117807223680> 09/07/2025 08:46:56.172     [Error  ] - Aborting context 413195117807223680, Program: "Main Program".
+ <466002505454026624> 09/07/2025 09:25:29.169     [Error  ] - Aborting context 466002505454026624, Program: "Main Program".
+ <361959996623084416> 09/07/2025 10:00:36.015     [Error  ] - Aborting context 361959996623084416, Program: "Main Program".
+ <28424058251660800> 09/07/2025 11:18:43.626     [Error  ] - Aborting context 28424058251660800, Program: "Main Program".
+ <218177041508018976> 09/07/2025 11:18:43.631     [Error  ] - Aborting context 218177041508018976, Program: "Main Program".
+ <465098749233373568> 09/07/2025 11:23:09.199     [Error  ] - Aborting context 465098749233373568, Program: "Main Program".
+ <25765976190036020> 09/07/2025 11:23:55.117     [Error  ] - Aborting context 25765976190036020, Program: "Main Program".
+ <448751578272558016> 09/07/2025 11:24:40.412     [Error  ] - Aborting context 448751578272558016, Program: "Main Program".
+ <407126351512646976> 09/07/2025 11:37:44.526     [Error  ] - Aborting context 407126351512646976, Program: "Main Program".
+ <460050804213325248> 09/07/2025 11:39:48.739     [Error  ] - Aborting context 460050804213325248, Program: "Main Program".
+ <509618368435553984> 09/07/2025 11:42:22.786     [Error  ] - Aborting context 509618368435553984, Program: "Main Program".
+ <121207439077891056> 09/07/2025 14:05:33.938     [Error  ] - Aborting context 121207439077891056, Program: "Main Program".
+ <233397385069780992> 09/07/2025 14:08:49.395     [Error  ] - Duplicate Index, Data Source: Orders  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Orders - Line".
+ <233397385069780992> 09/07/2025 14:09:05.381     [Error  ] - Duplicate Index, Data Source: Orders  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Orders - Line".
+ <233397385069780992> 09/07/2025 14:09:14.715     [Error  ] - Duplicate Index, Data Source: Orders  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Orders - Line".
+ <233397385069780992> 09/07/2025 14:09:25.428     [Error  ] - Aborting context 233397385069780992, Program: "Main Program".
+ <376141924757828288> 09/07/2025 14:20:31.072     [Error  ] - Aborting context 376141924757828288, Program: "Main Program".
+ <544214388136328384> 09/07/2025 14:28:26.466     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <544214388136328384> 09/07/2025 14:28:26.566     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <544214388136328384> 09/07/2025 14:28:26.668     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <544214388136328384> 09/07/2025 14:28:26.772     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <544214388136328384> 09/07/2025 14:28:26.875     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <544214388136328384> 09/07/2025 14:28:26.978     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <544214388136328384> 09/07/2025 14:28:27.082     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <544214388136328384> 09/07/2025 14:28:27.185     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <544214388136328384> 09/07/2025 14:28:27.288     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <544214388136328384> 09/07/2025 14:28:27.450     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <544214388136328384> 09/07/2025 14:28:27.553     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <544214388136328384> 09/07/2025 14:28:27.656     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <544214388136328384> 09/07/2025 14:28:27.759     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <544214388136328384> 09/07/2025 14:28:27.860     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <544214388136328384> 09/07/2025 14:28:27.961     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <544214388136328384> 09/07/2025 14:28:28.064     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <544214388136328384> 09/07/2025 14:28:28.165     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <544214388136328384> 09/07/2025 14:28:28.266     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <544214388136328384> 09/07/2025 14:28:28.445     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <544214388136328384> 09/07/2025 14:28:28.548     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <544214388136328384> 09/07/2025 14:28:28.651     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <544214388136328384> 09/07/2025 14:28:28.754     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <544214388136328384> 09/07/2025 14:28:28.856     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <544214388136328384> 09/07/2025 14:28:28.960     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <544214388136328384> 09/07/2025 14:28:29.063     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <544214388136328384> 09/07/2025 14:28:29.165     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <544214388136328384> 09/07/2025 14:28:29.266     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <544214388136328384> 09/07/2025 14:28:29.462     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <544214388136328384> 09/07/2025 14:28:29.564     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <544214388136328384> 09/07/2025 14:28:29.666     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <544214388136328384> 09/07/2025 14:28:29.768     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <544214388136328384> 09/07/2025 14:28:29.870     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <544214388136328384> 09/07/2025 14:28:29.973     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <544214388136328384> 09/07/2025 14:28:30.076     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <544214388136328384> 09/07/2025 14:28:30.179     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <544214388136328384> 09/07/2025 14:28:30.295     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <544214388136328384> 09/07/2025 14:28:30.398     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <544214388136328384> 09/07/2025 14:28:30.499     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <536240456669518848> 09/07/2025 14:29:22.873     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <536240456669518848> 09/07/2025 14:29:22.974     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <536240456669518848> 09/07/2025 14:29:23.077     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <536240456669518848> 09/07/2025 14:29:23.178     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <536240456669518848> 09/07/2025 14:29:23.281     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <536240456669518848> 09/07/2025 14:29:23.383     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <536240456669518848> 09/07/2025 14:29:23.486     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <536240456669518848> 09/07/2025 14:29:23.590     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <536240456669518848> 09/07/2025 14:29:23.692     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <536240456669518848> 09/07/2025 14:29:23.886     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <536240456669518848> 09/07/2025 14:29:23.989     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <536240456669518848> 09/07/2025 14:29:24.091     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <536240456669518848> 09/07/2025 14:29:24.193     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <536240456669518848> 09/07/2025 14:29:24.295     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <536240456669518848> 09/07/2025 14:29:24.398     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <536240456669518848> 09/07/2025 14:29:24.501     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <536240456669518848> 09/07/2025 14:29:24.604     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <536240456669518848> 09/07/2025 14:29:24.719     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <536240456669518848> 09/07/2025 14:29:24.823     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <536240456669518848> 09/07/2025 14:29:24.925     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <536240456669518848> 09/07/2025 14:29:25.027     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <536240456669518848> 09/07/2025 14:29:25.128     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <536240456669518848> 09/07/2025 14:29:25.231     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <536240456669518848> 09/07/2025 14:29:25.333     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <536240456669518848> 09/07/2025 14:29:25.435     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <536240456669518848> 09/07/2025 14:29:25.538     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <536240456669518848> 09/07/2025 14:29:25.670     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <536240456669518848> 09/07/2025 14:29:25.772     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <536240456669518848> 09/07/2025 14:29:25.876     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <536240456669518848> 09/07/2025 14:29:25.979     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <536240456669518848> 09/07/2025 14:29:26.082     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <536240456669518848> 09/07/2025 14:29:26.184     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <536240456669518848> 09/07/2025 14:29:26.286     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <536240456669518848> 09/07/2025 14:29:26.389     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <536240456669518848> 09/07/2025 14:29:26.491     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <536240456669518848> 09/07/2025 14:29:26.637     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <536240456669518848> 09/07/2025 14:29:26.740     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <536240456669518848> 09/07/2025 14:29:26.842     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <104069346712480880> 09/07/2025 14:33:47.988     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <104069346712480880> 09/07/2025 14:33:48.090     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <104069346712480880> 09/07/2025 14:33:48.193     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <104069346712480880> 09/07/2025 14:33:48.296     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <104069346712480880> 09/07/2025 14:33:48.399     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <104069346712480880> 09/07/2025 14:33:48.503     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <104069346712480880> 09/07/2025 14:33:48.607     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <104069346712480880> 09/07/2025 14:33:48.709     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <104069346712480880> 09/07/2025 14:33:48.811     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <104069346712480880> 09/07/2025 14:33:48.959     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <104069346712480880> 09/07/2025 14:33:49.062     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <104069346712480880> 09/07/2025 14:33:49.164     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <104069346712480880> 09/07/2025 14:33:49.266     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <104069346712480880> 09/07/2025 14:33:49.369     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <104069346712480880> 09/07/2025 14:33:49.473     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <104069346712480880> 09/07/2025 14:33:49.576     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <104069346712480880> 09/07/2025 14:33:49.679     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <104069346712480880> 09/07/2025 14:33:49.782     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <104069346712480880> 09/07/2025 14:33:49.960     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <104069346712480880> 09/07/2025 14:33:50.063     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <104069346712480880> 09/07/2025 14:33:50.166     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <104069346712480880> 09/07/2025 14:33:50.269     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <104069346712480880> 09/07/2025 14:33:50.372     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <104069346712480880> 09/07/2025 14:33:50.476     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <104069346712480880> 09/07/2025 14:33:50.578     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <104069346712480880> 09/07/2025 14:33:50.681     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <104069346712480880> 09/07/2025 14:33:50.784     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <104069346712480880> 09/07/2025 14:33:50.980     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <104069346712480880> 09/07/2025 14:33:51.083     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <104069346712480880> 09/07/2025 14:33:51.187     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <104069346712480880> 09/07/2025 14:33:51.290     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <104069346712480880> 09/07/2025 14:33:51.392     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <104069346712480880> 09/07/2025 14:33:51.495     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <104069346712480880> 09/07/2025 14:33:51.597     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <104069346712480880> 09/07/2025 14:33:51.701     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <104069346712480880> 09/07/2025 14:33:51.831     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <104069346712480880> 09/07/2025 14:33:51.933     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <104069346712480880> 09/07/2025 14:33:52.036     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <165071518093661984> 09/07/2025 14:34:40.536     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <165071518093661984> 09/07/2025 14:34:40.638     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <165071518093661984> 09/07/2025 14:34:40.740     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <165071518093661984> 09/07/2025 14:34:40.842     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <165071518093661984> 09/07/2025 14:34:40.945     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <165071518093661984> 09/07/2025 14:34:41.047     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <165071518093661984> 09/07/2025 14:34:41.149     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <165071518093661984> 09/07/2025 14:34:41.252     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <165071518093661984> 09/07/2025 14:34:41.355     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <165071518093661984> 09/07/2025 14:34:41.486     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <165071518093661984> 09/07/2025 14:34:41.589     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <165071518093661984> 09/07/2025 14:34:41.691     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <165071518093661984> 09/07/2025 14:34:41.794     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <165071518093661984> 09/07/2025 14:34:41.896     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <165071518093661984> 09/07/2025 14:34:42.000     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <165071518093661984> 09/07/2025 14:34:42.103     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <165071518093661984> 09/07/2025 14:34:42.205     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <165071518093661984> 09/07/2025 14:34:42.306     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <165071518093661984> 09/07/2025 14:34:42.452     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <165071518093661984> 09/07/2025 14:34:42.553     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <165071518093661984> 09/07/2025 14:34:42.654     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <165071518093661984> 09/07/2025 14:34:42.756     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <165071518093661984> 09/07/2025 14:34:42.858     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <165071518093661984> 09/07/2025 14:34:42.961     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <165071518093661984> 09/07/2025 14:34:43.063     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <165071518093661984> 09/07/2025 14:34:43.165     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <165071518093661984> 09/07/2025 14:34:43.267     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <165071518093661984> 09/07/2025 14:34:43.430     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <165071518093661984> 09/07/2025 14:34:43.533     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <165071518093661984> 09/07/2025 14:34:43.637     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <165071518093661984> 09/07/2025 14:34:43.741     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <165071518093661984> 09/07/2025 14:34:43.844     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <165071518093661984> 09/07/2025 14:34:43.947     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <165071518093661984> 09/07/2025 14:34:44.051     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <165071518093661984> 09/07/2025 14:34:44.154     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <165071518093661984> 09/07/2025 14:34:44.258     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <165071518093661984> 09/07/2025 14:34:44.450     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <165071518093661984> 09/07/2025 14:34:44.552     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <275686717559932320> 09/07/2025 14:36:29.575     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <275686717559932320> 09/07/2025 14:36:29.676     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <275686717559932320> 09/07/2025 14:36:29.779     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <275686717559932320> 09/07/2025 14:36:29.881     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <275686717559932320> 09/07/2025 14:36:29.985     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <275686717559932320> 09/07/2025 14:36:30.088     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <275686717559932320> 09/07/2025 14:36:30.191     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <275686717559932320> 09/07/2025 14:36:30.293     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <275686717559932320> 09/07/2025 14:36:30.395     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <275686717559932320> 09/07/2025 14:36:30.526     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <275686717559932320> 09/07/2025 14:36:30.630     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <275686717559932320> 09/07/2025 14:36:30.733     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <275686717559932320> 09/07/2025 14:36:30.835     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <275686717559932320> 09/07/2025 14:36:30.938     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <275686717559932320> 09/07/2025 14:36:31.040     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <275686717559932320> 09/07/2025 14:36:31.144     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <275686717559932320> 09/07/2025 14:36:31.246     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <275686717559932320> 09/07/2025 14:36:31.348     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <275686717559932320> 09/07/2025 14:36:31.510     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <275686717559932320> 09/07/2025 14:36:31.613     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <275686717559932320> 09/07/2025 14:36:31.716     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <275686717559932320> 09/07/2025 14:36:31.819     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <275686717559932320> 09/07/2025 14:36:31.922     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <275686717559932320> 09/07/2025 14:36:32.025     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <275686717559932320> 09/07/2025 14:36:32.127     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <275686717559932320> 09/07/2025 14:36:32.230     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <275686717559932320> 09/07/2025 14:36:32.331     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <275686717559932320> 09/07/2025 14:36:32.522     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <275686717559932320> 09/07/2025 14:36:32.625     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <275686717559932320> 09/07/2025 14:36:32.727     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <275686717559932320> 09/07/2025 14:36:32.830     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <275686717559932320> 09/07/2025 14:36:32.933     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <275686717559932320> 09/07/2025 14:36:33.036     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <275686717559932320> 09/07/2025 14:36:33.138     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <275686717559932320> 09/07/2025 14:36:33.241     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <275686717559932320> 09/07/2025 14:36:33.357     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <275686717559932320> 09/07/2025 14:36:33.460     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <275686717559932320> 09/07/2025 14:36:33.562     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <553965995658309376> 09/07/2025 15:35:19.333     [Error  ] - Aborting context 553965995658309376, Program: "Main Program".
+ <400682118561166784> 09/07/2025 15:48:40.976     [Error  ] - Aborting context 400682118561166784, Program: "Main Program".
+ <298708200724175872> 09/07/2025 15:51:20.411     [Error  ] - Aborting context 298708200724175872, Program: "Main Program".
+ <468946754963848448> 09/07/2025 15:51:20.413     [Error  ] - Aborting context 468946754963848448, Program: "Main Program".
+ <81082887565340000> 09/07/2025 16:27:44.158     [Error  ] - EndTaskRequest(): Error: "Program is not set as External" (-261) : "RunMe" ("GettingStarted")  (msgid "167"), Program: "Main Program".
+ <388755804848321088> 09/07/2025 16:27:47.614     [Error  ] - EndTaskRequest(): Error: "Program is not set as External" (-261) : "RunMe" ("GettingStarted")  (msgid "170"), Program: "Main Program".
+ <122431473009808080> 09/07/2025 16:29:05.875     [Error  ] - Aborting context 122431473009808080, Program: "Main Program".
+ <251951123599563264> 09/07/2025 16:40:49.156     [Error  ] - Aborting context 251951123599563264, Program: "Main Program".
+ <43633079264487264> 09/07/2025 16:41:55.313     [Error  ] - Aborting context 43633079264487264, Program: "Main Program".
+ <101157712848983936> 09/07/2025 16:43:35.490     [Error  ] - Aborting context 101157712848983936, Program: "Main Program".
+ <101549049795405904> 09/07/2025 16:43:35.493     [Error  ] - Aborting context 101549049795405904, Program: "Main Program".
+ <432162350109662080> 09/07/2025 16:46:01.432     [Error  ] - Aborting context 432162350109662080, Program: "Main Program".
+ <170029271314235008> 09/07/2025 16:59:20.550     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\products\ONY PSP console.jpg" not found., Program: "Main Program".
+ <305985411608916736> 09/07/2025 16:59:31.489     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\products\P iPaq hw6515 Mobile Messenger.jpg" not found., Program: "Main Program".
+ <170029271314235008> 09/07/2025 16:59:44.393     [Error  ] - Aborting context 170029271314235008, Program: "Main Program".
+ <566793482280836800> 09/07/2025 17:01:26.748     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\products\D Card 1024MB.jpg" not found., Program: "Main Program".
+ <86059199290442000> 09/07/2025 17:02:35.922     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\products\D Card 1024MB.jpg" not found., Program: "Main Program".
+ <33468541666788632> 09/07/2025 17:08:31.402     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <33468541666788632> 09/07/2025 17:08:31.505     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <33468541666788632> 09/07/2025 17:08:31.607     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <33468541666788632> 09/07/2025 17:08:31.708     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <33468541666788632> 09/07/2025 17:08:31.811     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <33468541666788632> 09/07/2025 17:08:31.914     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <33468541666788632> 09/07/2025 17:08:32.018     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <33468541666788632> 09/07/2025 17:08:32.121     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <33468541666788632> 09/07/2025 17:08:32.224     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <33468541666788632> 09/07/2025 17:08:32.354     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <33468541666788632> 09/07/2025 17:08:32.455     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <33468541666788632> 09/07/2025 17:08:32.556     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <33468541666788632> 09/07/2025 17:08:32.656     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <33468541666788632> 09/07/2025 17:08:32.757     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <33468541666788632> 09/07/2025 17:08:32.860     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <33468541666788632> 09/07/2025 17:08:32.962     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <33468541666788632> 09/07/2025 17:08:33.064     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <33468541666788632> 09/07/2025 17:08:33.167     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <33468541666788632> 09/07/2025 17:08:33.314     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <33468541666788632> 09/07/2025 17:08:33.417     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <33468541666788632> 09/07/2025 17:08:33.520     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <33468541666788632> 09/07/2025 17:08:33.622     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <33468541666788632> 09/07/2025 17:08:33.726     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <33468541666788632> 09/07/2025 17:08:33.828     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <33468541666788632> 09/07/2025 17:08:33.929     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <33468541666788632> 09/07/2025 17:08:34.031     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <33468541666788632> 09/07/2025 17:08:34.132     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <33468541666788632> 09/07/2025 17:08:34.293     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <33468541666788632> 09/07/2025 17:08:34.395     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <33468541666788632> 09/07/2025 17:08:34.496     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <33468541666788632> 09/07/2025 17:08:34.597     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <33468541666788632> 09/07/2025 17:08:34.700     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <33468541666788632> 09/07/2025 17:08:34.802     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <33468541666788632> 09/07/2025 17:08:34.904     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <33468541666788632> 09/07/2025 17:08:35.005     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <33468541666788632> 09/07/2025 17:08:35.107     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <33468541666788632> 09/07/2025 17:08:35.269     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <33468541666788632> 09/07/2025 17:08:35.372     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <255257642955646880> 09/07/2025 17:10:11.164     [Error  ] - Aborting context 255257642955646880, Program: "Main Program".
+ <183410231581298720> 09/07/2025 17:10:50.888     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <183410231581298720> 09/07/2025 17:10:50.989     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <183410231581298720> 09/07/2025 17:10:51.090     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <183410231581298720> 09/07/2025 17:10:51.192     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <183410231581298720> 09/07/2025 17:10:51.294     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <183410231581298720> 09/07/2025 17:10:51.397     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <183410231581298720> 09/07/2025 17:10:51.499     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <183410231581298720> 09/07/2025 17:10:51.602     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <183410231581298720> 09/07/2025 17:10:51.704     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <183410231581298720> 09/07/2025 17:10:51.834     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <183410231581298720> 09/07/2025 17:10:51.938     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <183410231581298720> 09/07/2025 17:10:52.040     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <183410231581298720> 09/07/2025 17:10:52.144     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <183410231581298720> 09/07/2025 17:10:52.247     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <183410231581298720> 09/07/2025 17:10:52.351     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <183410231581298720> 09/07/2025 17:10:52.453     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <183410231581298720> 09/07/2025 17:10:52.557     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <183410231581298720> 09/07/2025 17:10:52.660     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <183410231581298720> 09/07/2025 17:10:52.824     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <183410231581298720> 09/07/2025 17:10:52.928     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <183410231581298720> 09/07/2025 17:10:53.031     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <183410231581298720> 09/07/2025 17:10:53.134     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <183410231581298720> 09/07/2025 17:10:53.236     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <183410231581298720> 09/07/2025 17:10:53.339     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <183410231581298720> 09/07/2025 17:10:53.442     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <183410231581298720> 09/07/2025 17:10:53.544     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <183410231581298720> 09/07/2025 17:10:53.646     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <183410231581298720> 09/07/2025 17:10:53.840     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <183410231581298720> 09/07/2025 17:10:53.941     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <183410231581298720> 09/07/2025 17:10:54.043     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <183410231581298720> 09/07/2025 17:10:54.145     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <183410231581298720> 09/07/2025 17:10:54.248     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <183410231581298720> 09/07/2025 17:10:54.350     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <183410231581298720> 09/07/2025 17:10:54.454     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <183410231581298720> 09/07/2025 17:10:54.558     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <183410231581298720> 09/07/2025 17:10:54.674     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <183410231581298720> 09/07/2025 17:10:54.776     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <183410231581298720> 09/07/2025 17:10:54.880     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <567228957822219072> 09/07/2025 17:11:16.709     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <567228957822219072> 09/07/2025 17:11:16.810     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <567228957822219072> 09/07/2025 17:11:16.912     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <567228957822219072> 09/07/2025 17:11:17.015     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <567228957822219072> 09/07/2025 17:11:17.118     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <567228957822219072> 09/07/2025 17:11:17.220     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <567228957822219072> 09/07/2025 17:11:17.323     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <567228957822219072> 09/07/2025 17:11:17.425     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <567228957822219072> 09/07/2025 17:11:17.528     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <567228957822219072> 09/07/2025 17:11:17.645     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <567228957822219072> 09/07/2025 17:11:17.747     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <567228957822219072> 09/07/2025 17:11:17.849     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <567228957822219072> 09/07/2025 17:11:17.952     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <567228957822219072> 09/07/2025 17:11:18.054     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <567228957822219072> 09/07/2025 17:11:18.156     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <567228957822219072> 09/07/2025 17:11:18.258     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <567228957822219072> 09/07/2025 17:11:18.361     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <567228957822219072> 09/07/2025 17:11:18.463     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <567228957822219072> 09/07/2025 17:11:18.594     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <567228957822219072> 09/07/2025 17:11:18.696     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <567228957822219072> 09/07/2025 17:11:18.800     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <567228957822219072> 09/07/2025 17:11:18.904     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <567228957822219072> 09/07/2025 17:11:19.007     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <567228957822219072> 09/07/2025 17:11:19.111     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <567228957822219072> 09/07/2025 17:11:19.213     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <567228957822219072> 09/07/2025 17:11:19.316     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <567228957822219072> 09/07/2025 17:11:19.419     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <567228957822219072> 09/07/2025 17:11:19.565     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <567228957822219072> 09/07/2025 17:11:19.667     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <567228957822219072> 09/07/2025 17:11:19.770     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <567228957822219072> 09/07/2025 17:11:19.871     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <567228957822219072> 09/07/2025 17:11:19.974     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <567228957822219072> 09/07/2025 17:11:20.077     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <567228957822219072> 09/07/2025 17:11:20.181     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <567228957822219072> 09/07/2025 17:11:20.284     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <567228957822219072> 09/07/2025 17:11:20.387     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <567228957822219072> 09/07/2025 17:11:20.550     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <567228957822219072> 09/07/2025 17:11:20.654     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <472202101217671488> 09/07/2025 17:12:16.484     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\products\SONY PSP console.jpg" not found., Program: "Main Program".
+ <472202101217671488> 09/07/2025 17:12:20.212     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\products\SONY PSP console.jpg" not found., Program: "Main Program".
+ <559375568348974592> 09/07/2025 17:12:25.897     [Error  ] - Unable to open the Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "All Products".
+ <559375568348974592> 09/07/2025 17:12:25.899     [Error  ] - Error: browser program failed to open..., Program: "Main Program".
+ <559375568348974592> 09/07/2025 17:12:25.899     [Error  ] - EndTaskRequest(): Unable to open the Data Source: Products : All Products cannot start a transaction within a transaction : "RunMe" ("GettingStarted")  (msgid "304"), Program: "Main Program".
+ <220036644789752992> 09/07/2025 17:12:28.716     [Error  ] - Unable to open the Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "All Products".
+ <220036644789752992> 09/07/2025 17:12:28.717     [Error  ] - Error: browser program failed to open..., Program: "Main Program".
+ <220036644789752992> 09/07/2025 17:12:28.718     [Error  ] - EndTaskRequest(): Unable to open the Data Source: Products : All Products cannot start a transaction within a transaction : "RunMe" ("GettingStarted")  (msgid "307"), Program: "Main Program".
+ <431443256050027200> 09/07/2025 17:12:36.059     [Error  ] - Aborting context 431443256050027200, Program: "Main Program".
+ <487903812975690944> 09/07/2025 17:12:40.580     [Error  ] - Error occurred in Create: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "All Products".
+ <487903812975690944> 09/07/2025 17:12:40.580     [Error  ] - Error: browser program failed to open..., Program: "Main Program".
+ <487903812975690944> 09/07/2025 17:12:40.581     [Error  ] - EndTaskRequest(): Error occurred in Create: Products : All Products database is locked : "RunMe" ("GettingStarted")  (msgid "310"), Program: "Main Program".
+ <119151808460442352> 09/07/2025 17:13:09.876     [Error  ] - Unable to open the Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "All Products".
+ <119151808460442352> 09/07/2025 17:13:09.877     [Error  ] - Error: browser program failed to open..., Program: "Main Program".
+ <119151808460442352> 09/07/2025 17:13:09.878     [Error  ] - EndTaskRequest(): Unable to open the Data Source: Products : All Products cannot start a transaction within a transaction : "RunMe" ("GettingStarted")  (msgid "313"), Program: "Main Program".
+ <413755685452988800> 09/07/2025 17:13:15.348     [Error  ] - Unable to open the Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "All Products".
+ <413755685452988800> 09/07/2025 17:13:15.350     [Error  ] - Error: browser program failed to open..., Program: "Main Program".
+ <413755685452988800> 09/07/2025 17:13:15.351     [Error  ] - EndTaskRequest(): Unable to open the Data Source: Products : All Products cannot start a transaction within a transaction : "RunMe" ("GettingStarted")  (msgid "316"), Program: "Main Program".
+ <161960382747497504> 09/07/2025 17:13:55.531     [Error  ] - Unable to open the Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "All Products".
+ <161960382747497504> 09/07/2025 17:13:55.532     [Error  ] - Error: browser program failed to open..., Program: "Main Program".
+ <161960382747497504> 09/07/2025 17:13:55.533     [Error  ] - EndTaskRequest(): Unable to open the Data Source: Products : All Products cannot start a transaction within a transaction : "RunMe" ("GettingStarted")  (msgid "319"), Program: "Main Program".
+ <439900559649369984> 09/07/2025 17:14:13.492     [Error  ] - Unable to begin transaction. Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Products".
+ <87912567440702736> 09/07/2025 17:16:09.593     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\products\ONY PSP console.jpg" not found., Program: "Main Program".
+ <-1> 10/07/2025 09:17:56.246     [Error  ] - Error - run-time engine was not found. Please restart the studio in order to run the application
+ <-1> 10/07/2025 09:18:16.001     [Error  ] - Error - run-time engine was not found. Please restart the studio in order to run the application
+ <12964787385044466> 10/07/2025 09:43:59.511     [Error  ] - Aborting context 12964787385044466, Program: "Main Program".
+ <119088538699380320> 10/07/2025 09:50:37.742     [Error  ] - Aborting context 119088538699380320, Program: "Main Program".
+ <236664131601218752> 10/07/2025 09:50:37.746     [Error  ] - Aborting context 236664131601218752, Program: "Main Program".
+ <202718290279536416> 10/07/2025 12:02:35.415     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\products\.jpg" not found., Program: "Main Program".
+ <202718290279536416> 10/07/2025 12:03:00.528     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\products\.jpg" not found., Program: "Main Program".
+ <202718290279536416> 10/07/2025 12:04:31.835     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\products\.jpg" not found., Program: "Main Program".
+ <148953741420912416> 10/07/2025 14:05:27.245     [Error  ] - Aborting context 148953741420912416, Program: "Main Program".
+ <129791573897886336> 10/07/2025 14:22:47.504     [Error  ] - Aborting context 129791573897886336, Program: "Main Program".
+ <106248888088711616> 10/07/2025 15:03:01.048     [Error  ] - Aborting context 106248888088711616, Program: "Main Program".
+ <55165538841799208> 10/07/2025 15:09:26.807     [Error  ] - Aborting context 55165538841799208, Program: "Main Program".
+ <280819437833391296> 10/07/2025 15:39:19.780     [Error  ] - Aborting context 280819437833391296, Program: "Main Program".
+ <38748261894832880> 10/07/2025 16:30:56.226     [Error  ] - Aborting context 38748261894832880, Program: "Main Program".
+ <10904275140427042> 11/07/2025 13:49:30.673     [Error  ] - Aborting context 10904275140427042, Program: "Main Program".
+ <42350577396012104> 11/07/2025 13:49:30.675     [Error  ] - Aborting context 42350577396012104, Program: "Main Program".
+ <99742621547150832> 11/07/2025 14:10:18.226     [Error  ] - Aborting context 99742621547150832, Program: "Main Program".
+ <310134480398621120> 11/07/2025 16:45:11.647     [Error  ] - Aborting context 310134480398621120, Program: "Main Program".
+ <574134572151939968> 11/07/2025 16:45:11.652     [Error  ] - Aborting context 574134572151939968, Program: "Main Program".
+ <61584428492533904> 14/07/2025 08:15:54.515     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\products\.jpg" not found., Program: "Main Program".
+ <378061477115905024> 14/07/2025 08:19:16.416     [Error  ] - Aborting context 378061477115905024, Program: "Main Program".
+ <54179095099050448> 14/07/2025 08:23:09.625     [Error  ] - Aborting context 54179095099050448, Program: "Main Program".
+ <149746973317749888> 14/07/2025 08:23:09.627     [Error  ] - Aborting context 149746973317749888, Program: "Main Program".
+ <1182467492249793> 14/07/2025 08:28:34.171     [Error  ] - Aborting context 1182467492249793, Program: "Main Program".
+ <530089577237263936> 14/07/2025 08:32:54.000     [Error  ] - Aborting context 530089577237263936, Program: "Main Program".
+ <118677280151443312> 14/07/2025 08:47:40.373     [Error  ] - Aborting context 118677280151443312, Program: "Main Program".
+ <475097132304296576> 14/07/2025 09:07:12.828     [Error  ] - Aborting context 475097132304296576, Program: "Main Program".
+ <482174403780136000> 14/07/2025 09:07:12.831     [Error  ] - Aborting context 482174403780136000, Program: "Main Program".
+ <454994335041663104> 14/07/2025 09:23:52.849     [Error  ] - Aborting context 454994335041663104, Program: "Main Program".
+ <407422131569025344> 14/07/2025 09:28:46.731     [Error  ] - Aborting context 407422131569025344, Program: "Main Program".
+ <69188806030642688> 14/07/2025 09:37:31.745     [Error  ] - Aborting context 69188806030642688, Program: "Main Program".
+ <456803253011432448> 14/07/2025 09:37:31.748     [Error  ] - Aborting context 456803253011432448, Program: "Main Program".
+ <55960043471945272> 14/07/2025 09:41:02.925     [Error  ] - Aborting context 55960043471945272, Program: "Main Program".
+ <296858059246052352> 14/07/2025 09:41:02.927     [Error  ] - Aborting context 296858059246052352, Program: "Main Program".
+ <347373452137117696> 14/07/2025 09:50:57.675     [Error  ] - Aborting context 347373452137117696, Program: "Main Program".
+ <216415827339531392> 14/07/2025 17:34:16.035     [Error  ] - EndTaskRequest(): Error: "Program not found" (-131) : "RunMe" ("GettingStarted")  (msgid "242")
+ <281720856922452224> 14/07/2025 17:36:00.221     [Error  ] - EndTaskRequest(): Error: "Program not found" (-131) : "RunMe" ("GettingStarted")  (msgid "245")
+ <450164603773087552> 14/07/2025 17:36:15.467     [Error  ] - EndTaskRequest(): Error: "Program not found" (-131) : "RunMe" ("GettingStarted")  (msgid "248")
+ <456813746864439360> 14/07/2025 17:36:27.949     [Error  ] - EndTaskRequest(): Error: "Program not found" (-131) : "RunMe" ("GettingStarted")  (msgid "251")
+ <254016200637099072> 15/07/2025 10:50:45.555     [Error  ] - Aborting context 254016200637099072, Program: "Main Program".
+ <309704333551383168> 15/07/2025 10:51:56.063     [Error  ] - Aborting context 309704333551383168, Program: "Main Program".
+ <150735875389179040> 15/07/2025 10:56:12.794     [Error  ] - Aborting context 150735875389179040, Program: "Main Program".
+ <199245538426667200> 15/07/2025 10:56:12.796     [Error  ] - Aborting context 199245538426667200, Program: "Main Program".
+ <436148016863327808> 15/07/2025 11:32:11.612     [Error  ] - File not found: : tel:, Program: ">>>>Inicial.Funções do Dispositivo".
+ <436148016863327808> 15/07/2025 11:32:23.195     [Error  ] - File not found: : tel:, Program: ">>>>Inicial.Funções do Dispositivo".
+ <566526554033464576> 15/07/2025 13:08:05.257     [Error  ] - File not found: : tel:+5551989433755, Program: ">>>>Inicial.Funções do Dispositivo".
+ <566526554033464576> 15/07/2025 13:08:28.080     [Error  ] - Aborting context 566526554033464576, Program: "Main Program".
+ <119739235047160048> 15/07/2025 13:17:36.701     [Error  ] - Aborting context 119739235047160048, Program: "Main Program".
+ <19400643709064636> 15/07/2025 13:18:33.544     [Error  ] - Aborting context 19400643709064636, Program: "Main Program".
+ <109236200944736336> 15/07/2025 13:23:51.519     [Error  ] - File not found: : tel:+5551989433755, Program: ">>>>Inicial.Funções do Dispositivo".
+ <530862077015053696> 15/07/2025 13:24:57.970     [Error  ] - File not found: : tel:+5551989433755, Program: ">>>>Inicial.Funções do Dispositivo".
+ <109236200944736336> 15/07/2025 13:28:25.174     [Error  ] - Aborting context 109236200944736336, Program: "Main Program".
+ <389898336271719872> 15/07/2025 13:37:12.680     [Error  ] - Aborting context 389898336271719872, Program: "Main Program".
+ <521385698661947136> 15/07/2025 13:37:12.684     [Error  ] - Aborting context 521385698661947136, Program: "Main Program".
+ <73690253792012448> 15/07/2025 13:40:45.623     [Error  ] - Aborting context 73690253792012448, Program: "Main Program".
+ <510811091651907264> 15/07/2025 13:40:45.626     [Error  ] - Aborting context 510811091651907264, Program: "Main Program".
+ <438507798161374080> 15/07/2025 13:46:21.318     [Error  ] - Aborting context 438507798161374080, Program: "Main Program".
+ <454457296118390144> 15/07/2025 13:58:14.277     [Error  ] - Aborting context 454457296118390144, Program: "Main Program".
+ <14881064638661100> 15/07/2025 14:19:42.711     [Error  ] - Aborting context 14881064638661100, Program: "Main Program".
+ <115293568162271152> 15/07/2025 14:19:42.717     [Error  ] - Aborting context 115293568162271152, Program: "Main Program".
+ <228859584463274528> 15/07/2025 14:19:42.721     [Error  ] - Aborting context 228859584463274528, Program: "Main Program".
+ <105986676119066880> 15/07/2025 14:32:21.421     [Error  ] - Aborting context 105986676119066880, Program: "Main Program".
+ <358990704689220608> 15/07/2025 14:38:49.132     [Error  ] - Aborting context 358990704689220608, Program: "Main Program".
+ <13013857582008338> 15/07/2025 15:32:36.798     [Error  ] - Aborting context 13013857582008338, Program: "Main Program".
+ <98433420779938768> 15/07/2025 15:33:27.853     [Error  ] - Aborting context 98433420779938768, Program: "Main Program".
+ <171135380257547616> 15/07/2025 15:35:15.213     [Error  ] - Aborting context 171135380257547616, Program: "Main Program".
+ <-1> 15/07/2025 15:35:54.426     [Error  ] - Error - run-time engine was not found. Please restart the studio in order to run the application
+ <-1> 15/07/2025 15:36:00.277     [Error  ] - Error - run-time engine was not found. Please restart the studio in order to run the application
+ <198963371259007360> 15/07/2025 15:48:02.323     [Error  ] - Aborting context 198963371259007360, Program: "Main Program".
+ <469455430444326848> 15/07/2025 15:54:44.236     [Error  ] - Aborting context 469455430444326848, Program: "Main Program".
+ <525355512399860608> 15/07/2025 16:03:20.684     [Error  ] - Aborting context 525355512399860608, Program: "Main Program".
+ <78731473062968464> 15/07/2025 16:07:33.076     [Error  ] - Aborting context 78731473062968464, Program: "Main Program".
+ <45146746467219312> 15/07/2025 16:19:42.761     [Error  ] - Aborting context 45146746467219312, Program: "Main Program".
+ <552388503256282496> 15/07/2025 16:21:51.497     [Error  ] - Aborting context 552388503256282496, Program: "Main Program".
+ <130845936640284928> 15/07/2025 16:28:49.923     [Error  ] - Aborting context 130845936640284928, Program: "Main Program".
+ <152196547594316352> 15/07/2025 16:37:37.383     [Error  ] - Aborting context 152196547594316352, Program: "Main Program".
+ <175145603516726912> 15/07/2025 16:44:26.412     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\products\.jpg" not found., Program: "Main Program".
+ <248292875612904896> 15/07/2025 16:54:50.185     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\products\.jpg" not found., Program: "Main Program".
+ <248292875612904896> 15/07/2025 16:54:52.307     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\products\.jpg" not found., Program: "Main Program".
+ <248292875612904896> 15/07/2025 16:54:54.487     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\products\.jpg" not found., Program: "Main Program".
+ <248292875612904896> 15/07/2025 16:54:57.117     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\products\.jpg" not found., Program: "Main Program".
+ <524578243735249088> 15/07/2025 17:43:10.696     [Error  ] - EndTaskRequest(): Error: "Program is not set as External" (-261) : "RunMe" ("GettingStarted")  (msgid "332"), Program: "Main Program".
+ <303067469254844032> 15/07/2025 17:44:02.615     [Error  ] - Aborting context 303067469254844032, Program: "Main Program".
+ <212117438460114208> 15/07/2025 17:50:54.362     [Error  ] - Aborting context 212117438460114208, Program: "Main Program".
+ <91760251456626976> 16/07/2025 08:05:23.430     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\products\.jpg" not found., Program: "Main Program".
+ <91760251456626976> 16/07/2025 08:05:53.738     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\products\.jpg" not found., Program: "Main Program".
+ <63221799873498592> 16/07/2025 08:10:44.248     [Error  ] - Aborting context 63221799873498592, Program: "Main Program".
+ <158936614042763680> 16/07/2025 08:10:44.250     [Error  ] - Aborting context 158936614042763680, Program: "Main Program".
+ <238654504638202272> 16/07/2025 08:58:00.384     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\products\.jpg" not found., Program: "Main Program".
+ <201837879858558976> 16/07/2025 09:10:56.497     [Error  ] - Aborting context 201837879858558976, Program: "Main Program".
+ <159501923455377824> 16/07/2025 09:37:49.548     [Error  ] - EndTaskRequest(): Error: "Program not found" (-131) : "RunMe" ("GettingStarted")  (msgid "320")
+ <576087253339642112> 16/07/2025 09:37:56.210     [Error  ] - EndTaskRequest(): Error: "Program not found" (-131) : "RunMe" ("GettingStarted")  (msgid "323")
+ <200180313584572544> 16/07/2025 09:38:30.619     [Error  ] - Aborting context 200180313584572544, Program: "Main Program".
+ <69049559989712968> 16/07/2025 10:15:17.951     [Error  ] - Aborting context 69049559989712968, Program: "Main Program".
+ <214846342185419328> 16/07/2025 10:43:13.616     [Error  ] - Duplicate Index, Data Source: Customers  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: ">>>>Inicial".
+ <214846342185419328> 16/07/2025 10:43:18.312     [Error  ] - Duplicate Index, Data Source: Customers  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: ">>>>Inicial".
+ <214846342185419328> 16/07/2025 10:43:20.389     [Error  ] - Duplicate Index, Data Source: Customers  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: ">>>>Inicial".
+ <214846342185419328> 16/07/2025 10:43:33.258     [Error  ] - Aborting context 214846342185419328, Program: "Main Program".
+ <3296073420250353> 16/07/2025 10:47:17.007     [Error  ] - Duplicate Index, Data Source: Customers  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: ">>>>Inicial".
+ <3296073420250353> 16/07/2025 10:47:20.364     [Error  ] - Duplicate Index, Data Source: Customers  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: ">>>>Inicial".
+ <3296073420250353> 16/07/2025 10:47:30.548     [Error  ] - Aborting context 3296073420250353, Program: "Main Program".
+ <105664238043281632> 16/07/2025 10:51:40.968     [Error  ] - EndTaskRequest(): Error: "Program is not set as External" (-261) : "RunMe" ("GettingStarted")  (msgid "510"), Program: "Main Program".
+ <275064525956926016> 16/07/2025 10:51:45.025     [Error  ] - EndTaskRequest(): Error: "Program is not set as External" (-261) : "RunMe" ("GettingStarted")  (msgid "513"), Program: "Main Program".
+ <414786105890423104> 16/07/2025 11:00:23.922     [Error  ] - Aborting context 414786105890423104, Program: "Main Program".
+ <387259669479727296> 16/07/2025 11:02:13.412     [Error  ] - Aborting context 387259669479727296, Program: "Main Program".
+ <12277714259593374> 16/07/2025 11:15:09.133     [Error  ] - Aborting context 12277714259593374, Program: "Main Program".
+ <375728335241541440> 16/07/2025 11:21:49.254     [Error  ] - Duplicate Index, Data Source: Customers  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Customers".
+ <375728335241541440> 16/07/2025 11:21:49.355     [Error  ] - Duplicate Index, Data Source: Customers  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Customers".
+ <375728335241541440> 16/07/2025 11:21:49.457     [Error  ] - Duplicate Index, Data Source: Customers  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Customers".
+ <375728335241541440> 16/07/2025 11:21:49.559     [Error  ] - Duplicate Index, Data Source: Customers  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Import - Customers".
+ <116634670981357824> 16/07/2025 11:26:10.267     [Error  ] - Aborting context 116634670981357824, Program: "Main Program".
+ <151086879914823936> 16/07/2025 11:28:00.904     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\products\.jpg" not found., Program: "Main Program".
+ <151086879914823936> 16/07/2025 11:28:28.845     [Error  ] - Aborting context 151086879914823936, Program: "Main Program".
+ <394143954224547584> 16/07/2025 11:31:17.145     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\products\.jpg" not found., Program: "Main Program".
+ <394143954224547584> 16/07/2025 11:31:31.182     [Error  ] - Duplicate Index, Data Source: Order_Lines  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Orders - Line".
+ <394143954224547584> 16/07/2025 11:31:56.921     [Error  ] - Duplicate Index, Data Source: Order_Lines  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Orders - Line".
+ <394143954224547584> 16/07/2025 11:32:00.232     [Error  ] - Duplicate Index, Data Source: Order_Lines  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\", Program: "Orders - Line".
+ <394143954224547584> 16/07/2025 11:32:07.447     [Error  ] - Aborting context 394143954224547584, Program: "Main Program".
+ <545679452305895040> 16/07/2025 11:46:49.815     [Error  ] - Aborting context 545679452305895040, Program: "Main Program".
+ <340953093845571776> 16/07/2025 11:51:38.821     [Error  ] - Aborting context 340953093845571776, Program: "Main Program".
+ <439445135121223872> 16/07/2025 13:15:33.274     [Error  ] - Aborting context 439445135121223872, Program: "Main Program".
+ <312553715821381120> 16/07/2025 13:19:28.865     [Error  ] - Aborting context 312553715821381120, Program: "Main Program".
+ <8480411212232229> 16/07/2025 13:20:50.507     [Error  ] - Aborting context 8480411212232229, Program: "Main Program".
+ <180680639832249792> 16/07/2025 13:59:03.179     [Error  ] - Aborting context 180680639832249792, Program: "Main Program".
+ <28249301496770216> 16/07/2025 15:25:19.737     [Error  ] - File not found: : tel:+5551989433755, Program: "Funções do Dispositivo".
+ <424700991756931712> 16/07/2025 15:25:52.586     [Error  ] - File not found: : tel:+5551989433755, Program: "Funções do Dispositivo".
+ <424700991756931712> 16/07/2025 15:26:03.156     [Error  ] - Aborting context 424700991756931712, Program: "Main Program".
+ <337305376941598464> 16/07/2025 15:28:24.164     [Error  ] - Aborting context 337305376941598464, Program: "Main Program".
+ <87499222348162944> 16/07/2025 15:29:01.301     [Error  ] - File not found: : tel: +5551989433755, Program: "Funções do Dispositivo".
+ <367097329570054528> 16/07/2025 15:31:42.169     [Error  ] - Aborting context 367097329570054528, Program: "Main Program".
+ <569955235368662400> 16/07/2025 15:36:13.394     [Error  ] - Aborting context 569955235368662400, Program: "Main Program".
+ <570117245095111744> 16/07/2025 15:37:25.292     [Error  ] - Aborting context 570117245095111744, Program: "Main Program".
+ <117714358329321680> 16/07/2025 16:58:00.221     [Error  ] - EndTaskRequest(): Error: "Program not found" (-131) : "RunMe" ("GettingStarted")  (msgid "1152")
+ <298408172368224704> 16/07/2025 17:33:51.856     [Error  ] - EndTaskRequest(): Error: "Program not found" (-131) : "RunMe" ("GettingStarted")  (msgid "1155")
+ <21497608082471968> 16/07/2025 17:33:59.905     [Error  ] - EndTaskRequest(): Error: "Program not found" (-131) : "RunMe" ("GettingStarted")  (msgid "1158")
+ <189742261453392000> 16/07/2025 17:34:48.908     [Error  ] - Aborting context 189742261453392000, Program: "Main Program".
+ <307796945234510592> 16/07/2025 17:34:48.911     [Error  ] - Aborting context 307796945234510592, Program: "Main Program".
+ <130438011146141408> 16/07/2025 17:39:01.228     [Error  ] - Aborting context 130438011146141408, Program: "Main Program".
+ <90727157334845472> 16/07/2025 17:40:09.899     [Error  ] - Aborting context 90727157334845472, Program: "Main Program".
+ <244685075376120192> 16/07/2025 17:40:09.900     [Error  ] - Aborting context 244685075376120192, Program: "Main Program".
+ <23462246437650492> 16/07/2025 17:41:28.547     [Error  ] - Aborting context 23462246437650492, Program: "Main Program".
+ <220051385349138304> 16/07/2025 17:41:28.550     [Error  ] - Aborting context 220051385349138304, Program: "Main Program".
+ <278223949370718944> 16/07/2025 17:42:39.267     [Error  ] - Aborting context 278223949370718944, Program: "Main Program".
+ <424759538263874560> 16/07/2025 17:42:39.270     [Error  ] - Aborting context 424759538263874560, Program: "Main Program".
+ <435332866077515008> 16/07/2025 17:42:39.272     [Error  ] - Aborting context 435332866077515008, Program: "Main Program".
+ <130882522696294976> 16/07/2025 17:43:46.562     [Error  ] - Aborting context 130882522696294976, Program: "Main Program".
+ <235299672824632064> 16/07/2025 17:43:46.563     [Error  ] - Aborting context 235299672824632064, Program: "Main Program".
+ <229826380347021344> 16/07/2025 17:44:33.517     [Error  ] - Aborting context 229826380347021344, Program: "Main Program".
+ <508842241344409792> 16/07/2025 17:45:40.726     [Error  ] - Aborting context 508842241344409792, Program: "Main Program".
+ <53511603849474608> 17/07/2025 08:28:56.216     [Error  ] - Aborting context 53511603849474608, Program: "Main Program".
+ <200591213068535584> 17/07/2025 08:28:56.235     [Error  ] - Aborting context 200591213068535584, Program: "Main Program".
+ <398086419812612416> 17/07/2025 08:28:56.237     [Error  ] - Aborting context 398086419812612416, Program: "Main Program".
+ <572318691357215040> 17/07/2025 08:30:45.008     [Error  ] - Aborting context 572318691357215040, Program: "Main Program".
+ <25589784186393088> 17/07/2025 08:42:35.810     [Error  ] - Aborting context 25589784186393088, Program: "Main Program".
+ <211445399603602496> 17/07/2025 08:44:44.038     [Error  ] - Aborting context 211445399603602496, Program: "Main Program".
+ <118799593072365760> 17/07/2025 08:46:05.064     [Error  ] - Aborting context 118799593072365760, Program: "Main Program".
+ <125211090471048384> 17/07/2025 08:46:05.065     [Error  ] - Aborting context 125211090471048384, Program: "Main Program".
+ <40041037611964128> 17/07/2025 08:47:31.189     [Error  ] - Aborting context 40041037611964128, Program: "Main Program".
+ <429592037319405056> 17/07/2025 08:47:31.190     [Error  ] - Aborting context 429592037319405056, Program: "Main Program".
+ <404463586915441216> 17/07/2025 08:52:48.208     [Error  ] - Aborting context 404463586915441216, Program: "Main Program".
+ <205647128160555872> 17/07/2025 09:13:12.664     [Error  ] - Aborting context 205647128160555872, Program: "Main Program".
+ <500147073205035712> 17/07/2025 09:13:12.665     [Error  ] - Aborting context 500147073205035712, Program: "Main Program".
+ <479385644444336960> 17/07/2025 09:36:52.035     [Error  ] - EndTaskRequest(): Error: "Program is not set as External" (-261) : "RunMe" ("GettingStarted")  (msgid "92"), Program: "Main Program".
+ <362554584292396992> 17/07/2025 09:38:49.794     [Error  ] - Aborting context 362554584292396992, Program: "Main Program".
+ <525293607757776896> 17/07/2025 09:38:49.795     [Error  ] - Aborting context 525293607757776896, Program: "Main Program".
+ <290004467035804544> 17/07/2025 09:47:11.942     [Error  ] - Aborting context 290004467035804544, Program: "Main Program".
+ <53676157619548936> 17/07/2025 10:05:21.806     [Error  ] - Aborting context 53676157619548936, Program: "Main Program".
+ <541717236605487936> 17/07/2025 10:31:44.228     [Error  ] - Aborting context 541717236605487936, Program: "Main Program".
+ <455939880662924928> 17/07/2025 10:48:49.456     [Error  ] - Aborting context 455939880662924928, Program: "Main Program".
+ <447372143936821632> 17/07/2025 10:49:30.796     [Error  ] - Aborting context 447372143936821632, Program: "Main Program".
+ <108350757336023120> 17/07/2025 10:54:31.143     [Error  ] - Aborting context 108350757336023120, Program: "Main Program".
+ <217045827104247424> 17/07/2025 10:55:49.159     [Error  ] - Aborting context 217045827104247424, Program: "Main Program".
+ <472526337756811008> 17/07/2025 10:55:49.160     [Error  ] - Aborting context 472526337756811008, Program: "Main Program".
+ <173165337491206464> 17/07/2025 11:10:10.706     [Error  ] - EndTaskRequest(): Error: "Program not found" (-131) : "RunMe" ("GettingStarted")  (msgid "37")
+ <21013678505654180> 17/07/2025 11:11:05.287     [Error  ] - Aborting context 21013678505654180, Program: "Main Program".
+ <332616543159650176> 17/07/2025 11:11:05.289     [Error  ] - Aborting context 332616543159650176, Program: "Main Program".
+ <383955164451495424> 17/07/2025 11:11:05.290     [Error  ] - Aborting context 383955164451495424, Program: "Main Program".
+ <360395032735423296> 17/07/2025 11:11:05.291     [Error  ] - Aborting context 360395032735423296, Program: "Main Program".
+ <141198009070331600> 17/07/2025 11:15:31.087     [Error  ] - Aborting context 141198009070331600, Program: "Main Program".
+ <187652557744396672> 17/07/2025 11:22:13.508     [Error  ] - Aborting context 187652557744396672, Program: "Main Program".
+ <106831515837336624> 17/07/2025 11:24:00.383     [Error  ] - Aborting context 106831515837336624, Program: "Main Program".
+ <204327301668434240> 17/07/2025 11:25:46.797     [Error  ] - Aborting context 204327301668434240, Program: "Main Program".
+ <211595634929573024> 17/07/2025 11:27:44.548     [Error  ] - Aborting context 211595634929573024, Program: "Main Program".
+ <328423842501337600> 17/07/2025 13:47:09.646     [Error  ] - Aborting context 328423842501337600, Program: "Main Program".
+ <570559501625738240> 17/07/2025 13:54:17.132     [Error  ] - Aborting context 570559501625738240, Program: "Main Program".
+ <513674050038055040> 17/07/2025 13:58:32.216     [Error  ] - Aborting context 513674050038055040, Program: "Main Program".
+ <8752986012233100> 17/07/2025 14:02:48.272     [Error  ] - Aborting context 8752986012233100, Program: "Main Program".
+ <487311408782188288> 17/07/2025 14:25:01.543     [Error  ] - Aborting context 487311408782188288, Program: "Main Program".
+ <410102497907689856> 17/07/2025 14:50:51.981     [Error  ] - Aborting context 410102497907689856, Program: "Main Program".
+ <486544713612372352> 17/07/2025 14:50:51.982     [Error  ] - Aborting context 486544713612372352, Program: "Main Program".
+ <52183210096015376> 17/07/2025 15:05:14.318     [Error  ] - Aborting context 52183210096015376, Program: "Main Program".
+ <333536953373527936> 17/07/2025 15:38:43.341     [Error  ] - File not found: : pdf:, Program: "<<<< Iniciar.Countries".
+ <333536953373527936> 17/07/2025 15:38:46.528     [Error  ] - File not found: : pdf:, Program: "<<<< Iniciar.Countries".
+ <333536953373527936> 17/07/2025 15:38:46.920     [Error  ] - File not found: : pdf:, Program: "<<<< Iniciar.Countries".
+ <333536953373527936> 17/07/2025 15:38:47.184     [Error  ] - File not found: : pdf:, Program: "<<<< Iniciar.Countries".
+ <333536953373527936> 17/07/2025 15:38:47.455     [Error  ] - File not found: : pdf:, Program: "<<<< Iniciar.Countries".
+ <333536953373527936> 17/07/2025 15:38:47.729     [Error  ] - File not found: : pdf:, Program: "<<<< Iniciar.Countries".
+ <333536953373527936> 17/07/2025 15:39:26.501     [Error  ] - Aborting context 333536953373527936, Program: "Main Program".
+ <55631675507613856> 17/07/2025 17:08:46.283     [Error  ] - Aborting context 55631675507613856, Program: "Main Program".

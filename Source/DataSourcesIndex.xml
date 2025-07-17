@@ -1,0 +1,29 @@
+ <Application>
+ 
+<Header>
+
+  <Version val="14100.00"/>
+
+  <WithIsn val="Y"/>
+
+  <Exe comp="-1"/>
+
+  <LastIsn val="13"/>
+
+  <LastIsnFolder val="1"/>
+
+</Header>
+
+<DataRepositoryProperties/>
+ <DataSourceRepository>
+  <DataObjects>
+  
+<DataObject PhysicalName="Customers" Public="0" Resident="N" UniqueISNConvState="12" data_source="GettingStarted" id="1" name="Customers" offset="229" length="6868"/> 
+<DataObject PhysicalName="Suppliers" Resident="N" UniqueISNConvState="12" data_source="GettingStarted" id="3" name="Suppliers" offset="7098" length="4484"/> 
+<DataObject PhysicalName="Orders" Resident="N" UniqueISNConvState="12" data_source="GettingStarted" id="4" name="Orders" offset="11583" length="5136"/> 
+<DataObject PhysicalName="Products" Resident="N" UniqueISNConvState="12" data_source="GettingStarted" id="7" name="Products" offset="16720" length="5735"/> 
+<DataObject PhysicalName="Order_Lines" Resident="N" UniqueISNConvState="12" data_source="GettingStarted" id="8" name="Order_Lines" offset="22456" length="6165"/> 
+<DataObject PhysicalName="Countries" Resident="N" UniqueISNConvState="12" data_source="GettingStarted" id="9" name="Countries" offset="28622" length="3676"/> 
+<DataObject PhysicalName="Cities" Resident="N" UniqueISNConvState="12" data_source="GettingStarted" id="10" name="Cities" offset="32299" length="4347"/>  </DataObjects>
+ </DataSourceRepository>
+ <LastModified val="31192671-72775070"/>  </Application>
