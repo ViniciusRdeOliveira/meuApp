@@ -13,8 +13,8 @@
   <ProgramsRepository>
     <Programs>
       <Task MainProgram="N">
-        <Header Description="Import - Products" ISN_2="1" LastIsn="1" id="47">
-          <LastModified _date="739449" _time="60729" date="17/07/2025" time="16:52:09"/>
+        <Header Description="Import - Products" ISN_2="1" LastIsn="1" id="59">
+          <LastModified _date="739450" _time="48452" date="18/07/2025" time="13:27:32"/>
           <ExecutionRight comp="-1"/>
           <Resident val="N"/>
           <SQL val="N"/>
@@ -517,7 +517,7 @@
             <ExpAttribute val="B"/>
           </Expression>
           <Expression id="2">
-            <ExpSyntax val="'Products.TXT'"/>
+            <ExpSyntax val="'C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\meuApp\Text\Products.TXT'"/>
             <ExpAttribute val="A"/>
           </Expression>
         </Expressions>

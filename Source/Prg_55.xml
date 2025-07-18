@@ -14,7 +14,7 @@
     <Programs>
       <Task MainProgram="N">
         <Header Description="Clientes" ISN_2="1" LastIsn="1" id="55">
-          <LastModified _date="739449" _time="63233" date="17/07/2025" time="17:33:53"/>
+          <LastModified _date="739450" _time="52565" date="18/07/2025" time="14:36:05"/>
           <Public val="RunMe"/>
           <ExecutionRight comp="-1"/>
           <Resident val="N"/>
@@ -189,6 +189,18 @@
             </LogicLines>
           </LogicUnit>
           <LogicUnit id="3" propagate="78">
+            <Level val="K"/>
+            <Scope val="S"/>
+            <EngineDirective val="S"/>
+            <ShowMessage val="Y"/>
+            <Condition val="89"/>
+            <Event>
+              <EventType val="S"/>
+            </Event>
+            <TXT val="Evento Interno (mesmo usado no botão em tela)"/>
+            <ExecuteOn_ val="O"/>
+          </LogicUnit>
+          <LogicUnit id="7" propagate="78">
             <Level val="H"/>
             <Type val="U"/>
             <Scope val="S"/>
@@ -196,19 +208,34 @@
             <ShowMessage val="Y"/>
             <Condition val="89"/>
             <Event>
-              <EventType val="U"/>
-              <PublicObject comp="-1" obj="1"/>
+              <EventType val="I"/>
+              <InternalEventID val="30"/>
             </Event>
             <ExecuteOn_ val="O"/>
             <LogicLines>
               <LogicLine>
-                <CallTask FlowIsn="9">
+                <Remark FlowIsn="13">
+                  <Type val="2"/>
+                  <Text val="Call do Programa de edição passando o código de cliente como parametro"/>
+                </Remark>
+              </LogicLine>
+              <LogicLine>
+                <CallTask FlowIsn="11">
                   <OperationType val="P"/>
                   <Event>
                     <EventType val="N"/>
                   </Event>
                   <TaskID comp="-1" obj="51"/>
                   <Lock val="N"/>
+                  <Arguments>
+                    <Argument>
+                      <Variable val="1"/>
+                      <Skip val="N"/>
+                    </Argument>
+                    <Argument>
+                      <Skip val="Y"/>
+                    </Argument>
+                  </Arguments>
                   <Wait val="Y"/>
                   <SyncData val="N"/>
                   <RetainFocus val="N"/>
@@ -218,10 +245,67 @@
                 </CallTask>
               </LogicLine>
               <LogicLine>
-                <Remark FlowIsn="10">
-                  <Type val="2"/>
-                  <Text val=" "/>
-                </Remark>
+                <RaiseEvent FlowIsn="12">
+                  <Event>
+                    <EventType val="I"/>
+                    <InternalEventID val="295"/>
+                  </Event>
+                  <Wait val="78"/>
+                  <Condition val="Y"/>
+                  <Modifier val="B"/>
+                  <Direction val="C"/>
+                </RaiseEvent>
+              </LogicLine>
+            </LogicLines>
+          </LogicUnit>
+          <LogicUnit id="8" propagate="78">
+            <Level val="K"/>
+            <Scope val="S"/>
+            <EngineDirective val="S"/>
+            <ShowMessage val="Y"/>
+            <Condition val="89"/>
+            <Event>
+              <EventType val="S"/>
+            </Event>
+            <ExecuteOn_ val="O"/>
+          </LogicUnit>
+          <LogicUnit id="9" propagate="78">
+            <Level val="H"/>
+            <Type val="U"/>
+            <Scope val="S"/>
+            <EngineDirective val="S"/>
+            <ShowMessage val="Y"/>
+            <Condition val="89"/>
+            <Event>
+              <EventType val="I"/>
+              <InternalEventID val="31"/>
+            </Event>
+            <ExecuteOn_ val="O"/>
+            <LogicLines>
+              <LogicLine>
+                <CallTask FlowIsn="16">
+                  <OperationType val="P"/>
+                  <Event>
+                    <EventType val="N"/>
+                  </Event>
+                  <TaskID comp="-1" obj="51"/>
+                  <Lock val="N"/>
+                  <Arguments>
+                    <Argument>
+                      <Skip val="Y"/>
+                    </Argument>
+                    <Argument>
+                      <Expression val="2"/>
+                      <Skip val="N"/>
+                    </Argument>
+                  </Arguments>
+                  <Wait val="Y"/>
+                  <SyncData val="N"/>
+                  <RetainFocus val="N"/>
+                  <Condition val="Y"/>
+                  <Modifier val="B"/>
+                  <Direction val="C"/>
+                </CallTask>
               </LogicLine>
             </LogicLines>
           </LogicUnit>
@@ -230,8 +314,8 @@
           <FormEntry _last_isn="14" _last_test_id="14" id="1">
             <PropertyList model="FORM_RICH_CLIENT">
               <Model comp="-1" id="1" obj="3"/>
-              <Width id="23" val="390"/>
-              <Height id="24" val="246"/>
+              <Width id="23" val="368"/>
+              <Height id="24" val="236"/>
               <_Comment id="218"/>
               <FormName id="311" valUnicode="Clientes"/>
             </PropertyList>
@@ -257,8 +341,8 @@
                 <ImageListFileName id="88" val="%WorkingDir%images\Add.png"/>
                 <ButtonStyle id="96" val="2"/>
                 <RaiseEvent id="234">
-                  <EventType val="U"/>
-                  <PublicObject comp="-1" obj="1"/>
+                  <EventType val="I"/>
+                  <InternalEventID val="31"/>
                 </RaiseEvent>
                 <TabOrder id="314" val="1"/>
               </PropertyList>
@@ -274,8 +358,8 @@
                 <ImageListFileName id="88" val="%WorkingDir%images\Edit.png"/>
                 <ButtonStyle id="96" val="2"/>
                 <RaiseEvent id="234">
-                  <EventType val="U"/>
-                  <PublicObject comp="-1" obj="2"/>
+                  <EventType val="I"/>
+                  <InternalEventID val="30"/>
                 </RaiseEvent>
                 <TabOrder id="314" val="2"/>
               </PropertyList>
@@ -283,7 +367,7 @@
             <Control _test_id="1" id="1">
               <PropertyList model="CTRL_RICH_CLIENT_TABLE">
                 <Model comp="-1" id="1" obj="15"/>
-                <X id="21" val="19"/>
+                <X id="21" val="8"/>
                 <Y id="22" val="38"/>
                 <Width id="23" val="341"/>
                 <Height id="24" val="166"/>
@@ -299,6 +383,7 @@
                 <Model comp="-1" id="1" obj="16"/>
                 <Width id="23" val="43"/>
                 <ControlLayer id="25" val="1"/>
+                <HorizontalAlignment id="65" val="2"/>
                 <_Sortable id="134" val="Y"/>
                 <ColumnTitle id="139" valUnicode="Código"/>
               </PropertyList>
@@ -308,6 +393,7 @@
                 <Model comp="-1" id="1" obj="16"/>
                 <Width id="23" val="116"/>
                 <ControlLayer id="25" val="2"/>
+                <HorizontalAlignment id="65" val="2"/>
                 <ColumnTitle id="139" valUnicode="Nome"/>
               </PropertyList>
             </Control>
@@ -316,6 +402,7 @@
                 <Model comp="-1" id="1" obj="16"/>
                 <Width id="23" val="44"/>
                 <ControlLayer id="25" val="3"/>
+                <HorizontalAlignment id="65" val="2"/>
                 <ColumnTitle id="139" valUnicode="Ouro"/>
               </PropertyList>
             </Control>
@@ -324,6 +411,7 @@
                 <Model comp="-1" id="1" obj="16"/>
                 <Width id="23" val="54"/>
                 <ControlLayer id="25" val="4"/>
+                <HorizontalAlignment id="65" val="2"/>
                 <ColumnTitle id="139" valUnicode="Salário"/>
               </PropertyList>
             </Control>
@@ -332,6 +420,7 @@
                 <Model comp="-1" id="1" obj="16"/>
                 <Width id="23" val="66"/>
                 <ControlLayer id="25" val="5"/>
+                <HorizontalAlignment id="65" val="2"/>
                 <ColumnTitle id="139" valUnicode="Credito"/>
               </PropertyList>
             </Control>
@@ -339,7 +428,7 @@
               <PropertyList model="CTRL_RICH_CLIENT_EDIT">
                 <Model comp="-1" id="1" obj="14"/>
                 <Placement bottom="100" id="20" right="100"/>
-                <X id="21" val="21"/>
+                <X id="21" val="10"/>
                 <Y id="22" val="51"/>
                 <Width id="23" val="39"/>
                 <Height id="24" val="12"/>
@@ -357,7 +446,7 @@
               <PropertyList model="CTRL_RICH_CLIENT_EDIT">
                 <Model comp="-1" id="1" obj="14"/>
                 <Placement bottom="100" id="20" right="100"/>
-                <X id="21" val="64"/>
+                <X id="21" val="53"/>
                 <Y id="22" val="51"/>
                 <Width id="23" val="111"/>
                 <Height id="24" val="12"/>
@@ -375,7 +464,7 @@
               <PropertyList model="CTRL_RICH_CLIENT_EDIT">
                 <Model comp="-1" id="1" obj="14"/>
                 <Placement bottom="100" id="20" right="100"/>
-                <X id="21" val="180"/>
+                <X id="21" val="169"/>
                 <Y id="22" val="51"/>
                 <Width id="23" val="31"/>
                 <Height id="24" val="12"/>
@@ -393,7 +482,7 @@
               <PropertyList model="CTRL_RICH_CLIENT_EDIT">
                 <Model comp="-1" id="1" obj="14"/>
                 <Placement bottom="100" id="20" right="100"/>
-                <X id="21" val="224"/>
+                <X id="21" val="213"/>
                 <Y id="22" val="51"/>
                 <Width id="23" val="50"/>
                 <Height id="24" val="12"/>
@@ -411,7 +500,7 @@
               <PropertyList model="CTRL_RICH_CLIENT_EDIT">
                 <Model comp="-1" id="1" obj="14"/>
                 <Placement bottom="100" id="20" right="100"/>
-                <X id="21" val="278"/>
+                <X id="21" val="267"/>
                 <Y id="22" val="51"/>
                 <Width id="23" val="65"/>
                 <Height id="24" val="12"/>
@@ -427,6 +516,16 @@
             </Control>
           </FormEntry>
         </TaskForms>
+        <Expressions>
+          <Expression id="1">
+            <ExpSyntax val="{0,1}"/>
+            <ExpAttribute val="N"/>
+          </Expression>
+          <Expression id="2">
+            <ExpSyntax val="'TRUE'LOG"/>
+            <ExpAttribute val="B"/>
+          </Expression>
+        </Expressions>
         <EVNT DESC="Adicionar" FORCE_EXIT="N" id="1">
           <Event>
             <EventType val="N"/>

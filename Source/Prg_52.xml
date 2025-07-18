@@ -13,8 +13,8 @@
   <ProgramsRepository>
     <Programs>
       <Task MainProgram="N">
-        <Header Description="Fornecedores Edit" ISN_2="1" LastIsn="1" id="52">
-          <LastModified _date="739449" _time="63556" date="17/07/2025" time="17:39:16"/>
+        <Header Description="Fornecedores" ISN_2="1" LastIsn="1" id="52">
+          <LastModified _date="739450" _time="38186" date="18/07/2025" time="10:36:26"/>
           <ExecutionRight comp="-1"/>
           <Resident val="N"/>
           <SQL val="N"/>
@@ -30,7 +30,7 @@
           <FormType val="D"/>
           <DotNetObjectExists val="N"/>
         </Header>
-        <ItemIsn val="6"/>
+        <ItemIsn val="8"/>
         <Resource>
           <DB id="1">
             <DataObject comp="-1" obj="3"/>
@@ -121,6 +121,28 @@
                 </DATAVIEW_SRC>
               </LogicLine>
               <LogicLine>
+                <Select FieldID="7" FlowIsn="9" id="7">
+                  <Type val="R"/>
+                  <ExposedToRoute val="N"/>
+                  <IsParameter val="N"/>
+                  <DIFF_UPDATE val="T"/>
+                  <Condition val="Y"/>
+                  <Modifier val="S"/>
+                  <Direction val="C"/>
+                </Select>
+              </LogicLine>
+              <LogicLine>
+                <Select FieldID="8" FlowIsn="10" id="8">
+                  <Type val="R"/>
+                  <ExposedToRoute val="N"/>
+                  <IsParameter val="N"/>
+                  <DIFF_UPDATE val="T"/>
+                  <Condition val="Y"/>
+                  <Modifier val="S"/>
+                  <Direction val="C"/>
+                </Select>
+              </LogicLine>
+              <LogicLine>
                 <Select FieldID="1" FlowIsn="3" id="1">
                   <Column val="1"/>
                   <Type val="R"/>
@@ -207,7 +229,7 @@
               <Model comp="-1" id="1" obj="3"/>
               <Width id="23" val="248"/>
               <_Comment id="218"/>
-              <FormName id="311" valUnicode="Fornecedores Edit"/>
+              <FormName id="311" valUnicode="Fornecedores"/>
             </PropertyList>
             <Control _test_id="1" id="1">
               <PropertyList model="CTRL_RICH_CLIENT_LABEL">
@@ -222,9 +244,7 @@
             </Control>
             <Control PDOD="1" _test_id="2" id="2">
               <PropertyList model="CTRL_RICH_CLIENT_EDIT">
-                <Model ID="MODEL_RICH_CLIENT" id="1">
-                  <Var FieldID="1"/>
-                </Model>
+                <Model comp="-1" id="1" obj="14"/>
                 <X id="21" val="114"/>
                 <Y id="22" val="49"/>
                 <Width id="23" val="114"/>
@@ -232,7 +252,7 @@
                 <Data FieldID="1" id="43"/>
                 <ControlName id="46" val="Supplier_Code"/>
                 <HorizontalAlignment id="65" val="2"/>
-                <TabOrder id="314" val="3"/>
+                <TabOrder id="314" val="1"/>
               </PropertyList>
             </Control>
             <Control _test_id="3" id="3">
@@ -241,7 +261,7 @@
                 <Text id="19" valUnicode="Código"/>
                 <X id="21" val="8"/>
                 <Y id="22" val="52"/>
-                <Width id="23" val="70"/>
+                <Width id="23" val="35"/>
                 <Height id="24" val="9"/>
                 <Style id="63" val="7"/>
                 <_Orientation id="143"/>
@@ -249,17 +269,15 @@
             </Control>
             <Control _test_id="4" id="4">
               <PropertyList model="CTRL_RICH_CLIENT_EDIT">
-                <Model ID="MODEL_RICH_CLIENT" id="1">
-                  <Var FieldID="2"/>
-                </Model>
-                <X id="21" val="117"/>
+                <Model comp="-1" id="1" obj="14"/>
+                <X id="21" val="114"/>
                 <Y id="22" val="71"/>
-                <Width id="23" val="111"/>
+                <Width id="23" val="114"/>
                 <Height id="24" val="12"/>
                 <Data FieldID="2" id="43"/>
                 <ControlName id="46" val="Supplier_Name"/>
                 <HorizontalAlignment id="65" val="2"/>
-                <TabOrder id="314" val="4"/>
+                <TabOrder id="314" val="2"/>
               </PropertyList>
             </Control>
             <Control _test_id="5" id="5">
@@ -268,7 +286,7 @@
                 <Text id="19" valUnicode="Nome"/>
                 <X id="21" val="8"/>
                 <Y id="22" val="73"/>
-                <Width id="23" val="73"/>
+                <Width id="23" val="29"/>
                 <Height id="24" val="9"/>
                 <Style id="63" val="7"/>
                 <_Orientation id="143"/>
@@ -276,9 +294,7 @@
             </Control>
             <Control PDOD="128" _test_id="6" id="6">
               <PropertyList model="CTRL_RICH_CLIENT_EDIT">
-                <Model ID="MODEL_RICH_CLIENT" id="1">
-                  <Var FieldID="3"/>
-                </Model>
+                <Model comp="-1" id="1" obj="14"/>
                 <X id="21" val="114"/>
                 <Y id="22" val="93"/>
                 <Width id="23" val="111"/>
@@ -286,7 +302,7 @@
                 <Data FieldID="3" id="43"/>
                 <ControlName id="46" val="Phone_Number"/>
                 <HorizontalAlignment id="65" val="2"/>
-                <TabOrder id="314" val="5"/>
+                <TabOrder id="314" val="3"/>
               </PropertyList>
             </Control>
             <Control _test_id="7" id="7">
@@ -295,7 +311,7 @@
                 <Text id="19" valUnicode="Telefone"/>
                 <X id="21" val="8"/>
                 <Y id="22" val="94"/>
-                <Width id="23" val="72"/>
+                <Width id="23" val="43"/>
                 <Height id="24" val="9"/>
                 <Style id="63" val="7"/>
                 <_Orientation id="143"/>
@@ -307,7 +323,7 @@
                 <Text id="19" valUnicode="Endereço"/>
                 <X id="21" val="8"/>
                 <Y id="22" val="115"/>
-                <Width id="23" val="40"/>
+                <Width id="23" val="46"/>
                 <Height id="24" val="9"/>
                 <Style id="63" val="7"/>
                 <_Orientation id="143"/>
@@ -315,9 +331,7 @@
             </Control>
             <Control _test_id="8" id="8">
               <PropertyList model="CTRL_RICH_CLIENT_EDIT">
-                <Model ID="MODEL_RICH_CLIENT" id="1">
-                  <Var FieldID="4"/>
-                </Model>
+                <Model comp="-1" id="1" obj="14"/>
                 <X id="21" val="114"/>
                 <Y id="22" val="115"/>
                 <Width id="23" val="111"/>
@@ -325,7 +339,7 @@
                 <Data FieldID="4" id="43"/>
                 <ControlName id="46" val="Address"/>
                 <HorizontalAlignment id="65" val="2"/>
-                <TabOrder id="314" val="6"/>
+                <TabOrder id="314" val="4"/>
               </PropertyList>
             </Control>
             <Control _test_id="11" id="11">
@@ -334,7 +348,7 @@
                 <Text id="19" valUnicode="Ano de Início"/>
                 <X id="21" val="8"/>
                 <Y id="22" val="136"/>
-                <Width id="23" val="125"/>
+                <Width id="23" val="61"/>
                 <Height id="24" val="9"/>
                 <Style id="63" val="7"/>
                 <_Orientation id="143"/>
@@ -342,17 +356,15 @@
             </Control>
             <Control PDOD="1" _test_id="10" id="10">
               <PropertyList model="CTRL_RICH_CLIENT_EDIT">
-                <Model ID="MODEL_RICH_CLIENT" id="1">
-                  <Var FieldID="5"/>
-                </Model>
-                <X id="21" val="141"/>
+                <Model comp="-1" id="1" obj="14"/>
+                <X id="21" val="114"/>
                 <Y id="22" val="137"/>
-                <Width id="23" val="84"/>
+                <Width id="23" val="111"/>
                 <Height id="24" val="12"/>
                 <Data FieldID="5" id="43"/>
                 <ControlName id="46" val="Year_Since_Start_Working"/>
                 <HorizontalAlignment id="65" val="2"/>
-                <TabOrder id="314" val="7"/>
+                <TabOrder id="314" val="5"/>
               </PropertyList>
             </Control>
             <Control _test_id="13" id="13">
@@ -369,43 +381,15 @@
             </Control>
             <Control PDOD="17" _test_id="12" id="12">
               <PropertyList model="CTRL_RICH_CLIENT_EDIT">
-                <Model ID="MODEL_RICH_CLIENT" id="1">
-                  <Var FieldID="6"/>
-                </Model>
-                <X id="21" val="136"/>
+                <Model comp="-1" id="1" obj="14"/>
+                <X id="21" val="114"/>
                 <Y id="22" val="159"/>
-                <Width id="23" val="89"/>
+                <Width id="23" val="111"/>
                 <Height id="24" val="12"/>
                 <Data FieldID="6" id="43"/>
                 <ControlName id="46" val="Bonus"/>
                 <HorizontalAlignment id="65" val="2"/>
-                <TabOrder id="314" val="8"/>
-              </PropertyList>
-            </Control>
-            <Control _test_id="15" id="15">
-              <PropertyList model="CTRL_RICH_CLIENT_PUSH_BUTTON">
-                <Model comp="-1" id="1" obj="17"/>
-                <X id="21" val="184"/>
-                <Y id="22" val="33"/>
-                <Width id="23" val="11"/>
-                <Height id="24" val="8"/>
-                <Format id="82"/>
-                <ImageListFileName id="88" val="%WorkingDir%images\Ok.png"/>
-                <ButtonStyle id="96" val="2"/>
-                <TabOrder id="314" val="1"/>
-              </PropertyList>
-            </Control>
-            <Control _test_id="14" id="14">
-              <PropertyList model="CTRL_RICH_CLIENT_PUSH_BUTTON">
-                <Model comp="-1" id="1" obj="17"/>
-                <X id="21" val="208"/>
-                <Y id="22" val="33"/>
-                <Width id="23" val="11"/>
-                <Height id="24" val="8"/>
-                <Format id="82"/>
-                <ImageListFileName id="88" val="%WorkingDir%images\Delete.png"/>
-                <ButtonStyle id="96" val="2"/>
-                <TabOrder id="314" val="2"/>
+                <TabOrder id="314" val="6"/>
               </PropertyList>
             </Control>
           </FormEntry>
