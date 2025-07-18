@@ -14,8 +14,7 @@
     <Programs>
       <Task MainProgram="N">
         <Header Description="Clientes" ISN_2="1" LastIsn="1" id="55">
-          <LastModified _date="739450" _time="52565" date="18/07/2025" time="14:36:05"/>
-          <Public val="RunMe"/>
+          <LastModified _date="739450" _time="57641" date="18/07/2025" time="16:00:41"/>
           <ExecutionRight comp="-1"/>
           <Resident val="N"/>
           <SQL val="N"/>
@@ -26,7 +25,7 @@
           <SqlWhereExist val="N"/>
           <TaskType val="C"/>
           <Interactive val="Y"/>
-          <External val="Y"/>
+          <External val="N"/>
           <Offline val="N"/>
           <FormType val="D"/>
           <DotNetObjectExists val="N"/>
@@ -277,8 +276,8 @@
             <ShowMessage val="Y"/>
             <Condition val="89"/>
             <Event>
-              <EventType val="I"/>
-              <InternalEventID val="31"/>
+              <EventType val="U"/>
+              <PublicObject comp="-1" obj="1"/>
             </Event>
             <ExecuteOn_ val="O"/>
             <LogicLines>
@@ -314,7 +313,7 @@
           <FormEntry _last_isn="14" _last_test_id="14" id="1">
             <PropertyList model="FORM_RICH_CLIENT">
               <Model comp="-1" id="1" obj="3"/>
-              <Width id="23" val="368"/>
+              <Width id="23" val="346"/>
               <Height id="24" val="236"/>
               <_Comment id="218"/>
               <FormName id="311" valUnicode="Clientes"/>
@@ -323,7 +322,7 @@
               <PropertyList model="CTRL_RICH_CLIENT_LABEL">
                 <Model comp="-1" id="1" obj="21"/>
                 <Text id="19" valUnicode="Clientes"/>
-                <X id="21" val="153"/>
+                <X id="21" val="129"/>
                 <Y id="22" val="5"/>
                 <Width id="23" val="73"/>
                 <Height id="24" val="17"/>
@@ -333,7 +332,7 @@
             <Control _test_id="13" id="13">
               <PropertyList model="CTRL_RICH_CLIENT_PUSH_BUTTON">
                 <Model comp="-1" id="1" obj="17"/>
-                <X id="21" val="305"/>
+                <X id="21" val="287"/>
                 <Y id="22" val="27"/>
                 <Width id="23" val="10"/>
                 <Height id="24" val="8"/>
@@ -341,8 +340,8 @@
                 <ImageListFileName id="88" val="%WorkingDir%images\Add.png"/>
                 <ButtonStyle id="96" val="2"/>
                 <RaiseEvent id="234">
-                  <EventType val="I"/>
-                  <InternalEventID val="31"/>
+                  <EventType val="U"/>
+                  <PublicObject comp="-1" obj="1"/>
                 </RaiseEvent>
                 <TabOrder id="314" val="1"/>
               </PropertyList>
@@ -350,7 +349,7 @@
             <Control _test_id="14" id="14">
               <PropertyList model="CTRL_RICH_CLIENT_PUSH_BUTTON">
                 <Model comp="-1" id="1" obj="17"/>
-                <X id="21" val="331"/>
+                <X id="21" val="313"/>
                 <Y id="22" val="27"/>
                 <Width id="23" val="10"/>
                 <Height id="24" val="8"/>
@@ -367,15 +366,16 @@
             <Control _test_id="1" id="1">
               <PropertyList model="CTRL_RICH_CLIENT_TABLE">
                 <Model comp="-1" id="1" obj="15"/>
+                <Placement bottom="100" id="20"/>
                 <X id="21" val="8"/>
                 <Y id="22" val="38"/>
-                <Width id="23" val="341"/>
+                <Width id="23" val="325"/>
                 <Height id="24" val="166"/>
                 <ControlName id="46"/>
                 <_TitleHeight id="79" val="11"/>
                 <RowHeight id="80" val="14"/>
                 <Elements id="81" val="5"/>
-                <_WindowWidth id="241" val="341"/>
+                <_WindowWidth id="241" val="325"/>
               </PropertyList>
             </Control>
             <Control ISN_FATHER="1" PDOD="128" _test_id="2" id="2">
@@ -391,7 +391,7 @@
             <Control ISN_FATHER="1" PDOD="128" _test_id="4" id="4">
               <PropertyList model="CTRL_RICH_CLIENT_COLUMN">
                 <Model comp="-1" id="1" obj="16"/>
-                <Width id="23" val="116"/>
+                <Width id="23" val="101"/>
                 <ControlLayer id="25" val="2"/>
                 <HorizontalAlignment id="65" val="2"/>
                 <ColumnTitle id="139" valUnicode="Nome"/>
@@ -448,7 +448,7 @@
                 <Placement bottom="100" id="20" right="100"/>
                 <X id="21" val="53"/>
                 <Y id="22" val="51"/>
-                <Width id="23" val="111"/>
+                <Width id="23" val="97"/>
                 <Height id="24" val="12"/>
                 <ControlLayer id="25" val="2"/>
                 <Data FieldID="2" id="43"/>
@@ -464,7 +464,7 @@
               <PropertyList model="CTRL_RICH_CLIENT_EDIT">
                 <Model comp="-1" id="1" obj="14"/>
                 <Placement bottom="100" id="20" right="100"/>
-                <X id="21" val="169"/>
+                <X id="21" val="154"/>
                 <Y id="22" val="51"/>
                 <Width id="23" val="31"/>
                 <Height id="24" val="12"/>
@@ -482,7 +482,7 @@
               <PropertyList model="CTRL_RICH_CLIENT_EDIT">
                 <Model comp="-1" id="1" obj="14"/>
                 <Placement bottom="100" id="20" right="100"/>
-                <X id="21" val="213"/>
+                <X id="21" val="198"/>
                 <Y id="22" val="51"/>
                 <Width id="23" val="50"/>
                 <Height id="24" val="12"/>
@@ -500,7 +500,7 @@
               <PropertyList model="CTRL_RICH_CLIENT_EDIT">
                 <Model comp="-1" id="1" obj="14"/>
                 <Placement bottom="100" id="20" right="100"/>
-                <X id="21" val="267"/>
+                <X id="21" val="252"/>
                 <Y id="22" val="51"/>
                 <Width id="23" val="65"/>
                 <Height id="24" val="12"/>

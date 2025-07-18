@@ -14,7 +14,7 @@
     <Programs>
       <Task MainProgram="N">
         <Header Description="Pedidos" ISN_2="1" LastIsn="1" id="57">
-          <LastModified _date="739450" _time="52158" date="18/07/2025" time="14:29:18"/>
+          <LastModified _date="739450" _time="57436" date="18/07/2025" time="15:57:16"/>
           <ExecutionRight comp="-1"/>
           <Resident val="N"/>
           <SQL val="N"/>
@@ -279,6 +279,15 @@
                   </Event>
                   <TaskID comp="-1" obj="53"/>
                   <Lock val="N"/>
+                  <Arguments>
+                    <Argument>
+                      <Skip val="Y"/>
+                    </Argument>
+                    <Argument>
+                      <Expression val="2"/>
+                      <Skip val="N"/>
+                    </Argument>
+                  </Arguments>
                   <Wait val="Y"/>
                   <SyncData val="N"/>
                   <RetainFocus val="N"/>
@@ -286,6 +295,18 @@
                   <Modifier val="B"/>
                   <Direction val="C"/>
                 </CallTask>
+              </LogicLine>
+              <LogicLine>
+                <RaiseEvent FlowIsn="18">
+                  <Event>
+                    <EventType val="I"/>
+                    <InternalEventID val="295"/>
+                  </Event>
+                  <Wait val="78"/>
+                  <Condition val="Y"/>
+                  <Modifier val="B"/>
+                  <Direction val="C"/>
+                </RaiseEvent>
               </LogicLine>
             </LogicLines>
           </LogicUnit>
@@ -448,6 +469,10 @@
           <Expression id="1">
             <ExpSyntax val="{0,5}"/>
             <ExpAttribute val="N"/>
+          </Expression>
+          <Expression id="2">
+            <ExpSyntax val="'TRUE'LOG"/>
+            <ExpAttribute val="B"/>
           </Expression>
         </Expressions>
         <EVNT DESC="Adcionar" FORCE_EXIT="N" id="1">

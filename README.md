@@ -24,3 +24,18 @@ Este projeto serve como base para aplicações empresariais de gestão de dados,
 ---
 
 *Projeto de caráter educacional e demonstrativo.*
+
+## Regras de Negócio
+
+### Edição de Clientes
+
+- Se o **salário** for **maior que 5000**:
+  - O cliente é promovido a **Cliente Ouro**
+  - A **data e hora atual** são registradas
+  - O **crédito** é atualizado para: `salário × 3`
+
+- Se o **salário** for **maior que 2000** e **até 4999**:
+  - O **crédito** será calculado como: `salário × 2`
+
+- Se o **salário** for **menor que 2000**:
+  - O **crédito** será igual ao valor do **salário**

@@ -14,7 +14,7 @@
     <Programs>
       <Task MainProgram="N">
         <Header Description="Fornecedores" ISN_2="1" LastIsn="1" id="52">
-          <LastModified _date="739450" _time="38186" date="18/07/2025" time="10:36:26"/>
+          <LastModified _date="739450" _time="57916" date="18/07/2025" time="16:05:16"/>
           <ExecutionRight comp="-1"/>
           <Resident val="N"/>
           <SQL val="N"/>
@@ -119,28 +119,6 @@
                   <Modifier val="B"/>
                   <Direction val="C"/>
                 </DATAVIEW_SRC>
-              </LogicLine>
-              <LogicLine>
-                <Select FieldID="7" FlowIsn="9" id="7">
-                  <Type val="R"/>
-                  <ExposedToRoute val="N"/>
-                  <IsParameter val="N"/>
-                  <DIFF_UPDATE val="T"/>
-                  <Condition val="Y"/>
-                  <Modifier val="S"/>
-                  <Direction val="C"/>
-                </Select>
-              </LogicLine>
-              <LogicLine>
-                <Select FieldID="8" FlowIsn="10" id="8">
-                  <Type val="R"/>
-                  <ExposedToRoute val="N"/>
-                  <IsParameter val="N"/>
-                  <DIFF_UPDATE val="T"/>
-                  <Condition val="Y"/>
-                  <Modifier val="S"/>
-                  <Direction val="C"/>
-                </Select>
               </LogicLine>
               <LogicLine>
                 <Select FieldID="1" FlowIsn="3" id="1">
