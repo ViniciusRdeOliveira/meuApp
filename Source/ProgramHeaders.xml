@@ -248,7 +248,7 @@
         <Interactive val="Y"/>
         <External val="N"/>
         <Offline val="N"/>
-        <FormType val="D"/>
+        <FormType val="M"/>
         <DotNetObjectExists val="N"/>
       </Header>
       <SourceFileTimeStamp _date="739453" _time="44138" date="21/07/2025" time="12:15:38"/>
@@ -275,7 +275,7 @@
     </Program>
     <Program>
       <Header Description="Países e Cidades" ISN_2="1" LastIsn="5" id="54">
-        <LastModified _date="739453" _time="50561" date="21/07/2025" time="14:02:41"/>
+        <LastModified _date="739453" _time="62614" date="21/07/2025" time="17:23:34"/>
         <ExecutionRight comp="-1"/>
         <Resident val="N"/>
         <SQL val="N"/>
@@ -291,7 +291,7 @@
         <FormType val="D"/>
         <DotNetObjectExists val="N"/>
       </Header>
-      <SourceFileTimeStamp _date="739453" _time="61361" date="21/07/2025" time="17:02:41"/>
+      <SourceFileTimeStamp _date="739453" _time="73414" date="21/07/2025" time="20:23:34"/>
     </Program>
     <Program>
       <Header Description="Produtos" ISN_2="1" LastIsn="1" id="58">
@@ -418,6 +418,28 @@
         <DotNetObjectExists val="N"/>
       </Header>
       <SourceFileTimeStamp _date="739453" _time="65688" date="21/07/2025" time="18:14:48"/>
+    </Program>
+    <Program>
+      <Header Description="Relatório - Países e Cidades" ISN_2="1" LastIsn="1" id="66">
+        <LastModified _date="739453" _time="61603" date="21/07/2025" time="17:06:43"/>
+        <ExecutionRight comp="-1"/>
+        <Resident val="N"/>
+        <SQL val="N"/>
+        <ReturnValue>
+          <ReturnValueAttr/>
+          <TSK_PARAMS val="1"/>
+          <ParametersAttributes>
+            <Attr MgAttr="A"/>
+          </ParametersAttributes>
+        </ReturnValue>
+        <SqlWhereExist val="N"/>
+        <TaskType val="B"/>
+        <External val="N"/>
+        <Offline val="N"/>
+        <FormType val="N"/>
+        <DotNetObjectExists val="N"/>
+      </Header>
+      <SourceFileTimeStamp _date="739453" _time="72403" date="21/07/2025" time="20:06:43"/>
     </Program>
   </ProgramsRepositoryHeaders>
 

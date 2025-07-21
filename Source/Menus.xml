@@ -680,7 +680,7 @@
         </MenuEntry>
         <MenuEntry id="6">
           <MenuType val="2"/>
-          <Description_U val="Paises"/>
+          <Description_U val="Paises &amp; Cidades"/>
           <Right comp="-1"/>
           <Help comp="-1"/>
           <Prompt comp="-1"/>
