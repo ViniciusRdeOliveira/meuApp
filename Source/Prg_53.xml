@@ -14,7 +14,7 @@
     <Programs>
       <Task MainProgram="N">
         <Header Description="Pedidos Edit" ISN_2="1" LastIsn="1" id="53">
-          <LastModified _date="739450" _time="57812" date="18/07/2025" time="16:03:32"/>
+          <LastModified _date="739453" _time="33338" date="21/07/2025" time="09:15:38"/>
           <ExecutionRight comp="-1"/>
           <Resident val="N"/>
           <SQL val="N"/>
@@ -612,6 +612,14 @@
           </Expression>
           <Expression id="3">
             <ExpSyntax val="{0,3}"/>
+            <ExpAttribute val="N"/>
+          </Expression>
+          <Expression id="4">
+            <ExpSyntax val="'C'MODE"/>
+            <ExpAttribute val="A"/>
+          </Expression>
+          <Expression id="7">
+            <ExpSyntax val="{0,6}+1"/>
             <ExpAttribute val="N"/>
           </Expression>
         </Expressions>

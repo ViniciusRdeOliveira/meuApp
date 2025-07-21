@@ -4,7 +4,7 @@
   <Header>
     <Version val="14100.00"/>
     <WithIsn val="Y"/>
-    <LastIsn val="21"/>
+    <LastIsn val="23"/>
     <LastIsnFolder val="0"/>
   </Header>
 
@@ -186,6 +186,18 @@
         <PropertyList model="CTRL_RICH_CLIENT_LABEL">
           <Font id="50" val="14"/>
           <Color id="51" val="9"/>
+        </PropertyList>
+      </Object>
+      <Object id="22" name="Cabeçalho">
+        <PropertyList model="CTRL_GUI1_IMAGE">
+          <DefaultImageFile id="88" val="%WorkingDir%images\Print_Logo.jpg"/>
+          <ImageStyle id="89" val="3"/>
+        </PropertyList>
+      </Object>
+      <Object id="23" name="Rodapé">
+        <PropertyList model="CTRL_GUI1_IMAGE">
+          <DefaultImageFile id="88" val="%WorkingDir%images\Print_Footer.jpg"/>
+          <ImageStyle id="89" val="3"/>
         </PropertyList>
       </Object>
     </Models>

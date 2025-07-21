@@ -14,7 +14,7 @@
     <Programs>
       <Task MainProgram="N">
         <Header Description="&lt;&lt;&lt; Iniciar" ISN_2="1" LastIsn="1" id="60">
-          <LastModified _date="739450" _time="57867" date="18/07/2025" time="16:04:27"/>
+          <LastModified _date="739453" _time="57879" date="21/07/2025" time="16:04:39"/>
           <Public val="RunMe"/>
           <ExecutionRight comp="-1"/>
           <Resident val="N"/>
@@ -75,7 +75,7 @@
             <KeepCreatedContext val="N"/>
           </TaskProperties>
           <SIDE_WIN>
-            <AllowOptions val="Y"/>
+            <AllowOptions val="N"/>
             <AllowQuery val="Y"/>
             <AllowModify val="Y"/>
             <AllowCreate val="Y"/>
@@ -141,8 +141,17 @@
           <FormEntry _last_isn="2" _last_test_id="2" id="1">
             <PropertyList model="FORM_RICH_CLIENT">
               <Model comp="-1" id="1" obj="3"/>
+              <Width id="23" val="1016"/>
+              <Height id="24" val="847"/>
+              <FormUnits id="33" val="2"/>
+              <VerticalFactor id="34" val="100"/>
+              <HorizontalFactor id="35" val="100"/>
+              <GridX id="38" val="13"/>
+              <GridY id="39" val="34"/>
+              <Wallpaper id="42" val="%WorkingDir%env\Wallpaper.jpg"/>
               <_Comment id="218"/>
               <FormName id="311" valUnicode="&lt;&lt;&lt; Iniciar"/>
+              <_ContextMenu comp="-1" id="442" obj="5"/>
               <WallpaperStyle id="448" val="4"/>
               <NavigationDrawerMenu comp="-1" id="662" obj="5"/>
               <ActionBarMenu id="683"/>
@@ -152,10 +161,10 @@
                 <Model comp="-1" id="1" obj="21"/>
                 <Text id="19" valUnicode="Bem-Vindo"/>
                 <Placement id="20" left="50" right="50"/>
-                <X id="21" val="106"/>
-                <Y id="22" val="80"/>
-                <Width id="23" val="97"/>
-                <Height id="24" val="17"/>
+                <X id="21" val="337"/>
+                <Y id="22" val="339"/>
+                <Width id="23" val="308"/>
+                <Height id="24" val="72"/>
                 <_Orientation id="143"/>
                 <_ContextMenu comp="-1" id="442" obj="5"/>
               </PropertyList>

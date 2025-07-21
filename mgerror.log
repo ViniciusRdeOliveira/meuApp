@@ -1044,3 +1044,50 @@
  <465945361790957696> 18/07/2025 14:08:41.597     [Error  ] - Aborting context 465945361790957696, Program: "Main Program".
  <32362680879219684> 18/07/2025 14:31:39.654     [Error  ] - Aborting context 32362680879219684, Program: "Main Program".
  <510828056968440128> 18/07/2025 16:03:13.106     [Error  ] - Aborting context 510828056968440128, Program: "Main Program".
+ <25780357164969080> 21/07/2025 08:22:05.393     [Error  ] - Aborting context 25780357164969080, Program: "Main Program".
+ <371713408081922048> 21/07/2025 08:31:36.920     [Error  ] - Aborting context 371713408081922048, Program: "Main Program".
+ <219514594908249952> 21/07/2025 08:37:38.016     [Error  ] - Aborting context 219514594908249952, Program: "Main Program".
+ <120250412347490000> 21/07/2025 08:46:04.610     [Error  ] - Aborting context 120250412347490000, Program: "Main Program".
+ <559436356620589376> 21/07/2025 08:57:14.735     [Error  ] - Aborting context 559436356620589376, Program: "Main Program".
+ <211423176865818880> 21/07/2025 09:05:17.265     [Error  ] - Aborting context 211423176865818880, Program: "Main Program".
+ <275454136376640320> 21/07/2025 09:05:17.267     [Error  ] - Aborting context 275454136376640320, Program: "Main Program".
+ <94367923410220176> 21/07/2025 09:08:03.738     [Error  ] - Aborting context 94367923410220176, Program: "Main Program".
+ <383006952704392960> 21/07/2025 09:13:55.572     [Error  ] - Aborting context 383006952704392960, Program: "Main Program".
+ <545697383767770816> 21/07/2025 09:15:25.641     [Error  ] - Aborting context 545697383767770816, Program: "Main Program".
+ <21866105746727832> 21/07/2025 09:16:39.634     [Error  ] - Aborting context 21866105746727832, Program: "Main Program".
+ <549366472669964544> 21/07/2025 09:58:53.562     [Error  ] - Aborting context 549366472669964544, Program: "Main Program".
+ <102802016114180064> 21/07/2025 09:59:28.842     [Error  ] - Aborting context 102802016114180064, Program: "Main Program".
+ <202215562724434464> 21/07/2025 10:00:31.246     [Error  ] - Aborting context 202215562724434464, Program: "Main Program".
+ <406886674137782720> 21/07/2025 11:18:23.396     [Error  ] - Aborting context 406886674137782720, Program: "Main Program".
+ <529996577906496768> 21/07/2025 11:19:03.468     [Error  ] - Aborting context 529996577906496768, Program: "Main Program".
+ <214892082352990656> 21/07/2025 11:20:06.058     [Error  ] - Aborting context 214892082352990656, Program: "Main Program".
+ <31933704859246968> 21/07/2025 11:32:28.299     [Error  ] - Aborting context 31933704859246968, Program: "Main Program".
+ <341472012532701184> 21/07/2025 11:44:24.240     [Error  ] - Aborting context 341472012532701184, Program: "Main Program".
+ <16552010982264656> 21/07/2025 13:32:27.261     [Error  ] - Aborting context 16552010982264656, Program: "Main Program".
+ <409278632299674240> 21/07/2025 13:35:55.930     [Error  ] - Aborting context 409278632299674240, Program: "Main Program".
+ <188162160396099200> 21/07/2025 13:36:45.837     [Error  ] - Aborting context 188162160396099200, Program: "Main Program".
+ <110370014135931840> 21/07/2025 14:03:33.541     [Error  ] - Aborting context 110370014135931840, Program: "Main Program".
+ <418672554956924864> 21/07/2025 14:18:03.356     [Error  ] - Aborting context 418672554956924864, Program: "Main Program".
+ <466513783606044736> 21/07/2025 14:25:40.525     [Error  ] - Aborting context 466513783606044736, Program: "Main Program".
+ <254061441579597856> 21/07/2025 14:31:42.808     [Error  ] - Aborting context 254061441579597856, Program: "Main Program".
+ <344581947808932160> 21/07/2025 14:32:29.686     [Error  ] - Aborting context 344581947808932160, Program: "Main Program".
+ <370369564988826624> 21/07/2025 14:47:40.764     [Error  ] - Aborting context 370369564988826624, Program: "Main Program".
+ <105277978411750048> 21/07/2025 14:49:44.822     [Error  ] - Aborting context 105277978411750048, Program: "Main Program".
+ <287660054056371456> 21/07/2025 15:00:08.197     [Error  ] - File not found: : pdf:, Program: "Fornecedores".
+ <13940638387527824> 21/07/2025 15:02:28.962     [Error  ] - File not found: : pdf:/data/user/0/com.magicsoftware.magicdev/app_cache/gettingstarted/c__meumagic_mse_magic xpa 4.10 single user edition_projects_meuapp_relatorio_fornecedores.pdf, Program: "Fornecedores".
+ <13940638387527824> 21/07/2025 15:02:40.214     [Error  ] - File not found: : pdf:/data/user/0/com.magicsoftware.magicdev/app_cache/gettingstarted/c__meumagic_mse_magic xpa 4.10 single user edition_projects_meuapp_relatorio_fornecedores.pdf, Program: "Fornecedores".
+ <200548878339852032> 21/07/2025 15:12:50.156     [Error  ] - File not found: : pdf:, Program: "Pedidos".
+ <255884065790594880> 21/07/2025 15:14:34.162     [Error  ] - Aborting context 255884065790594880, Program: "Main Program".
+ <351770959438560832> 21/07/2025 15:15:01.593     [Error  ] - File not found: : pdf:/data/user/0/com.magicsoftware.magicdev/app_cache/gettingstarted/c__meumagic_mse_magic xpa 4.10 single user edition_projects_meuapp_relatorio_pedidos.pdf, Program: "Pedidos".
+ <351770959438560832> 21/07/2025 15:15:17.649     [Error  ] - File not found: : pdf:/data/user/0/com.magicsoftware.magicdev/app_cache/gettingstarted/c__meumagic_mse_magic xpa 4.10 single user edition_projects_meuapp_relatorio_pedidos.pdf, Program: "Pedidos".
+ <76073468199315424> 21/07/2025 15:51:06.890     [Error  ] - Aborting context 76073468199315424, Program: "Main Program".
+ <571185874731219392> 21/07/2025 15:58:11.715     [Error  ] - Initial Task mode is not allowed.  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\meuApp\", Program: "Fornecedores.Fornecedores Edit".
+ <568149325205001280> 21/07/2025 15:58:21.507     [Error  ] - Initial Task mode is not allowed.  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\meuApp\", Program: "Fornecedores.Fornecedores Edit".
+ <568149325205001280> 21/07/2025 15:58:24.437     [Error  ] - Initial Task mode is not allowed.  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\meuApp\", Program: "Fornecedores.Fornecedores Edit".
+ <571185874731219392> 21/07/2025 15:58:31.424     [Error  ] - Aborting context 571185874731219392, Program: "Main Program".
+ <188496809345389408> 21/07/2025 15:58:51.645     [Error  ] - Initial Task mode is not allowed.  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\meuApp\", Program: "Fornecedores.Fornecedores Edit".
+ <188496809345389408> 21/07/2025 15:58:53.575     [Error  ] - Initial Task mode is not allowed.  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\meuApp\", Program: "Fornecedores.Fornecedores Edit".
+ <204468254173929152> 21/07/2025 16:00:40.100     [Error  ] - Initial Task mode is not allowed.  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\meuApp\", Program: "Fornecedores.Fornecedores Edit".
+ <204468254173929152> 21/07/2025 16:00:47.025     [Error  ] - Initial Task mode is not allowed.  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\meuApp\", Program: "Fornecedores.Fornecedores Edit".
+ <204468254173929152> 21/07/2025 16:01:26.823     [Error  ] - Aborting context 204468254173929152, Program: "Main Program".
+ <278614303294359520> 21/07/2025 16:03:40.309     [Error  ] - Aborting context 278614303294359520, Program: "Main Program".
