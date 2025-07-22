@@ -1,7 +1,7 @@
 # Projeto Magic XPA - Sistema de Cadastros
 
 **Desenvolvido por:** Vinicius Ribeiro de Oliveira  
-**Email:** vinicius.r.oliveira@outlook.com.br  
+**Email:** [vinicius.r.oliveira@outlook.com.br](mailto:vinicius.r.oliveira@outlook.com.br)
 **Telefone:** (51) 98943-3755  
 **Localização:** Gravataí/RS - Brasil
 
@@ -16,8 +16,8 @@ O objetivo do sistema é criar um ambiente funcional para:
 - Cadastro e edição de **Clientes**
 - Cadastro e edição de **Pedidos**
 - Cadastro e edição de **Fornecedores**
-- Cadastro e edição de **Cidades**
-- Cadastro e edição de **Países**
+- Cadastro e edição de **Produtos**
+- Cadastro e edição de **Localidades**
 
 Este projeto serve como base para aplicações empresariais de gestão de dados, demonstrando conceitos práticos de desenvolvimento com Magic XPA.
 
@@ -40,4 +40,4 @@ Este projeto serve como base para aplicações empresariais de gestão de dados,
 - Se o **salário** for **menor que 2000**:
   - O **crédito** será igual ao valor do **salário**
 
-- Menus **Clientes**,**Pedidos**,**Produtos**, **Fornecedores** e **Países e Cidades** permitem emissão de relatório.
+- Todos os menus permitem emissão de relatório de cadastros.
