@@ -40,4 +40,4 @@ Este projeto serve como base para aplicações empresariais de gestão de dados,
 - Se o **salário** for **menor que 2000**:
   - O **crédito** será igual ao valor do **salário**
 
-- Menus **Clientes**,**Pedidos** e **Fornecedores** permitem emissão de relatório.
+- Menus **Clientes**,**Pedidos**,**Produtos**, **Fornecedores** e **Países e Cidades** permitem emissão de relatório.

@@ -1097,3 +1097,29 @@
  <500171170466829056> 21/07/2025 16:34:41.034     [Error  ] - Aborting context 500171170466829056, Program: "Main Program".
  <426179257960031872> 21/07/2025 16:37:14.820     [Error  ] - Aborting context 426179257960031872, Program: "Main Program".
  <266318745852936704> 21/07/2025 16:54:13.173     [Error  ] - Aborting context 266318745852936704, Program: "Main Program".
+ <39057654774467056> 21/07/2025 17:51:25.552     [Error  ] - Aborting context 39057654774467056, Program: "Main Program".
+ <119450691198248144> 21/07/2025 17:54:35.065     [Error  ] - Aborting context 119450691198248144, Program: "Main Program".
+ <217609861832336128> 21/07/2025 17:54:35.066     [Error  ] - Aborting context 217609861832336128, Program: "Main Program".
+ <24776888798814136> 22/07/2025 09:30:55.285     [Error  ] - Execution Path: Main Program, Program: "Main Program".
+ <24776888798814136> 22/07/2025 09:30:55.289     [Error  ] -  Task Name: Main Program, Tag: 2, Program: "Main Program".
+ <24776888798814136> 22/07/2025 09:30:55.289     [Error  ] - End Task Tree, Program: "Main Program".
+ <24776888798814136> 22/07/2025 09:30:55.290     [Error  ] - Internal transaction error  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\meuApp\"
+ <24776888798814136> 22/07/2025 09:30:55.292     [Error  ] - Error: Thread aborted, so error marked.
+ <24776888798814136> 22/07/2025 09:30:55.293     [Error  ] - EndTaskRequest(): Main ProgramInternal transaction errorERR-THREAD-ABORTED (-139) : "<<< Iniciar.Produtos" ("GettingStarted")  (msgid "74")
+ <46700360759374560> 22/07/2025 09:37:52.676     [Error  ] - Execution Path: Main Program, Program: "Main Program".
+ <139714983521851472> 22/07/2025 09:37:52.676     [Error  ] - Execution Path: Main Program, Program: "Main Program".
+ <46700360759374560> 22/07/2025 09:37:52.677     [Error  ] -  Task Name: Main Program, Tag: 2, Program: "Main Program".
+ <139714983521851472> 22/07/2025 09:37:52.677     [Error  ] -  Task Name: Main Program, Tag: 2, Program: "Main Program".
+ <46700360759374560> 22/07/2025 09:37:52.677     [Error  ] - End Task Tree, Program: "Main Program".
+ <139714983521851472> 22/07/2025 09:37:52.678     [Error  ] - End Task Tree, Program: "Main Program".
+ <46700360759374560> 22/07/2025 09:37:52.678     [Error  ] - Internal transaction error  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\meuApp\"
+ <139714983521851472> 22/07/2025 09:37:52.678     [Error  ] - Internal transaction error  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\meuApp\"
+ <46700360759374560> 22/07/2025 09:37:52.679     [Error  ] - Error: Thread aborted, so error marked.
+ <139714983521851472> 22/07/2025 09:37:52.679     [Error  ] - Error: Thread aborted, so error marked.
+ <46700360759374560> 22/07/2025 09:37:52.679     [Error  ] - EndTaskRequest(): Main ProgramInternal transaction errorERR-THREAD-ABORTED (-139) : "<<< Iniciar.Produtos" ("GettingStarted")  (msgid "110")
+ <139714983521851472> 22/07/2025 09:37:52.679     [Error  ] - EndTaskRequest(): Main ProgramInternal transaction errorERR-THREAD-ABORTED (-139) : "<<< Iniciar.Produtos" ("GettingStarted")  (msgid "145")
+ <3649540028793676> 22/07/2025 09:54:32.716     [Error  ] - Aborting context 3649540028793676, Program: "Main Program".
+ <380385762635512000> 22/07/2025 10:04:25.009     [Error  ] - Aborting context 380385762635512000, Program: "Main Program".
+ <21173829213980072> 22/07/2025 10:15:16.641     [Error  ] - File not found: : pdf:/data/user/0/com.magicsoftware.magicdev/app_cache/gettingstarted/c__meumagic_mse_magic xpa 4.10 single user edition_projects_meuapp_lista_produtos.pdf, Program: "<<< Iniciar.Produtos".
+ <21173829213980072> 22/07/2025 10:15:33.992     [Error  ] - Aborting context 21173829213980072, Program: "Main Program".
+ <420421471720900544> 22/07/2025 10:25:52.347     [Error  ] - Aborting context 420421471720900544, Program: "Main Program".
