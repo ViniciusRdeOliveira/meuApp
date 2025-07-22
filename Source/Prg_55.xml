@@ -14,7 +14,7 @@
     <Programs>
       <Task MainProgram="N">
         <Header Description="Clientes" ISN_2="1" LastIsn="1" id="55">
-          <LastModified _date="739453" _time="57113" date="21/07/2025" time="15:51:53"/>
+          <LastModified _date="739454" _time="47343" date="22/07/2025" time="13:09:03"/>
           <ExecutionRight comp="-1"/>
           <Resident val="N"/>
           <SQL val="N"/>
@@ -503,11 +503,13 @@
               <Height id="24" val="236"/>
               <_Comment id="218"/>
               <FormName id="311" valUnicode="Clientes"/>
+              <NavigationDrawerMenu comp="-1" id="662" obj="5"/>
             </PropertyList>
             <Control _test_id="12" id="12">
               <PropertyList model="CTRL_RICH_CLIENT_LABEL">
                 <Model comp="-1" id="1" obj="21"/>
                 <Text id="19" valUnicode="Clientes"/>
+                <Placement id="20" left="50"/>
                 <X id="21" val="129"/>
                 <Y id="22" val="5"/>
                 <Width id="23" val="73"/>
@@ -518,6 +520,7 @@
             <Control _test_id="15" id="15">
               <PropertyList model="CTRL_RICH_CLIENT_PUSH_BUTTON">
                 <Model comp="-1" id="1" obj="17"/>
+                <Placement id="20" left="50"/>
                 <X id="21" val="259"/>
                 <Y id="22" val="27"/>
                 <Width id="23" val="10"/>
@@ -535,6 +538,7 @@
             <Control _test_id="13" id="13">
               <PropertyList model="CTRL_RICH_CLIENT_PUSH_BUTTON">
                 <Model comp="-1" id="1" obj="17"/>
+                <Placement id="20" left="50"/>
                 <X id="21" val="287"/>
                 <Y id="22" val="27"/>
                 <Width id="23" val="10"/>
@@ -552,6 +556,7 @@
             <Control _test_id="14" id="14">
               <PropertyList model="CTRL_RICH_CLIENT_PUSH_BUTTON">
                 <Model comp="-1" id="1" obj="17"/>
+                <Placement id="20" left="50"/>
                 <X id="21" val="313"/>
                 <Y id="22" val="27"/>
                 <Width id="23" val="10"/>
@@ -569,7 +574,7 @@
             <Control _test_id="1" id="1">
               <PropertyList model="CTRL_RICH_CLIENT_TABLE">
                 <Model comp="-1" id="1" obj="15"/>
-                <Placement bottom="100" id="20"/>
+                <Placement bottom="50" id="20" left="50"/>
                 <X id="21" val="8"/>
                 <Y id="22" val="38"/>
                 <Width id="23" val="325"/>

@@ -2,6 +2,7 @@
 
 **Desenvolvido por:** Vinicius Ribeiro de Oliveira  
 **Email:** [vinicius.r.oliveira@outlook.com.br](mailto:vinicius.r.oliveira@outlook.com.br)
+
 **Telefone:** (51) 98943-3755  
 **Localização:** Gravataí/RS - Brasil
 
@@ -41,3 +42,4 @@ Este projeto serve como base para aplicações empresariais de gestão de dados,
   - O **crédito** será igual ao valor do **salário**
 
 - Todos os menus permitem emissão de relatório de cadastros.
+- O Visualizador de **Produto** possui 2 forms conforme a orientação de tela usada em dispositivo móveis.

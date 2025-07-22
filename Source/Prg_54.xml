@@ -14,7 +14,7 @@
     <Programs>
       <Task MainProgram="N">
         <Header Description="Países e Cidades" ISN_2="1" LastIsn="5" id="54">
-          <LastModified _date="739453" _time="62614" date="21/07/2025" time="17:23:34"/>
+          <LastModified _date="739454" _time="47487" date="22/07/2025" time="13:11:27"/>
           <ExecutionRight comp="-1"/>
           <Resident val="N"/>
           <SQL val="N"/>
@@ -346,11 +346,13 @@
               <Height id="24" val="348"/>
               <_Comment id="218"/>
               <FormName id="311" valUnicode="Países e Cidades"/>
+              <NavigationDrawerMenu comp="-1" id="662" obj="5"/>
             </PropertyList>
             <Control _test_id="7" id="7">
               <PropertyList model="CTRL_RICH_CLIENT_LABEL">
                 <Model comp="-1" id="1" obj="21"/>
                 <Text id="19" valUnicode="Países e Cidades"/>
+                <Placement id="20" left="50"/>
                 <X id="21" val="58"/>
                 <Y id="22" val="20"/>
                 <Width id="23" val="151"/>
@@ -361,6 +363,7 @@
             <Control _test_id="8" id="8">
               <PropertyList model="CTRL_RICH_CLIENT_PUSH_BUTTON">
                 <Model comp="-1" id="1" obj="17"/>
+                <Placement id="20" left="50"/>
                 <X id="21" val="237"/>
                 <Y id="22" val="44"/>
                 <Width id="23" val="10"/>
@@ -377,6 +380,7 @@
             <Control _test_id="1" id="1">
               <PropertyList model="CTRL_RICH_CLIENT_TABLE">
                 <Model comp="-1" id="1" obj="15"/>
+                <Placement bottom="50" id="20" left="50"/>
                 <X id="21" val="8"/>
                 <Y id="22" val="60"/>
                 <Width id="23" val="249"/>
@@ -447,9 +451,10 @@
             </Control>
             <Control PDOD="128" _test_id="6" id="6">
               <PropertyList model="CTRL_RICH_CLIENT_SUBFORM">
-                <Placement id="20" top="100"/>
+                <Placement id="20" left="50" top="50"/>
+                <X id="21" val="8"/>
                 <Y id="22" val="203"/>
-                <Width id="23" val="264"/>
+                <Width id="23" val="249"/>
                 <Height id="24" val="120"/>
                 <ControlName id="46" val="Cidades"/>
                 <Arguments id="126">
@@ -504,7 +509,7 @@
         </EVNT>
         <Task MainProgram="N">
           <Header Description="Cidades" ISN_2="5" LastIsn="5" id="54">
-            <LastModified _date="739453" _time="62337" date="21/07/2025" time="17:18:57"/>
+            <LastModified _date="739454" _time="41149" date="22/07/2025" time="11:25:49"/>
             <ExecutionRight comp="-1"/>
             <Resident val="N"/>
             <SQL val="N"/>
@@ -681,7 +686,7 @@
             <FormEntry _last_isn="7" _last_test_id="7" id="2">
               <PropertyList model="FORM_RICH_CLIENT">
                 <Model comp="-1" id="1" obj="3"/>
-                <Width id="23" val="265"/>
+                <Width id="23" val="237"/>
                 <Height id="24" val="149"/>
                 <_Comment id="218"/>
                 <FormName id="311" valUnicode="Cidades"/>
@@ -689,16 +694,16 @@
               <Control _test_id="1" id="1">
                 <PropertyList model="CTRL_RICH_CLIENT_TABLE">
                   <Model comp="-1" id="1" obj="15"/>
-                  <Placement bottom="100" id="20"/>
+                  <Placement id="20" left="50"/>
                   <X id="21" val="2"/>
                   <Y id="22" val="1"/>
-                  <Width id="23" val="249"/>
+                  <Width id="23" val="220"/>
                   <Height id="24" val="120"/>
                   <ControlName id="46"/>
                   <_TitleHeight id="79" val="11"/>
                   <RowHeight id="80" val="14"/>
                   <Elements id="81" val="2"/>
-                  <_WindowWidth id="241" val="249"/>
+                  <_WindowWidth id="241" val="220"/>
                 </PropertyList>
               </Control>
               <Control ISN_FATHER="1" PDOD="128" _test_id="4" id="4">

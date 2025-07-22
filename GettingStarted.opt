@@ -13,4 +13,40 @@
     <RestData/>
   </WatchListItems>
 
+  <ExpandedItems>
+    <Program PrgIsn="53">
+      <ExpandedItem>
+        <TaskIsn Val="1"/>
+        <Type Val="1"/>
+        <OperationIsn Val="19"/>
+      </ExpandedItem>
+    </Program>
+    <Program PrgIsn="58">
+      <ExpandedItem>
+        <TaskIsn Val="1"/>
+        <Type Val="1"/>
+        <OperationIsn Val="10"/>
+      </ExpandedItem>
+    </Program>
+  </ExpandedItems>
+
+  <VisitedTasks>
+    <VisitedTask>
+      <PrgIsn Val="57"/>
+      <TaskIsn Val="1"/>
+    </VisitedTask>
+    <VisitedTask>
+      <PrgIsn Val="53"/>
+      <TaskIsn Val="1"/>
+    </VisitedTask>
+    <VisitedTask>
+      <PrgIsn Val="58"/>
+      <TaskIsn Val="2"/>
+    </VisitedTask>
+    <VisitedTask>
+      <PrgIsn Val="58"/>
+      <TaskIsn Val="1"/>
+    </VisitedTask>
+  </VisitedTasks>
+
 </Application>

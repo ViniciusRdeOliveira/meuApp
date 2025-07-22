@@ -14,7 +14,7 @@
     <Programs>
       <Task MainProgram="N">
         <Header Description="Fornecedores Edit" ISN_2="1" LastIsn="1" id="52">
-          <LastModified _date="739454" _time="33827" date="22/07/2025" time="09:23:47"/>
+          <LastModified _date="739454" _time="47415" date="22/07/2025" time="13:10:15"/>
           <ExecutionRight comp="-1"/>
           <Resident val="N"/>
           <SQL val="N"/>
@@ -280,6 +280,7 @@
               <Width id="23" val="248"/>
               <_Comment id="218"/>
               <FormName id="311" valUnicode="Fornecedores Edit"/>
+              <NavigationDrawerMenu comp="-1" id="662" obj="5"/>
             </PropertyList>
             <Control _test_id="1" id="1">
               <PropertyList model="CTRL_RICH_CLIENT_LABEL">
