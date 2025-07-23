@@ -14,29 +14,46 @@
   </WatchListItems>
 
   <ExpandedItems>
+    <Program PrgIsn="58">
+      <ExpandedItem>
+        <TaskIsn Val="2"/>
+        <Type Val="2"/>
+        <HandlerIsn Val="2"/>
+      </ExpandedItem>
+    </Program>
+    <Program PrgIsn="55">
+      <ExpandedItem>
+        <TaskIsn Val="1"/>
+        <Type Val="2"/>
+        <HandlerIsn Val="11"/>
+      </ExpandedItem>
+    </Program>
     <Program PrgIsn="53">
       <ExpandedItem>
         <TaskIsn Val="1"/>
         <Type Val="1"/>
         <OperationIsn Val="19"/>
       </ExpandedItem>
-    </Program>
-    <Program PrgIsn="58">
       <ExpandedItem>
         <TaskIsn Val="1"/>
-        <Type Val="1"/>
-        <OperationIsn Val="10"/>
+        <Type Val="2"/>
+        <HandlerIsn Val="7"/>
+      </ExpandedItem>
+      <ExpandedItem>
+        <TaskIsn Val="1"/>
+        <Type Val="2"/>
+        <HandlerIsn Val="6"/>
       </ExpandedItem>
     </Program>
   </ExpandedItems>
 
   <VisitedTasks>
     <VisitedTask>
-      <PrgIsn Val="57"/>
+      <PrgIsn Val="51"/>
       <TaskIsn Val="1"/>
     </VisitedTask>
     <VisitedTask>
-      <PrgIsn Val="53"/>
+      <PrgIsn Val="67"/>
       <TaskIsn Val="1"/>
     </VisitedTask>
     <VisitedTask>
@@ -45,6 +62,18 @@
     </VisitedTask>
     <VisitedTask>
       <PrgIsn Val="58"/>
+      <TaskIsn Val="1"/>
+    </VisitedTask>
+    <VisitedTask>
+      <PrgIsn Val="55"/>
+      <TaskIsn Val="1"/>
+    </VisitedTask>
+    <VisitedTask>
+      <PrgIsn Val="53"/>
+      <TaskIsn Val="1"/>
+    </VisitedTask>
+    <VisitedTask>
+      <PrgIsn Val="57"/>
       <TaskIsn Val="1"/>
     </VisitedTask>
   </VisitedTasks>

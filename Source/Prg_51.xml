@@ -14,7 +14,7 @@
     <Programs>
       <Task MainProgram="N">
         <Header Description="Clientes Edit" ISN_2="1" LastIsn="1" id="51">
-          <LastModified _date="739454" _time="47394" date="22/07/2025" time="13:09:54"/>
+          <LastModified _date="739455" _time="52103" date="23/07/2025" time="14:28:23"/>
           <ExecutionRight comp="-1"/>
           <Resident val="N"/>
           <SQL val="N"/>
@@ -34,7 +34,7 @@
           <FormType val="D"/>
           <DotNetObjectExists val="N"/>
         </Header>
-        <ItemIsn val="18"/>
+        <ItemIsn val="19"/>
         <Resource>
           <DB id="1">
             <DataObject comp="-1" obj="1"/>
@@ -54,6 +54,12 @@
               </PropertyList>
             </Column>
             <Column id="2" name="P.Edit_Mode">
+              <PropertyList model="FIELD">
+                <Model attr_obj="FIELD_LOGICAL" id="1"/>
+                <_FieldStyle id="276" val="1"/>
+              </PropertyList>
+            </Column>
+            <Column id="3" name="ClienteExiste">
               <PropertyList model="FIELD">
                 <Model attr_obj="FIELD_LOGICAL" id="1"/>
                 <_FieldStyle id="276" val="1"/>
@@ -307,6 +313,18 @@
                   <ExposedToRoute val="N"/>
                   <IsParameter val="N"/>
                   <_DitIndexForToolkit val="21"/>
+                  <DIFF_UPDATE val="T"/>
+                  <Condition val="Y"/>
+                  <Modifier val="S"/>
+                  <Direction val="C"/>
+                </Select>
+              </LogicLine>
+              <LogicLine>
+                <Select FieldID="19" FlowIsn="98" id="19">
+                  <Column val="3"/>
+                  <Type val="V"/>
+                  <ExposedToRoute val="N"/>
+                  <IsParameter val="N"/>
                   <DIFF_UPDATE val="T"/>
                   <Condition val="Y"/>
                   <Modifier val="S"/>
@@ -799,6 +817,7 @@
                 <Y id="22" val="35"/>
                 <Width id="23" val="11"/>
                 <Height id="24" val="8"/>
+                <Visible Exp="13" id="61"/>
                 <Format id="82"/>
                 <ImageListFileName id="88" val="%WorkingDir%images\Delete.png"/>
                 <ButtonStyle id="96" val="2"/>
@@ -874,6 +893,10 @@
           <Expression id="12">
             <ExpSyntax val="IF({0,14},'C'MODE,'M'MODE)"/>
             <ExpAttribute val="A"/>
+          </Expression>
+          <Expression id="13">
+            <ExpSyntax val="Stat(0,'M'MODE)"/>
+            <ExpAttribute val="B"/>
           </Expression>
         </Expressions>
         <EVNT DESC="seGoldMembership" FORCE_EXIT="N" id="2">
