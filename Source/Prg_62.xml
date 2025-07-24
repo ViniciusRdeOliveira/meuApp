@@ -14,7 +14,7 @@
     <Programs>
       <Task MainProgram="N">
         <Header Description="Fornecedores" ISN_2="1" LastIsn="1" id="62">
-          <LastModified _date="739455" _time="60698" date="23/07/2025" time="16:51:38"/>
+          <LastModified _date="739456" _time="55916" date="24/07/2025" time="15:31:56"/>
           <ExecutionRight comp="-1"/>
           <Resident val="N"/>
           <SQL val="N"/>
@@ -243,7 +243,8 @@
                       <Skip val="N"/>
                     </Argument>
                     <Argument>
-                      <Skip val="Y"/>
+                      <Expression val="1"/>
+                      <Skip val="N"/>
                     </Argument>
                   </Arguments>
                   <Wait val="Y"/>
@@ -294,7 +295,7 @@
                       <Skip val="Y"/>
                     </Argument>
                     <Argument>
-                      <Expression val="1"/>
+                      <Expression val="8"/>
                       <Skip val="N"/>
                     </Argument>
                   </Arguments>
@@ -629,8 +630,8 @@
         </TaskForms>
         <Expressions>
           <Expression id="1">
-            <ExpSyntax val="'TRUE'LOG"/>
-            <ExpAttribute val="B"/>
+            <ExpSyntax val="'M'MODE"/>
+            <ExpAttribute val="A"/>
           </Expression>
           <Expression id="2">
             <ExpSyntax val="{0,1}+1"/>
@@ -654,6 +655,10 @@
           </Expression>
           <Expression id="7">
             <ExpSyntax val="'&quot;'&amp;Trim({0,8})&amp;'&quot;'"/>
+            <ExpAttribute val="A"/>
+          </Expression>
+          <Expression id="8">
+            <ExpSyntax val="'C'MODE"/>
             <ExpAttribute val="A"/>
           </Expression>
         </Expressions>

@@ -14,7 +14,7 @@
     <Programs>
       <Task MainProgram="N">
         <Header Description="Países e Cidades" ISN_2="1" LastIsn="5" id="54">
-          <LastModified _date="739455" _time="60734" date="23/07/2025" time="16:52:14"/>
+          <LastModified _date="739456" _time="37476" date="24/07/2025" time="10:24:36"/>
           <ExecutionRight comp="-1"/>
           <Resident val="N"/>
           <SQL val="N"/>
@@ -510,7 +510,7 @@
         </EVNT>
         <Task MainProgram="N">
           <Header Description="Cidades" ISN_2="5" LastIsn="5" id="54">
-            <LastModified _date="739454" _time="41149" date="22/07/2025" time="11:25:49"/>
+            <LastModified _date="739456" _time="37476" date="24/07/2025" time="10:24:36"/>
             <ExecutionRight comp="-1"/>
             <Resident val="N"/>
             <SQL val="N"/>

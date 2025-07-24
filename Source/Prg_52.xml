@@ -14,7 +14,7 @@
     <Programs>
       <Task MainProgram="N">
         <Header Description="Fornecedores Edit" ISN_2="1" LastIsn="1" id="52">
-          <LastModified _date="739456" _time="31248" date="24/07/2025" time="08:40:48"/>
+          <LastModified _date="739456" _time="55799" date="24/07/2025" time="15:29:59"/>
           <ExecutionRight comp="-1"/>
           <Resident val="N"/>
           <SQL val="N"/>
@@ -55,7 +55,10 @@
             </Column>
             <Column id="2" name="p.Edit_Mode">
               <PropertyList model="FIELD">
-                <Model attr_obj="FIELD_LOGICAL" id="1"/>
+                <Model attr_obj="FIELD_ALPHA" id="1"/>
+                <Picture id="157" valUnicode="1"/>
+                <Size id="174" val="1"/>
+                <_Flip id="194"/>
                 <_FieldStyle id="276" val="1"/>
               </PropertyList>
             </Column>
@@ -504,15 +507,15 @@
             <ExpAttribute val="N"/>
           </Expression>
           <Expression id="2">
-            <ExpSyntax val="IF({0,12}, 'C'MODE, 'M'MODE)"/>
+            <ExpSyntax val="IF({0,12}='C','C'MODE, IF({0,12}='M','M'MODE,'E'MODE))"/>
             <ExpAttribute val="A"/>
           </Expression>
           <Expression id="3">
-            <ExpSyntax val="IF({0,12}, 'Cadastro de Fornecedor', 'Editar Fornecedor')"/>
+            <ExpSyntax val="IF({0,12}='C', 'Cadastro de Fornecedor', 'Editar Fornecedor')"/>
             <ExpAttribute val="A"/>
           </Expression>
           <Expression id="4">
-            <ExpSyntax val="NOT {0,12}"/>
+            <ExpSyntax val="{0,12} = 'M' OR {0,12}='Q'"/>
             <ExpAttribute val="B"/>
           </Expression>
         </Expressions>

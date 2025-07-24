@@ -5,7 +5,7 @@
     <Version val="14100.00"/>
     <WithIsn val="Y"/>
     <Exe comp="-1"/>
-    <LastIsn val="71"/>
+    <LastIsn val="73"/>
     <LastIsnFolder val="3"/>
   </Header>
 
@@ -20,8 +20,10 @@
       <Program id="50"/>
       <Program id="51"/>
       <Program id="55"/>
+      <Program id="72"/>
       <Program id="52"/>
       <Program id="62"/>
+      <Program id="73"/>
       <Program id="53"/>
       <Program id="57"/>
       <Program id="54"/>

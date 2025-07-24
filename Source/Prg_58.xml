@@ -14,7 +14,7 @@
     <Programs>
       <Task MainProgram="N">
         <Header Description="Produtos" ISN_2="2" LastIsn="2" id="58">
-          <LastModified _date="739456" _time="32128" date="24/07/2025" time="08:55:28"/>
+          <LastModified _date="739456" _time="56257" date="24/07/2025" time="15:37:37"/>
           <ExecutionRight comp="-1"/>
           <Resident val="N"/>
           <SQL val="N"/>
@@ -451,7 +451,7 @@
         </Expressions>
         <Task MainProgram="N">
           <Header Description="Produtos" ISN_2="1" LastIsn="2" id="58">
-            <LastModified _date="739456" _time="32128" date="24/07/2025" time="08:55:28"/>
+            <LastModified _date="739456" _time="56257" date="24/07/2025" time="15:37:37"/>
             <ExecutionRight comp="-1"/>
             <Resident val="N"/>
             <SQL val="N"/>
@@ -777,7 +777,8 @@
                         <Skip val="N"/>
                       </Argument>
                       <Argument>
-                        <Skip val="Y"/>
+                        <Expression val="11"/>
+                        <Skip val="N"/>
                       </Argument>
                     </Arguments>
                     <Wait val="Y"/>
@@ -834,7 +835,7 @@
                         <Skip val="Y"/>
                       </Argument>
                       <Argument>
-                        <Expression val="3"/>
+                        <Expression val="12"/>
                         <Skip val="N"/>
                       </Argument>
                     </Arguments>
@@ -1485,6 +1486,14 @@
             <Expression id="10">
               <ExpSyntax val="IF(Upper(Trim({2,2})) = Upper('LANDSCAPE'),'{0,1}'FORM,'{0,2}'FORM)"/>
               <ExpAttribute val="N"/>
+            </Expression>
+            <Expression id="11">
+              <ExpSyntax val="'M'"/>
+              <ExpAttribute val="A"/>
+            </Expression>
+            <Expression id="12">
+              <ExpSyntax val="'C'"/>
+              <ExpAttribute val="A"/>
             </Expression>
           </Expressions>
           <EVNT DESC="Relatório" FORCE_EXIT="N" id="1">

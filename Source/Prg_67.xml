@@ -14,7 +14,7 @@
     <Programs>
       <Task MainProgram="N">
         <Header Description="Produtos Edit" ISN_2="1" LastIsn="1" id="67">
-          <LastModified _date="739456" _time="31645" date="24/07/2025" time="08:47:25"/>
+          <LastModified _date="739456" _time="63503" date="24/07/2025" time="17:38:23"/>
           <ExecutionRight comp="-1"/>
           <Resident val="N"/>
           <SQL val="N"/>
@@ -23,7 +23,7 @@
             <TSK_PARAMS val="2"/>
             <ParametersAttributes>
               <Attr MgAttr="N"/>
-              <Attr MgAttr="B"/>
+              <Attr MgAttr="A"/>
             </ParametersAttributes>
           </ReturnValue>
           <SqlWhereExist val="N"/>
@@ -65,7 +65,10 @@
             </Column>
             <Column id="2" name="P.Edit_Mode">
               <PropertyList model="FIELD">
-                <Model attr_obj="FIELD_LOGICAL" id="1"/>
+                <Model attr_obj="FIELD_ALPHA" id="1"/>
+                <Picture id="157" valUnicode="1"/>
+                <Size id="174" val="1"/>
+                <_Flip id="194"/>
                 <_FieldStyle id="276" val="1"/>
               </PropertyList>
             </Column>
@@ -322,9 +325,46 @@
               </LogicLine>
             </LogicLines>
           </LogicUnit>
+          <LogicUnit id="4" propagate="78">
+            <Level val="H"/>
+            <Type val="U"/>
+            <Scope val="S"/>
+            <EngineDirective val="S"/>
+            <ShowMessage val="Y"/>
+            <Condition val="89"/>
+            <Event>
+              <EventType val="U"/>
+              <PublicObject comp="-1" obj="1"/>
+            </Event>
+            <ExecuteOn_ val="O"/>
+            <LogicLines>
+              <LogicLine>
+                <CallTask FlowIsn="29">
+                  <OperationType val="P"/>
+                  <Event>
+                    <EventType val="N"/>
+                  </Event>
+                  <TaskID comp="-1" obj="73"/>
+                  <Lock val="N"/>
+                  <Arguments>
+                    <Argument>
+                      <Variable val="4"/>
+                      <Skip val="N"/>
+                    </Argument>
+                  </Arguments>
+                  <Wait val="Y"/>
+                  <SyncData val="N"/>
+                  <RetainFocus val="N"/>
+                  <Condition val="Y"/>
+                  <Modifier val="B"/>
+                  <Direction val="C"/>
+                </CallTask>
+              </LogicLine>
+            </LogicLines>
+          </LogicUnit>
         </TaskLogic>
         <TaskForms>
-          <FormEntry _last_isn="17" _last_test_id="17" id="1">
+          <FormEntry _last_isn="18" _last_test_id="18" id="1">
             <PropertyList model="FORM_RICH_CLIENT">
               <Model comp="-1" id="1" obj="3"/>
               <Width id="23" val="351"/>
@@ -474,7 +514,7 @@
                 <Height id="24" val="12"/>
                 <Data FieldID="5" id="43"/>
                 <ControlName id="46" val="Product_Price"/>
-                <TabOrder id="314" val="7"/>
+                <TabOrder id="314" val="8"/>
               </PropertyList>
             </Control>
             <Control _test_id="12" id="12">
@@ -500,7 +540,7 @@
                 <Height id="24" val="12"/>
                 <Data FieldID="6" id="43"/>
                 <ControlName id="46" val="Stock_Quantity"/>
-                <TabOrder id="314" val="8"/>
+                <TabOrder id="314" val="9"/>
               </PropertyList>
             </Control>
             <Control _test_id="14" id="14">
@@ -538,6 +578,22 @@
                 <TabOrder id="314" val="2"/>
               </PropertyList>
             </Control>
+            <Control _test_id="18" id="18">
+              <PropertyList model="CTRL_RICH_CLIENT_PUSH_BUTTON">
+                <Model comp="-1" id="1" obj="17"/>
+                <X id="21" val="77"/>
+                <Y id="22" val="178"/>
+                <Width id="23" val="10"/>
+                <Height id="24" val="8"/>
+                <Format id="82"/>
+                <ImageListFileName id="88" val="%WorkingDir%images\Search.png"/>
+                <RaiseEvent id="234">
+                  <EventType val="U"/>
+                  <PublicObject comp="-1" obj="1"/>
+                </RaiseEvent>
+                <TabOrder id="314" val="7"/>
+              </PropertyList>
+            </Control>
           </FormEntry>
         </TaskForms>
         <Expressions>
@@ -550,18 +606,23 @@
             <ExpAttribute val="N"/>
           </Expression>
           <Expression id="3">
-            <ExpSyntax val="IF({0,11},'C'MODE,'M'MODE)"/>
+            <ExpSyntax val="IF({0,11}='C','C'MODE,IF({0,11}='M','M'MODE,'E'MODE))"/>
             <ExpAttribute val="A"/>
           </Expression>
           <Expression id="4">
-            <ExpSyntax val="NOT {0,11}"/>
+            <ExpSyntax val="{0,11}='M' OR  {0,11}='Q'"/>
             <ExpAttribute val="B"/>
           </Expression>
           <Expression id="5">
-            <ExpSyntax val="IF({0,11}, 'Cadastro de Produto', 'Editar Produto')"/>
+            <ExpSyntax val="IF({0,11}='C', 'Cadastro de Produto', 'Editar Produto')"/>
             <ExpAttribute val="A"/>
           </Expression>
         </Expressions>
+        <EVNT DESC="Select" FORCE_EXIT="E" id="1">
+          <Event>
+            <EventType val="N"/>
+          </Event>
+        </EVNT>
         <VarRangeInfo Mode="E" VarRangeVeeIsn="1" id="1"/>
       </Task>
     </Programs>

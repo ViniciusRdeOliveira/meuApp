@@ -14,7 +14,7 @@
     <Programs>
       <Task MainProgram="N">
         <Header Description="Clientes" ISN_2="1" LastIsn="1" id="55">
-          <LastModified _date="739455" _time="60649" date="23/07/2025" time="16:50:49"/>
+          <LastModified _date="739456" _time="55598" date="24/07/2025" time="15:26:38"/>
           <ExecutionRight comp="-1"/>
           <Resident val="N"/>
           <SQL val="N"/>
@@ -251,7 +251,8 @@
                       <Skip val="N"/>
                     </Argument>
                     <Argument>
-                      <Skip val="Y"/>
+                      <Expression val="13"/>
+                      <Skip val="N"/>
                     </Argument>
                   </Arguments>
                   <Wait val="Y"/>
@@ -731,8 +732,8 @@
             <ExpAttribute val="N"/>
           </Expression>
           <Expression id="2">
-            <ExpSyntax val="'TRUE'LOG"/>
-            <ExpAttribute val="B"/>
+            <ExpSyntax val="'C'"/>
+            <ExpAttribute val="A"/>
           </Expression>
           <Expression id="5">
             <ExpSyntax val="ServerFileToClient(Trim({0,10}))"/>
@@ -761,6 +762,10 @@
           <Expression id="11">
             <ExpSyntax val="SetCrsr(1)"/>
             <ExpAttribute val="B"/>
+          </Expression>
+          <Expression id="13">
+            <ExpSyntax val="'M'"/>
+            <ExpAttribute val="A"/>
           </Expression>
         </Expressions>
         <EVNT DESC="Relatorio" FORCE_EXIT="N" id="3">

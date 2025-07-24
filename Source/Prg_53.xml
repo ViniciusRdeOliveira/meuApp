@@ -14,7 +14,7 @@
     <Programs>
       <Task MainProgram="N">
         <Header Description="Pedidos Edit" ISN_2="1" LastIsn="1" id="53">
-          <LastModified _date="739456" _time="31269" date="24/07/2025" time="08:41:09"/>
+          <LastModified _date="739456" _time="62681" date="24/07/2025" time="17:24:41"/>
           <ExecutionRight comp="-1"/>
           <Resident val="N"/>
           <SQL val="N"/>
@@ -23,7 +23,7 @@
             <TSK_PARAMS val="2"/>
             <ParametersAttributes>
               <Attr MgAttr="N"/>
-              <Attr MgAttr="B"/>
+              <Attr MgAttr="A"/>
             </ParametersAttributes>
           </ReturnValue>
           <SqlWhereExist val="N"/>
@@ -34,7 +34,7 @@
           <FormType val="D"/>
           <DotNetObjectExists val="N"/>
         </Header>
-        <ItemIsn val="17"/>
+        <ItemIsn val="19"/>
         <Resource>
           <DB id="2">
             <DataObject comp="-1" obj="1"/>
@@ -62,6 +62,15 @@
               </PropertyList>
             </Column>
             <Column id="2" name="p.Edit_Order">
+              <PropertyList model="FIELD">
+                <Model attr_obj="FIELD_ALPHA" id="1"/>
+                <Picture id="157" valUnicode="1"/>
+                <Size id="174" val="1"/>
+                <_Flip id="194"/>
+                <_FieldStyle id="276" val="1"/>
+              </PropertyList>
+            </Column>
+            <Column id="3" name="Cliente_Existe">
               <PropertyList model="FIELD">
                 <Model attr_obj="FIELD_LOGICAL" id="1"/>
                 <_FieldStyle id="276" val="1"/>
@@ -238,7 +247,7 @@
                   <Type val="R"/>
                   <ExposedToRoute val="N"/>
                   <IsParameter val="N"/>
-                  <_DitIndexForToolkit val="15"/>
+                  <_DitIndexForToolkit val="16"/>
                   <DIFF_UPDATE val="T"/>
                   <Condition val="Y"/>
                   <Modifier val="S"/>
@@ -246,7 +255,31 @@
                 </Select>
               </LogicLine>
               <LogicLine>
-                <LNK Direction="A" EVL_CND="R" FlowIsn="19" Key="1" Mode="R" SortType="20" VIEW="8" VIEWS="2">
+                <Remark FlowIsn="26">
+                  <Type val="0"/>
+                  <Text val=" "/>
+                </Remark>
+              </LogicLine>
+              <LogicLine>
+                <Remark FlowIsn="27">
+                  <Type val="0"/>
+                  <Text val="Variaável para Sucess Indication da tabela de customers"/>
+                </Remark>
+              </LogicLine>
+              <LogicLine>
+                <Select FieldID="18" FlowIsn="25" id="18">
+                  <Column val="3"/>
+                  <Type val="V"/>
+                  <ExposedToRoute val="N"/>
+                  <IsParameter val="N"/>
+                  <DIFF_UPDATE val="T"/>
+                  <Condition val="Y"/>
+                  <Modifier val="S"/>
+                  <Direction val="C"/>
+                </Select>
+              </LogicLine>
+              <LogicLine>
+                <LNK Direction="A" EVL_CND="R" FieldID="18" FlowIsn="19" Key="1" Mode="R" SortType="20" VIEW="9" VIEWS="2">
                   <DB comp="-1" obj="1"/>
                   <Condition val="Y"/>
                 </LNK>
@@ -282,6 +315,43 @@
               </LogicLine>
             </LogicLines>
           </LogicUnit>
+          <LogicUnit id="6" propagate="78">
+            <Level val="H"/>
+            <Type val="U"/>
+            <Scope val="S"/>
+            <EngineDirective val="S"/>
+            <ShowMessage val="Y"/>
+            <Condition val="89"/>
+            <Event>
+              <EventType val="U"/>
+              <PublicObject comp="-1" obj="3"/>
+            </Event>
+            <ExecuteOn_ val="O"/>
+            <LogicLines>
+              <LogicLine>
+                <CallTask FlowIsn="37">
+                  <OperationType val="P"/>
+                  <Event>
+                    <EventType val="N"/>
+                  </Event>
+                  <TaskID comp="-1" obj="72"/>
+                  <Lock val="N"/>
+                  <Arguments>
+                    <Argument>
+                      <Variable val="3"/>
+                      <Skip val="N"/>
+                    </Argument>
+                  </Arguments>
+                  <Wait val="Y"/>
+                  <SyncData val="N"/>
+                  <RetainFocus val="N"/>
+                  <Condition val="Y"/>
+                  <Modifier val="B"/>
+                  <Direction val="C"/>
+                </CallTask>
+              </LogicLine>
+            </LogicLines>
+          </LogicUnit>
           <LogicUnit id="4" propagate="89">
             <Level val="H"/>
             <Type val="U"/>
@@ -309,9 +379,44 @@
               </LogicLine>
             </LogicLines>
           </LogicUnit>
+          <LogicUnit id="5" propagate="78">
+            <Level val="C"/>
+            <Type val="S"/>
+            <Scope val="S"/>
+            <EngineDirective val="S"/>
+            <ShowMessage val="Y"/>
+            <Condition val="89"/>
+            <Event>
+              <EventType val="S"/>
+            </Event>
+            <TXT val="Customer_Code"/>
+            <ExecuteOn_ val="O"/>
+            <LogicLines>
+              <LogicLine>
+                <Remark FlowIsn="29">
+                  <Type val="2"/>
+                  <Text val="Para impedir do cliente continuar o cadastro caso o sucess indication não encontre o registro"/>
+                </Remark>
+              </LogicLine>
+              <LogicLine>
+                <Remark FlowIsn="30">
+                  <Type val="2"/>
+                  <Text val="do cliente cadastrado na tabela de customers"/>
+                </Remark>
+              </LogicLine>
+              <LogicLine>
+                <STP Buttons="O" DefaultButton="1" ERR_LOG_DEF_CHG="N" FlowIsn="28" IMG_DEF_CHG="N" Image="C" Mode="E" TTL_DEF_CHG="N" TXT="Cliente não Existe" TitleTxt="Error" VR_DISP="B">
+                  <AppendToErrorLog val="Y"/>
+                  <Condition Exp="10"/>
+                  <Modifier val="B"/>
+                  <Direction val="C"/>
+                </STP>
+              </LogicLine>
+            </LogicLines>
+          </LogicUnit>
         </TaskLogic>
         <TaskForms>
-          <FormEntry _last_isn="16" _last_test_id="16" id="1">
+          <FormEntry _last_isn="17" _last_test_id="17" id="1">
             <PropertyList model="FORM_RICH_CLIENT">
               <Model comp="-1" id="1" obj="3"/>
               <Width id="23" val="215"/>
@@ -437,7 +542,7 @@
                 <Height id="24" val="12"/>
                 <Data FieldID="9" id="43"/>
                 <ControlName id="46" val="Customer_Name"/>
-                <TabOrder id="314" val="6"/>
+                <TabOrder id="314" val="7"/>
                 <AllowParking id="315"/>
               </PropertyList>
             </Control>
@@ -465,7 +570,7 @@
                 <Data FieldID="4" id="43"/>
                 <ControlName id="46" val="Amount"/>
                 <HorizontalAlignment id="65" val="2"/>
-                <TabOrder id="314" val="7"/>
+                <TabOrder id="314" val="8"/>
               </PropertyList>
             </Control>
             <Control _test_id="11" id="11">
@@ -517,6 +622,23 @@
                 <TabOrder id="314" val="2"/>
               </PropertyList>
             </Control>
+            <Control _test_id="17" id="17">
+              <PropertyList model="CTRL_RICH_CLIENT_PUSH_BUTTON">
+                <Model comp="-1" id="1" obj="17"/>
+                <Placement id="20" left="50"/>
+                <X id="21" val="80"/>
+                <Y id="22" val="103"/>
+                <Width id="23" val="10"/>
+                <Height id="24" val="8"/>
+                <Format id="82"/>
+                <ImageListFileName id="88" val="C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\images\Search.png"/>
+                <RaiseEvent id="234">
+                  <EventType val="U"/>
+                  <PublicObject comp="-1" obj="3"/>
+                </RaiseEvent>
+                <TabOrder id="314" val="6"/>
+              </PropertyList>
+            </Control>
             <Control PDOD="128" _test_id="10" id="10">
               <PropertyList model="CTRL_RICH_CLIENT_COMBOBOX">
                 <Model ID="MODEL_RICH_CLIENT" id="1">
@@ -530,7 +652,7 @@
                 <Data FieldID="5" id="43"/>
                 <ControlName id="46" val="Method_Of_Payment"/>
                 <_Style id="63" val="1"/>
-                <TabOrder id="314" val="8"/>
+                <TabOrder id="314" val="9"/>
               </PropertyList>
             </Control>
           </FormEntry>
@@ -541,7 +663,7 @@
             <ExpAttribute val="N"/>
           </Expression>
           <Expression id="2">
-            <ExpSyntax val="IF({0,7}, 'C'MODE, 'M'MODE)"/>
+            <ExpSyntax val="IF({0,7}='C', 'C'MODE, IF({0,7}='M','M'MODE,'E'MODE))"/>
             <ExpAttribute val="A"/>
           </Expression>
           <Expression id="3">
@@ -557,11 +679,15 @@
             <ExpAttribute val="N"/>
           </Expression>
           <Expression id="8">
-            <ExpSyntax val="IF({0,7}, 'Cadastro de Pedido', 'Editar Pedido')"/>
+            <ExpSyntax val="IF({0,7}='C', 'Cadastro de Pedido', 'Editar Pedido')"/>
             <ExpAttribute val="A"/>
           </Expression>
           <Expression id="9">
-            <ExpSyntax val="NOT {0,7}"/>
+            <ExpSyntax val="{0,7}='M' OR {0,7}='Q'"/>
+            <ExpAttribute val="B"/>
+          </Expression>
+          <Expression id="10">
+            <ExpSyntax val="NOT {0,18}"/>
             <ExpAttribute val="B"/>
           </Expression>
         </Expressions>
@@ -571,6 +697,11 @@
           </Event>
         </EVNT>
         <EVNT DESC="Deletar" FORCE_EXIT="N" id="2">
+          <Event>
+            <EventType val="N"/>
+          </Event>
+        </EVNT>
+        <EVNT DESC="SelectCliente" FORCE_EXIT="E" id="3">
           <Event>
             <EventType val="N"/>
           </Event>

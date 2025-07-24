@@ -14,7 +14,7 @@
     <Programs>
       <Task MainProgram="N">
         <Header Description="Pedidos" ISN_2="1" LastIsn="1" id="57">
-          <LastModified _date="739455" _time="60723" date="23/07/2025" time="16:52:03"/>
+          <LastModified _date="739456" _time="56125" date="24/07/2025" time="15:35:25"/>
           <ExecutionRight comp="-1"/>
           <Resident val="N"/>
           <SQL val="N"/>
@@ -252,7 +252,8 @@
                       <Skip val="N"/>
                     </Argument>
                     <Argument>
-                      <Skip val="Y"/>
+                      <Expression val="12"/>
+                      <Skip val="N"/>
                     </Argument>
                   </Arguments>
                   <Wait val="Y"/>
@@ -663,8 +664,8 @@
             <ExpAttribute val="N"/>
           </Expression>
           <Expression id="2">
-            <ExpSyntax val="'TRUE'LOG"/>
-            <ExpAttribute val="B"/>
+            <ExpSyntax val="'C'"/>
+            <ExpAttribute val="A"/>
           </Expression>
           <Expression id="3">
             <ExpSyntax val="{0,1}+1"/>
@@ -700,6 +701,10 @@
           </Expression>
           <Expression id="11">
             <ExpSyntax val="'&quot;'&amp;Trim({0,7})&amp;'&quot;'"/>
+            <ExpAttribute val="A"/>
+          </Expression>
+          <Expression id="12">
+            <ExpSyntax val="'M'"/>
             <ExpAttribute val="A"/>
           </Expression>
         </Expressions>
