@@ -14,7 +14,7 @@
     <Programs>
       <Task MainProgram="N">
         <Header Description="Fornecedores" ISN_2="1" LastIsn="1" id="62">
-          <LastModified _date="739454" _time="47445" date="22/07/2025" time="13:10:45"/>
+          <LastModified _date="739455" _time="60698" date="23/07/2025" time="16:51:38"/>
           <ExecutionRight comp="-1"/>
           <Resident val="N"/>
           <SQL val="N"/>
@@ -462,6 +462,7 @@
               <Height id="24" val="225"/>
               <_Comment id="218"/>
               <FormName id="311" valUnicode="Fornecedores"/>
+              <_ContextMenu comp="-1" id="442" obj="7"/>
               <NavigationDrawerMenu comp="-1" id="662" obj="5"/>
             </PropertyList>
             <Control _test_id="10" id="10">

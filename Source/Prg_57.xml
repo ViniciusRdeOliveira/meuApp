@@ -14,7 +14,7 @@
     <Programs>
       <Task MainProgram="N">
         <Header Description="Pedidos" ISN_2="1" LastIsn="1" id="57">
-          <LastModified _date="739454" _time="47473" date="22/07/2025" time="13:11:13"/>
+          <LastModified _date="739455" _time="60723" date="23/07/2025" time="16:52:03"/>
           <ExecutionRight comp="-1"/>
           <Resident val="N"/>
           <SQL val="N"/>
@@ -487,6 +487,7 @@
               <Wallpaper id="42" val="%WorkingDir%env\Wallpaper.jpg"/>
               <_Comment id="218"/>
               <FormName id="311" valUnicode="Pedidos"/>
+              <_ContextMenu comp="-1" id="442" obj="7"/>
               <WallpaperStyle id="448" val="5"/>
               <NavigationDrawerMenu comp="-1" id="662" obj="5"/>
             </PropertyList>

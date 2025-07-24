@@ -20,7 +20,7 @@
           <_FieldStyle id="276" val="1"/>
         </PropertyList>
       </Object>
-      <Object id="2" name="Name">
+      <Object id="2" name="Nome">
         <PropertyList model="FIELD">
           <Model attr_obj="FIELD_ALPHA" id="1"/>
           <Picture id="157" valUnicode="20"/>
@@ -48,31 +48,7 @@
           <Color id="51" val="6"/>
         </PropertyList>
       </Object>
-      <Object id="6" name="Country">
-        <PropertyList model="FIELD">
-          <Model attr_obj="FIELD_ALPHA" id="1"/>
-          <Picture id="157" valUnicode="20"/>
-          <Size id="174" val="20"/>
-          <_Flip id="194"/>
-        </PropertyList>
-      </Object>
-      <Object id="7" name="City">
-        <PropertyList model="FIELD">
-          <Model attr_obj="FIELD_ALPHA" id="1"/>
-          <Picture id="157" valUnicode="20"/>
-          <Size id="174" val="20"/>
-          <_Flip id="194"/>
-        </PropertyList>
-      </Object>
-      <Object id="8" name="Address">
-        <PropertyList model="FIELD">
-          <Model attr_obj="FIELD_ALPHA" id="1"/>
-          <Picture id="157" valUnicode="20"/>
-          <Size id="174" val="20"/>
-          <_Flip id="194"/>
-        </PropertyList>
-      </Object>
-      <Object id="9" name="Gold_Membership">
+      <Object id="9" name="Lógico">
         <PropertyList model="FIELD">
           <Model attr_obj="FIELD_LOGICAL" id="1"/>
           <_FieldStyle id="276" val="1"/>
@@ -97,26 +73,6 @@
           <Picture id="157" valUnicode="###-#######"/>
           <Size id="174" val="10"/>
           <_Flip id="194"/>
-        </PropertyList>
-      </Object>
-      <Object id="12" name="Year_Since_Start_Working">
-        <PropertyList model="FIELD">
-          <Model attr_obj="FIELD_NUMERIC" id="1"/>
-          <Picture id="157" valUnicode="2"/>
-          <_Dec id="181"/>
-          <_Whole id="182" val="2"/>
-          <_Negative id="192"/>
-          <_FieldStyle id="276" val="1"/>
-        </PropertyList>
-      </Object>
-      <Object id="13" name="Bonus">
-        <PropertyList model="FIELD">
-          <Model attr_obj="FIELD_NUMERIC" id="1"/>
-          <Picture id="157" valUnicode="3.2"/>
-          <_Dec id="181" val="2"/>
-          <_Whole id="182" val="3"/>
-          <_Negative id="192"/>
-          <_FieldStyle id="276" val="1"/>
         </PropertyList>
       </Object>
       <Object id="14" name="Display Only">
@@ -157,22 +113,6 @@
             <EventType val="I"/>
             <InternalEventID val="34"/>
           </RaiseEvent>
-        </PropertyList>
-      </Object>
-      <Object id="19" name="Country&amp;CityCode">
-        <PropertyList model="FIELD">
-          <Model attr_obj="FIELD_NUMERIC" id="1"/>
-          <Picture id="157" valUnicode="6"/>
-          <_Dec id="181"/>
-          <_Whole id="182" val="6"/>
-          <_Negative id="192"/>
-          <_FieldStyle id="276" val="1"/>
-          <RichClientTable id="454">
-            <PropertyList model="CTRL_RICH_CLIENT_EDIT">
-              <Font id="50" val="12"/>
-              <Color id="51" val="6"/>
-            </PropertyList>
-          </RichClientTable>
         </PropertyList>
       </Object>
       <Object id="20" name="Tables">

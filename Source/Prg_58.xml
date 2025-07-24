@@ -14,7 +14,7 @@
     <Programs>
       <Task MainProgram="N">
         <Header Description="Produtos" ISN_2="2" LastIsn="2" id="58">
-          <LastModified _date="739454" _time="60059" date="22/07/2025" time="16:40:59"/>
+          <LastModified _date="739456" _time="32128" date="24/07/2025" time="08:55:28"/>
           <ExecutionRight comp="-1"/>
           <Resident val="N"/>
           <SQL val="N"/>
@@ -328,6 +328,7 @@
               <Height id="24" val="312"/>
               <_Comment id="218"/>
               <FormName id="311" valUnicode="Produtos"/>
+              <_ContextMenu comp="-1" id="442" obj="7"/>
             </PropertyList>
             <Control _test_id="2" id="2">
               <PropertyList model="CTRL_RICH_CLIENT_LABEL">
@@ -450,7 +451,7 @@
         </Expressions>
         <Task MainProgram="N">
           <Header Description="Produtos" ISN_2="1" LastIsn="2" id="58">
-            <LastModified _date="739454" _time="60059" date="22/07/2025" time="16:40:59"/>
+            <LastModified _date="739456" _time="32128" date="24/07/2025" time="08:55:28"/>
             <ExecutionRight comp="-1"/>
             <Resident val="N"/>
             <SQL val="N"/>
@@ -1012,11 +1013,11 @@
               <Control _test_id="2" id="2">
                 <PropertyList model="CTRL_RICH_CLIENT_LABEL">
                   <Model comp="-1" id="1" obj="21"/>
-                  <Text id="19" valUnicode="Lista de Produtos"/>
+                  <Text id="19" valUnicode="Dados de Produto"/>
                   <Placement id="20" left="50"/>
-                  <X id="21" val="156"/>
+                  <X id="21" val="155"/>
                   <Y id="22" val="16"/>
-                  <Width id="23" val="186"/>
+                  <Width id="23" val="190"/>
                   <Height id="24" val="27"/>
                   <_Orientation id="143"/>
                 </PropertyList>

@@ -1157,10 +1157,12 @@
  <439406678543753536> 22/07/2025 14:51:37.731     [Error  ] - Aborting context 439406678543753536, Program: "Main Program".
  <473983086841333312> 22/07/2025 16:29:19.439     [Error  ] - Aborting context 473983086841333312, Program: "Main Program".
  <342495508853844352> 22/07/2025 16:41:32.525     [Error  ] - Aborting context 342495508853844352, Program: "Main Program".
- <104036854040399792> 23/07/2025 14:27:14.179     [Error  ] - Aborting context 104036854040399792, Program: "Main Program".
- <75503196113312336> 23/07/2025 14:30:00.113     [Error  ] - Aborting context 75503196113312336, Program: "Main Program".
- <526687388609820160> 23/07/2025 15:09:00.126     [Error  ] - Aborting context 526687388609820160, Program: "Main Program".
- <197629480081820832> 23/07/2025 15:10:24.101     [Error  ] - Aborting context 197629480081820832, Program: "Main Program".
- <-1> 23/07/2025 15:55:19.723     [Error  ] - Error - run-time engine was not found. Please restart the studio in order to run the application
- <362134149722427200> 23/07/2025 16:00:02.551     [Error  ] - Duplicate Index, Data Source: Orders  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\meuApp\", Program: "<<< Iniciar".
- <362134149722427200> 23/07/2025 16:00:12.086     [Error  ] - Aborting context 362134149722427200, Program: "Main Program".
+ <115902726392843776> 23/07/2025 16:58:00.652     [Error  ] - Aborting context 115902726392843776, Program: "Main Program".
+ <225810402782379072> 23/07/2025 17:03:04.926     [Error  ] - Aborting context 225810402782379072, Program: "Main Program".
+ <513621308491638144> 23/07/2025 17:04:00.335     [Error  ] - Aborting context 513621308491638144, Program: "Main Program".
+ <355802999582930752> 23/07/2025 17:07:34.453     [Error  ] - Aborting context 355802999582930752, Program: "Main Program".
+ <366769260416662208> 23/07/2025 17:11:23.152     [Error  ] - Aborting context 366769260416662208, Program: "Main Program".
+ <360227896007290240> 23/07/2025 17:13:05.866     [Error  ] - Aborting context 360227896007290240, Program: "Main Program".
+ <-1> 24/07/2025 08:22:23.820     [Error  ] - Error - run-time engine was not found. Please restart the studio in order to run the application
+ <231251862883240832> 24/07/2025 08:38:07.095     [Error  ] - Aborting context 231251862883240832, Program: "Main Program".
+ <61809348975195304> 24/07/2025 08:47:10.789     [Error  ] - Aborting context 61809348975195304, Program: "Main Program".
